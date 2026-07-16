@@ -243,7 +243,7 @@ ploteggsnum <- ggplot(data = dataeggs, aes(x = Orientation, y = Number.eggs.laid
     legend.key = element_rect(fill = "white", color = "white")
   )
 print(ploteggsnum)
-graph2ppt(file="Figure2.pptx", width=8, height=6) 
+graph2ppt(file="../Figures/Figure2.pptx", width=8, height=6) 
 ```
 
 # ANALYSIS 3: Hatching success and orientation
@@ -322,7 +322,7 @@ hatchedplotfull <- ggplot(summhatsucc, aes(x = Orientation, y = prop, fill = fac
             position = position_stack(vjust = 0.5), size = 5) +
   scale_fill_manual(values = c("lightblue","skyblue2", "royalblue3"), labels = c("Unoccupied","Failed", "Hatched"))
 print(hatchedplotfull)
-graph2ppt(file="Figure3.pptx", width=8, height=6)
+graph2ppt(file="../Figures/Figure3.pptx", width=8, height=6)
 ```
 
 # End
