@@ -50,7 +50,7 @@ on nest-box occupancy, generalized additive models (GAMs) were used to evaluate
 potential non-linear relationships between occupancy and time.
 
 The following steps prepare the dataset for analysis: 
-1. Convert variables to factors. 
+1.Convert variables to factors. 
 2.Generate date and day-of-year variables using **lubridate**. 
 3.Restrict the dataset to the main breeding period (15 April–1 June 2023). 
 4.Convert nest-box status into a binary occupancy variable.
