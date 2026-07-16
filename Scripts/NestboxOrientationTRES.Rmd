@@ -217,7 +217,7 @@ abline(h = 0, lty = 2)
 ```
 
 ## Figure 2
-Number of eggs laid in nest boxes facing each cardinal direction. Each point represents an individual nest box, while box-and-whisker plots summarize the distribution of clutch sizes within each orientation. Nest boxes showing clear evidence of depredation were excluded from the analysis. For example, although 20 north-facing boxes initially contained at least one egg, three were predated and were therefore excluded.
+Number of eggs laid in nest boxes facing each cardinal direction. Each point represents an individual nest box, while box-and-whisker plots summarize the distribution of clutch sizes within each orientation. Nest boxes showing clear evidence of predation were excluded from the analysis. For example, although 20 north-facing boxes initially contained at least one egg, three were predated and were therefore excluded.
 
 ```{r, plot-fig2}
 ploteggsnum <- ggplot(data = dataeggs, aes(x = Orientation, y = Number.eggs.laid)) +
@@ -299,7 +299,7 @@ testOutliers(sim)
 ```
 
 ## Figure 3
-  Nest outcomes across the four nest-box entrance orientations. Nest boxes were classified as hatched (dark shade) when at least one egg hatched. Failed nests (medium shade) were those in which eggs were laid but failed to hatch, while the adults retained the nest box. Unoccupied boxes (light shade) included nest boxes that were never occupied during the breeding season or were abandoned following a depredation even.
+  Nest outcomes across the four nest-box entrance orientations. Nest boxes were classified as hatched (dark shade) when at least one egg hatched. Failed nests (medium shade) were those in which eggs were laid but failed to hatch, while the adults retained the nest box. Unoccupied boxes (light shade) included nest boxes that were never occupied during the breeding season or were abandoned following a predation event.
 
 ```{r, plot-3}
 summhatsucc <- read.csv("../Data/summhatchsucc.csv")
