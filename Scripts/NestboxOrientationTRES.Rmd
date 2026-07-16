@@ -1,0 +1,324 @@
+---
+title: "Nest orientation analysis in Tree Swallows"
+author: "Jared Gladbach, 
+        Kamau Braxton-Hall,
+        Mackenzie Alderson,
+        Camilo Alfonso,
+        Miguel Cesar Moreno-Palacios,
+        Ignacio Moore"
+date: "`r Sys.Date()`"
+output: html_document
+output_dir: ../Output
+---
+
+# Overview
+
+This project investigates the relationship between nest box entrance orientaion and nest-box occupancy, clutch size, and hatching success in the Tree swallows. All analyses were conducted in R Core Team 2024 and the code included data preparation, model fitting, diagnostic test, and figure graphing.   
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      warning = FALSE,
+                      message = FALSE)
+
+library(lubridate)
+library(mgcv) 
+library(gratia) 
+library(ggplot2) 
+library(dplyr) 
+library(export) 
+library(effects)
+library(lsmeans)
+library(emmeans)
+library(lme4)
+library(lmerTest)
+library(AICcmodavg)
+library(statmod)
+library(DHARMa)
+library(car)
+
+```
+
+# ANALYSIS 1: Seasonal occupancy patterns
+
+## Objective
+
+This analysis tests whether nest-box occupancy changes over the breeding season
+and whether this temporal pattern differs among nest entrance orientations.
+
+Because preliminary linear analyses did not detect an effect of day of the year
+on nest-box occupancy, generalized additive models (GAMs) were used to evaluate
+potential non-linear relationships between occupancy and time.
+
+The following steps prepare the dataset for analysis: 1. Convert variables to factors. 2.Generate date and day-of-year variables using **lubridate**. 3.Restrict the dataset to the main breeding period (15 April–1 June 2023). 4.Convert nest-box status into a binary occupancy variable.
+
+
+```{r, import-data1}
+tres <-read.csv("../Data/tres.csv")
+
+tres$orientation <- as.factor(tres$orientation)
+tres$nest.status <- as.factor(tres$nest.status)
+tres$locality <- as.factor(tres$locality)
+tres$box.num <- as.factor(tres$box.num)
+tres$species <- as.factor(tres$species)
+
+tres$date2 <- dmy(paste(tres$day,tres$month,tres$year))
+tres$date2 <- as.Date(as.character(tres$date2), format = "%Y-%m-%d")
+tres$doy <- yday(tres$date2) ## day of the year
+tres$woy <- week(tres$date2)
+
+tres2 <- tres[tres$date2 >= "2023-04-15" & tres$date2 <= "2023-06-01", ]
+```
+
+Nest-box status was converted into a binary occupancy variable
+(1 = active nest with eggs, chicks, or fledglings; 0 = inactive nest).
+
+```{r, if-else}
+tres2$status2 = if_else(tres2$nest.status == "Available", 0,
+                        if_else(tres2$nest.status == "Start", 0,
+                        if_else(tres2$nest.status == "Medium", 0,
+                        if_else(tres2$nest.status == "Complete", 0,
+                        if_else(tres2$nest.status == "Eggs", 1,
+                        if_else(tres2$nest.status == "Chicks", 1,
+                        if_else(tres2$nest.status == "Fledged", 1,
+                        if_else(tres2$nest.status == "Failed", 0, false=NA))))))))
+tres2$status2 <- replace(tres2$status2,is.na(tres2$status2),0)
+```
+
+## Model setup
+
+A simple GAM describing seasonal occupancy was compared with a more complex model including nest orientation, locality, and random effects for nest box.
+
+```{r, fit-gams}
+GAM_TRES <- gam(status2 ~ s(doy, k=-1),
+                family = "binomial", 
+                data=tres2, 
+                method = "REML") # method: REML Restricted Maximum Likelihood
+
+GAM_TRES2 <- gam(status2 ~ s(doy, by=orientation, k=-1)
+                 + orientation # interaction time by orientation
+                 + locality # fixed effect of locality
+                 + s(box.num, bs="re"), # control random effect of boxes
+                 family = "binomial", 
+                 data=tres2, 
+                 method = "REML") 
+
+```
+
+## Model summaries and interpretation
+Average nest occupancy did not differ among entrance orientations (parametric effects), but occupancy changed significantly through the breeding season in a non-linear manner within each orientation (smooth terms). 
+
+```{r, model-summaries}
+summary(GAM_TRES)
+check_result <- gam.check(GAM_TRES2) 
+summary(GAM_TRES2)
+anova(GAM_TRES, GAM_TRES2, test = "Chisq") 
+```
+
+## Figure 1
+Date that the first egg was laid in each box. Boxes show the interquartile range of egg laying days while the whiskers represent the full range of days when eggs were laid
+
+```{r, plot-fig1}
+first.egg <- read.csv("../Data/firstegg.csv")
+first.egg$First.egg <- as.Date(first.egg$First.egg) 
+first.egg$doy <- yday(first.egg$First.egg)
+first.egg$Orientation <- as.factor(first.egg$Orientation)
+first.egg$Orientation <- factor(first.egg$Orientation, levels = c("West", "South", "East", "North"))
+boxploteggs <- ggplot(data = first.egg, aes(x = doy, y = Orientation)) +
+  geom_boxplot(fill = NA, color = "black") +
+  geom_jitter(aes(fill = Orientation), shape = 21, size = 4, width = 0.1) + 
+  xlab("Julian date") +
+  scale_y_discrete(labels = c(
+    "West (n = 15)",
+    "South (n = 10)",
+    "East (n = 16)",
+    "North (n = 20)"
+  )) +
+  theme_bw() +
+  theme(axis.title = element_text(size = 20),
+        axis.text = element_text(size = 20),
+        panel.grid = element_blank(),
+        axis.line = element_line(),
+        axis.text.x = element_text(angle = 0, hjust = 0.5),
+        legend.position = "none") +
+  guides(fill = guide_legend(reverse = TRUE))
+print(boxploteggs)
+graph2ppt(file="../Figures/Figure1.pptx", width=8, height=6)  
+```
+
+# ANALYSIS 2: Clutch size and orientation
+
+## Objective
+
+This model tests whether the number of eggs laid per nest box is associated with nest-box orientation while controlling for laying date (Julian day) and accounting for differences among the three study locations
+This process contains: 1. We Import data and prepare variables for the analysis. 2.Standardize Julian day to improve model fitting and interpretation. 3. Set the order of orientation levels and use West as the reference category
+
+```{r, import-data2}
+
+dataeggs <- read.csv("../Data/dataeggs.csv")
+hist(dataeggs$Number.eggs.laid)
+dataeggs$Percentage.eggs.hatched <- as.numeric(dataeggs$Percentage.eggs.hatched)
+dataeggs$First.egg <- mdy(dataeggs$First.egg)
+dataeggs$julianfegg <- yday(dataeggs$First.egg)
+dataeggs$Location <- as.factor(dataeggs$Location)
+dataeggs$Box.number <- as.factor(dataeggs$Box.number)
+dataeggs$Orientation <- as.factor(dataeggs$Orientation)
+dataeggs$julian_z <- scale(dataeggs$julianfegg)
+dataeggs$Orientation <- factor(dataeggs$Orientation, levels = c("North", "East", "South", "West"))
+```
+
+## Linear models and possible GLMMS 
+This is a linear Model comparing the number of eggs laid within the four orientations. We also ran a Generalized Linear Mixed Model including fixed effects as Julian date and random effects as location. We set first "Orientation" as unordered categorical variable since compass directions are categories not rankings. North facing boxes are fixed as the reference because our hypothesis focus on south and east boxes. 
+
+```{r, fit-lms}
+dataeggs$Orientation <- factor(dataeggs$Orientation, ordered = FALSE) 
+dataeggs$Orientation <- relevel(dataeggs$Orientation, ref = "North")
+numbeggs <- lm(Number.eggs.laid~Orientation, data = dataeggs)
+numbeggs2 <- lm(Number.eggs.laid~Orientation+julian_z, data = dataeggs)
+numbeggs3 <- lm(Number.eggs.laid~Orientation+julian_z+Location, data = dataeggs)
+glmmnumbegg <- lmer(Number.eggs.laid~Orientation+julian_z+(1|Location), data = dataeggs)
+
+```
+
+## Evaluating model's AIC and ANOVAs
+We evaluate if models that included Julian date of first egg laid and location performed better than just clutch size and orientation. We also considered location as a random effect with a GLMM. The model with smaller AIC only included the relationship between clutch size and orientation controlled by Julian day of the first egg laid. 
+
+```{r, AIC-ANOVA}
+AIC(numbeggs,numbeggs2,numbeggs3,glmmnumbegg)
+anova(numbeggs,numbeggs2)
+anova(numbeggs2,numbeggs3)
+```
+
+## Summary and interpretation
+The linear model indicates that south-facing nest boxes had significantly smaller clutch sizes than north-facing boxes after accounting for the effect of Julian date. Clutch sizes in east- and west-facing boxes does not differ significantly from those in north-facing boxes.
+
+```{r, fit-glmms}
+summary(numbeggs2)
+
+```
+
+## Residuals and homogeneity
+Model assumptions are evaluated by examining the normality of residuals and homogeneity of variance.
+
+```{r, residuals}
+#GLM
+resids<- residuals(numbeggs2)
+shapiro.test(resids)
+qqnorm(resids)
+qqline(resids, col = "red")
+plot(fitted(numbeggs2),
+     residuals(numbeggs2),
+     xlab = "Fitted values",
+     ylab = "Residuals")
+abline(h = 0, lty = 2)
+```
+
+## Figure 2
+Number of eggs laid in nest boxes facing each cardinal direction. Each point represents an individual nest box, while box-and-whisker plots summarize the distribution of clutch sizes within each orientation. Nest boxes showing clear evidence of depredation were excluded from the analysis. For example, although 20 north-facing boxes initially contained at least one egg, three were predated and were therefore excluded.
+
+```{r, plot-fig2}
+ploteggsnum <- ggplot(data = dataeggs, aes(x = Orientation, y = Number.eggs.laid)) +
+  geom_jitter(aes(color = Orientation), size = 4, alpha = 0.6, width = 0.2) +  
+  geom_boxplot(outlier.colour = "blue", alpha=0) +  # Make boxplot translucent
+  ylab("Number of laid eggs") +
+  xlab("Orientation") +
+  scale_color_manual(values=c("North" = "#C77CFF", 
+                              "East" = "#00BFC4", 
+                              "South" = "#7CAE00", 
+                              "West" = "#F8766D")) +
+  theme_bw() +
+  theme(
+    axis.title = element_text(size = 18),
+    axis.text = element_text(size = 15),
+    panel.grid = element_blank(),
+    axis.line = element_line(),
+    axis.text.x = element_text(),
+    legend.position = "bottom",
+    legend.title = element_blank(),
+    legend.text = element_text(size = 15),
+    legend.background = element_blank(),
+    legend.key = element_rect(fill = "white", color = "white")
+  )
+print(ploteggsnum)
+graph2ppt(file="Figure2.pptx", width=8, height=6) 
+```
+
+# ANALYSIS 3: Hatching success and orientation
+
+## Objective
+
+This model tests whether hatching success is associated with nest-box orientation. Hatching success is treated as a binary response, where a nest box is considered successful if at least one egg hatched and the chick was alive during nest checks. Nest boxes that were predated during the egg stage were excluded from this analysis.
+
+## Filtering database
+
+Filtering the database to obtain hatching success.
+
+```{r, Data-filtering}
+dataeggs %>%
+  filter(Predated_as_eggs=="0") -> hat.succ
+```
+
+## Model set ups for hatching success
+A binomial liner model of hatching success and orientation. Hatching success is defined as a binomial variable. Comparative models also include Julian day of the first egg laid and Location. Location is also considered as a random effect in a GLMMM
+
+```{r, fit-lm2}
+hatch1 <- glm(Hatched ~ Orientation, family = binomial, data = hat.succ)
+hatch2 <- glm(Hatched ~ Orientation + julian_z, family = binomial, data=hat.succ)
+hatch3 <- glm(Hatched ~ Orientation + julian_z + Location, family = binomial, data = hat.succ)
+hatchmodel_glmm <- glmer(Hatched ~ Orientation + julian_z + (1 | Location),family = binomial, data = hat.succ)
+```
+
+## Model comparison with ANOVAS and AIC values
+Candidate models are compared using Akaike's Information Criterion (AIC) and likelihood ratio tests (ANOVAs) to identify the most parsimonious model. The model including nest-box orientation and Julian date has the lowest AIC and is selected as the final model. Adding Location did not improve model fit neither is consider a significant random effect.
+
+```{r, ANOVAS-AIC2}
+AIC(hatchmodel_glmm,hatch1,hatch2,hatch3)
+anova(hatch1,hatch2)
+anova(hatch2,hatch3)
+anova(hatch1,hatch3)
+```
+
+## Summary and interpretation
+Relative to north-facing boxes, south-facing boxes show the lowest probability of hatching success. Of the eight south-facing nest boxes, only one produced hatchlings, whereas seven failed before hatching. East- and west-facing boxes do not differ significantly from north-facing boxes. Boxes that have a later Julian day of the first egg laid have also a lower probability of hatching. Although the coefficient for Julian day is only marginally significant in the model summary.
+
+```{r, Summary-mod3}
+summary(hatch2)
+```
+
+## Model residuals-Analysis 3
+Model assumptions are evaluated using simulated residuals from the DHARMa package. The QQ plot follows the expected distribution, and diagnostic tests show no evidence of non-uniformity, overdispersion, or outliers.
+
+```{r, Model_residuals-nomrality}
+sim <- simulateResiduals(hatch2)
+plot(sim)
+testDispersion(sim)
+testOutliers(sim)
+```
+
+## Figure 3
+  Nest outcomes across the four nest-box entrance orientations. Nest boxes were classified as hatched (dark shade) when at least one egg hatched. Failed nests (medium shade) were those in which eggs were laid but failed to hatch, while the adults retained the nest box. Unoccupied boxes (light shade) included nest boxes that were never occupied during the breeding season or were abandoned following a depredation even.
+
+```{r, plot-3}
+summhatsucc <- read.csv("../Data/summhatchsucc.csv")
+summhatsucc$Orientation <- factor(summhatsucc$Orientation, levels = c("North", "East", "South", "West"))
+
+hatchedplotfull <- ggplot(summhatsucc, aes(x = Orientation, y = prop, fill = factor(Occupied))) +
+  geom_bar(stat = "identity", position = "fill") +
+  ylab("Proportion of occupied boxes") +
+  xlab("Orientation") +
+  theme_bw() +
+  theme(
+    axis.title = element_text(size = 18),
+    axis.text = element_text(size = 15),
+    panel.grid = element_blank(),
+    axis.line = element_line(),
+    axis.text.x = element_text()
+  ) +
+  # Adding percentage labels inside bars
+  geom_text(aes(label = n), 
+            position = position_stack(vjust = 0.5), size = 5) +
+  scale_fill_manual(values = c("lightblue","skyblue2", "royalblue3"), labels = c("Unoccupied","Failed", "Hatched"))
+print(hatchedplotfull)
+graph2ppt(file="Figure3.pptx", width=8, height=6)
+```
+
+# End

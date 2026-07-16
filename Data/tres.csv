@@ -1,0 +1,3982 @@
+box.num,locality,orientation,month,day,year,nest.status,species,eggs,chicks
+33R,Railroad,West,2,19,2023,Available ,NONE,0,0
+33R,Railroad,West,2,26,2023,Available ,NONE,0,0
+33R,Railroad,West,2,28,2023,Available ,NONE,0,0
+33R,Railroad,West,3,16,2023,Available ,NONE,0,0
+33R,Railroad,West,3,19,2023,Available ,NONE,0,0
+33R,Railroad,West,3,23,2023,Available ,NONE,0,0
+33R,Railroad,West,3,26,2023,Available ,NONE,0,0
+33R,Railroad,West,3,30,2023,Available ,NONE,0,0
+33R,Railroad,West,4,2,2023,Available ,NONE,0,0
+33R,Railroad,West,4,6,2023,Available ,NONE,0,0
+33R,Railroad,West,4,9,2023,Available ,NONE,0,0
+33R,Railroad,West,4,13,2023,Available ,NONE,0,0
+33R,Railroad,West,4,16,2023,Available ,NONE,0,0
+33R,Railroad,West,4,20,2023,Available ,NONE,0,0
+33R,Railroad,West,4,23,2023,Available ,NONE,0,0
+33R,Railroad,West,4,27,2023,Available ,NONE,0,0
+33R,Railroad,West,4,29,2023,Available ,NONE,0,0
+33R,Railroad,West,5,4,2023,Available ,NONE,0,0
+33R,Railroad,West,5,7,2023,Available ,NONE,0,0
+33R,Railroad,West,5,11,2023,Available ,NONE,0,0
+33R,Railroad,West,5,14,2023,Available ,NONE,0,0
+33R,Railroad,West,5,18,2023,Available ,NONE,0,0
+33R,Railroad,West,5,21,2023,Available ,NONE,0,0
+33R,Railroad,West,5,23,2023,Available ,NONE,0,0
+33R,Railroad,West,5,25,2023,Available ,NONE,0,0
+33R,Railroad,West,5,27,2023,Available ,NONE,0,0
+33R,Railroad,West,5,29,2023,Available ,NONE,0,0
+33R,Railroad,West,5,31,2023,Available ,NONE,0,0
+33R,Railroad,West,6,2,2023,Available ,NONE,0,0
+33R,Railroad,West,6,5,2023,Available ,NONE,0,0
+33R,Railroad,West,6,7,2023,Available ,NONE,0,0
+33R,Railroad,West,6,9,2023,Available ,NONE,0,0
+33R,Railroad,West,6,12,2023,Available ,NONE,0,0
+33R,Railroad,West,6,14,2023,Available ,NONE,0,0
+33R,Railroad,West,6,16,2023,Available ,NONE,0,0
+33R,Railroad,West,6,19,2023,Available ,NONE,0,0
+33R,Railroad,West,6,21,2023,Available ,NONE,0,0
+33R,Railroad,West,6,23,2023,Available ,NONE,0,0
+33R,Railroad,West,6,26,2023,Available ,NONE,0,0
+33R,Railroad,West,6,28,2023,Available ,NONE,0,0
+33R,Railroad,West,6,30,2023,Available ,NONE,0,0
+33R,Railroad,West,7,3,2023,Available ,NONE,0,0
+33R,Railroad,West,7,5,2023,Available ,NONE,0,0
+33R,Railroad,West,7,7,2023,Available ,NONE,0,0
+33R,Railroad,West,7,10,2023,Available ,NONE,0,0
+33R,Railroad,West,7,12,2023,Available ,NONE,0,0
+33R,Railroad,West,7,14,2023,Available ,NONE,0,0
+33R,Railroad,West,7,17,2023,Available ,NONE,0,0
+34R,Railroad,South,2,19,2023,Available ,NONE,0,0
+34R,Railroad,South,2,26,2023,Available ,NONE,0,0
+34R,Railroad,South,2,28,2023,Available ,NONE,0,0
+34R,Railroad,South,3,16,2023,Available ,NONE,0,0
+34R,Railroad,South,3,19,2023,Available ,NONE,0,0
+34R,Railroad,South,3,23,2023,Available ,NONE,0,0
+34R,Railroad,South,3,26,2023,Available ,NONE,0,0
+34R,Railroad,South,3,30,2023,Available ,NONE,0,0
+34R,Railroad,South,5,23,2023,Available ,NONE,0,0
+34R,Railroad,South,5,25,2023,Available ,NONE,0,0
+34R,Railroad,South,5,27,2023,Available ,NONE,0,0
+34R,Railroad,South,5,29,2023,Available ,NONE,0,0
+34R,Railroad,South,5,31,2023,Available ,NONE,0,0
+34R,Railroad,South,6,2,2023,Available ,NONE,0,0
+34R,Railroad,South,7,12,2023,Available,NONE,0,0
+34R,Railroad,South,7,14,2023,Available,NONE,0,0
+34R,Railroad,South,7,17,2023,Available,NONE,0,0
+35R,Railroad,East,2,19,2023,Available ,NONE,0,0
+35R,Railroad,East,2,26,2023,Available ,NONE,0,0
+35R,Railroad,East,2,28,2023,Available ,NONE,0,0
+35R,Railroad,East,3,16,2023,Available ,NONE,0,0
+35R,Railroad,East,3,19,2023,Available ,NONE,0,0
+35R,Railroad,East,3,23,2023,Available ,NONE,0,0
+35R,Railroad,East,3,26,2023,Available ,NONE,0,0
+35R,Railroad,East,3,30,2023,Available ,NONE,0,0
+35R,Railroad,East,4,2,2023,Available ,NONE,0,0
+35R,Railroad,East,4,6,2023,Start,TRES,0,0
+35R,Railroad,East,4,9,2023,Start,TRES,0,0
+35R,Railroad,East,4,13,2023,Start,TRES,0,0
+35R,Railroad,East,4,16,2023,Medium,TRES,0,0
+35R,Railroad,East,4,20,2023,Complete,TRES,0,0
+35R,Railroad,East,4,23,2023,Complete,TRES,0,0
+35R,Railroad,East,4,27,2023,Complete,TRES,0,0
+35R,Railroad,East,4,29,2023,Eggs,TRES,4,0
+35R,Railroad,East,5,4,2023,Eggs,TRES,4,0
+35R,Railroad,East,5,7,2023,Eggs,TRES,5,0
+35R,Railroad,East,5,11,2023,Eggs,TRES,5,0
+35R,Railroad,East,5,14,2023,Eggs,TRES,5,0
+35R,Railroad,East,5,18,2023,Chicks,TRES,0,4
+35R,Railroad,East,5,21,2023,Chicks,TRES,0,4
+35R,Railroad,East,5,23,2023,Chicks,TRES,0,4
+35R,Railroad,East,5,25,2023,Chicks,TRES,0,4
+35R,Railroad,East,5,27,2023,Chicks,TRES,0,4
+35R,Railroad,East,5,29,2023,Chicks,TRES,0,4
+35R,Railroad,East,5,31,2023,Chicks,TRES,0,4
+35R,Railroad,East,6,2,2023,Fledged,TRES,0,3
+35R,Railroad,East,6,5,2023,Fledged,TRES,0,0
+35R,Railroad,East,6,7,2023,Available,NONE,0,0
+35R,Railroad,East,6,9,2023,Available,NONE,0,0
+35R,Railroad,East,6,12,2023,Available,NONE,0,0
+35R,Railroad,East,6,14,2023,Available,NONE,0,0
+35R,Railroad,East,6,16,2023,Available,NONE,0,0
+35R,Railroad,East,6,19,2023,Available,NONE,0,0
+35R,Railroad,East,6,21,2023,Available,NONE,0,0
+35R,Railroad,East,6,23,2023,Available,NONE,0,0
+35R,Railroad,East,6,26,2023,Available,NONE,0,0
+35R,Railroad,East,6,28,2023,Available,NONE,0,0
+35R,Railroad,East,6,30,2023,Available,NONE,0,0
+35R,Railroad,East,7,3,2023,Available,NONE,0,0
+35R,Railroad,East,7,5,2023,Available,NONE,0,0
+35R,Railroad,East,7,7,2023,Available,NONE,0,0
+35R,Railroad,East,7,10,2023,Available,NONE,0,0
+35R,Railroad,East,7,12,2023,Available,NONE,0,0
+35R,Railroad,East,7,14,2023,Available,NONE,0,0
+35R,Railroad,East,7,17,2023,Available,NONE,0,0
+36R,Railroad,North,2,19,2023,Available ,NONE,0,0
+36R,Railroad,North,2,26,2023,Available ,NONE,0,0
+36R,Railroad,North,2,28,2023,Available ,NONE,0,0
+36R,Railroad,North,3,16,2023,Available ,NONE,0,0
+36R,Railroad,North,3,19,2023,Available ,NONE,0,0
+36R,Railroad,North,3,23,2023,Available ,NONE,0,0
+36R,Railroad,North,3,26,2023,Available ,NONE,0,0
+36R,Railroad,North,3,30,2023,Available ,NONE,0,0
+36R,Railroad,North,4,2,2023,Available ,NONE,0,0
+36R,Railroad,North,4,6,2023,Start,TRES,0,0
+36R,Railroad,North,4,9,2023,Start,TRES,0,0
+36R,Railroad,North,4,13,2023,Start,TRES,0,0
+36R,Railroad,North,4,16,2023,Start,TRES,0,0
+36R,Railroad,North,4,20,2023,Medium,TRES,0,0
+36R,Railroad,North,4,23,2023,Medium,TRES,0,0
+36R,Railroad,North,4,27,2023,Complete,TRES,0,0
+36R,Railroad,North,4,29,2023,Eggs,TRES,1,0
+36R,Railroad,North,5,4,2023,Eggs,TRES,5,0
+36R,Railroad,North,5,7,2023,Eggs,TRES,5,0
+36R,Railroad,North,5,11,2023,Eggs,TRES,5,0
+36R,Railroad,North,5,14,2023,Eggs,TRES,6,0
+36R,Railroad,North,5,18,2023,Eggs,TRES,6,0
+36R,Railroad,North,5,21,2023,Chicks,TRES,0,6
+36R,Railroad,North,5,23,2023,Chicks,TRES,0,6
+36R,Railroad,North,5,25,2023,Chicks,TRES,0,6
+36R,Railroad,North,5,27,2023,Chicks,TRES,0,5
+36R,Railroad,North,5,29,2023,Chicks,TRES,0,5
+36R,Railroad,North,5,31,2023,Chicks,TRES,0,5
+36R,Railroad,North,6,2,2023,Chicks,TRES,0,5
+36R,Railroad,North,6,5,2023,Chicks,TRES,0,5
+36R,Railroad,North,6,7,2023,Fledged,TRES,0,0
+36R,Railroad,North,6,9,2023,Available,NONE,0,0
+36R,Railroad,North,6,12,2023,Available,NONE,0,0
+36R,Railroad,North,6,14,2023,Available,NONE,0,0
+36R,Railroad,North,6,16,2023,Available,NONE,0,0
+36R,Railroad,North,6,19,2023,Available,NONE,0,0
+36R,Railroad,North,6,21,2023,Available,NONE,0,0
+36R,Railroad,North,6,23,2023,Available,NONE,0,0
+36R,Railroad,North,6,26,2023,Available,NONE,0,0
+36R,Railroad,North,6,28,2023,Available,NONE,0,0
+36R,Railroad,North,6,30,2023,Available,NONE,0,0
+36R,Railroad,North,7,3,2023,Available,NONE,0,0
+36R,Railroad,North,7,5,2023,Available,NONE,0,0
+36R,Railroad,North,7,7,2023,Available,NONE,0,0
+36R,Railroad,North,7,10,2023,Available,NONE,0,0
+36R,Railroad,North,7,12,2023,Available,NONE,0,0
+36R,Railroad,North,7,14,2023,Available,NONE,0,0
+36R,Railroad,North,7,17,2023,Available,NONE,0,0
+37R,Railroad,West,2,19,2023,Available ,NONE,0,0
+37R,Railroad,West,2,26,2023,Available ,NONE,0,0
+37R,Railroad,West,2,28,2023,Available ,NONE,0,0
+37R,Railroad,West,3,16,2023,Available ,NONE,0,0
+37R,Railroad,West,3,19,2023,Available ,NONE,0,0
+37R,Railroad,West,3,23,2023,Available ,NONE,0,0
+37R,Railroad,West,3,26,2023,Start,TRES,0,0
+37R,Railroad,West,3,30,2023,Start,TRES,0,0
+37R,Railroad,West,4,2,2023,Start,TRES,0,0
+37R,Railroad,West,4,6,2023,Start,TRES,0,0
+37R,Railroad,West,4,9,2023,Start,TRES,0,0
+37R,Railroad,West,4,13,2023,Start,TRES,0,0
+37R,Railroad,West,4,16,2023,Medium,TRES,0,0
+37R,Railroad,West,4,20,2023,Medium,TRES,0,0
+37R,Railroad,West,4,23,2023,Medium,TRES,0,0
+37R,Railroad,West,4,27,2023,Medium,TRES,0,0
+37R,Railroad,West,4,29,2023,Eggs,TRES,1,0
+37R,Railroad,West,5,4,2023,Eggs,TRES,4,0
+37R,Railroad,West,5,7,2023,Eggs,TRES,5,0
+37R,Railroad,West,5,11,2023,Eggs,TRES,5,0
+37R,Railroad,West,5,14,2023,Eggs,TRES,5,0
+37R,Railroad,West,5,18,2023,Chicks,TRES,1,4
+37R,Railroad,West,5,21,2023,Chicks,TRES,1,4
+37R,Railroad,West,5,23,2023,Chicks,TRES,1,4
+37R,Railroad,West,5,25,2023,Chicks,TRES,1,4
+37R,Railroad,West,5,27,2023,Chicks,TRES,1,4
+37R,Railroad,West,5,29,2023,Chicks,TRES,1,4
+37R,Railroad,West,5,31,2023,Chicks,TRES,1,4
+37R,Railroad,West,6,2,2023,Chicks,TRES,1,4
+37R,Railroad,West,6,5,2023,Fledged,TRES,0,0
+37R,Railroad,West,6,7,2023,Available,NONE,0,0
+37R,Railroad,West,6,9,2023,Available,NONE,0,0
+37R,Railroad,West,6,12,2023,Available,NONE,0,0
+37R,Railroad,West,6,14,2023,Available,NONE,0,0
+37R,Railroad,West,6,16,2023,Available,NONE,0,0
+37R,Railroad,West,6,19,2023,Available,NONE,0,0
+37R,Railroad,West,6,21,2023,Available,NONE,0,0
+37R,Railroad,West,6,23,2023,Available,NONE,0,0
+37R,Railroad,West,6,26,2023,Available,NONE,0,0
+37R,Railroad,West,6,28,2023,Available,NONE,0,0
+37R,Railroad,West,6,30,2023,Available,NONE,0,0
+37R,Railroad,West,7,3,2023,Available,NONE,0,0
+37R,Railroad,West,7,5,2023,Available,NONE,0,0
+37R,Railroad,West,7,7,2023,Available,NONE,0,0
+37R,Railroad,West,7,10,2023,Available,NONE,0,0
+37R,Railroad,West,7,12,2023,Available,NONE,0,0
+37R,Railroad,West,7,14,2023,Available,NONE,0,0
+37R,Railroad,West,7,17,2023,Available,NONE,0,0
+38R,Railroad,South,2,19,2023,Available ,NONE,0,0
+38R,Railroad,South,2,26,2023,Available ,NONE,0,0
+38R,Railroad,South,2,28,2023,Available ,NONE,0,0
+38R,Railroad,South,3,16,2023,Available ,NONE,0,0
+38R,Railroad,South,3,19,2023,Available ,NONE,0,0
+38R,Railroad,South,3,23,2023,Available ,NONE,0,0
+38R,Railroad,South,5,21,2023,Available ,NONE,0,0
+38R,Railroad,South,5,23,2023,Available ,NONE,0,0
+38R,Railroad,South,5,25,2023,Available ,NONE,0,0
+38R,Railroad,South,5,27,2023,Available ,NONE,0,0
+38R,Railroad,South,5,29,2023,Available ,NONE,0,0
+38R,Railroad,South,5,31,2023,Available ,NONE,0,0
+38R,Railroad,South,6,2,2023,Available ,NONE,0,0
+38R,Railroad,South,6,5,2023,Available ,NONE,0,0
+38R,Railroad,South,7,14,2023,Available,NONE,0,0
+38R,Railroad,South,7,14,2023,Available,NONE,0,0
+39R,Railroad,East,2,19,2023,Available ,NONE,0,0
+39R,Railroad,East,2,26,2023,Available ,NONE,0,0
+39R,Railroad,East,2,28,2023,Available ,NONE,0,0
+39R,Railroad,East,3,16,2023,Available ,NONE,0,0
+39R,Railroad,East,3,19,2023,Available ,NONE,0,0
+39R,Railroad,East,3,23,2023,Available ,NONE,0,0
+39R,Railroad,East,3,26,2023,Available ,NONE,0,0
+39R,Railroad,East,3,30,2023,Start,TRES,0,0
+39R,Railroad,East,4,2,2023,Start,TRES,0,0
+39R,Railroad,East,4,6,2023,Start,TRES,0,0
+39R,Railroad,East,4,9,2023,Start,TRES,0,0
+39R,Railroad,East,4,13,2023,Medium,TRES,0,0
+39R,Railroad,East,4,16,2023,Medium,TRES,0,0
+39R,Railroad,East,4,20,2023,Complete,TRES,0,0
+39R,Railroad,East,4,23,2023,Complete,TRES,0,0
+39R,Railroad,East,4,27,2023,Complete,TRES,0,0
+39R,Railroad,East,4,29,2023,Complete,TRES,0,0
+39R,Railroad,East,5,4,2023,Eggs,TRES,4,0
+39R,Railroad,East,5,7,2023,Eggs,TRES,4,0
+39R,Railroad,East,5,11,2023,Eggs,TRES,5,0
+39R,Railroad,East,5,14,2023,Eggs,TRES,5,0
+39R,Railroad,East,5,18,2023,Eggs,TRES,5,0
+39R,Railroad,East,5,21,2023,Chicks,TRES,2,3
+39R,Railroad,East,5,23,2023,Chicks,TRES,2,3
+39R,Railroad,East,5,25,2023,Chicks,TRES,1,4
+39R,Railroad,East,5,27,2023,Chicks,TRES,1,4
+39R,Railroad,East,5,29,2023,Chicks,TRES,1,4
+39R,Railroad,East,5,31,2023,Chicks,TRES,1,4
+39R,Railroad,East,6,2,2023,Fledged,TRES,1,3
+39R,Railroad,East,6,5,2023,Fledged,TRES,1,3
+39R,Railroad,East,6,7,2023,Fledged,TRES,0,0
+39R,Railroad,East,6,9,2023,Available,NONE,0,0
+39R,Railroad,East,6,12,2023,Available,NONE,0,0
+39R,Railroad,East,6,14,2023,Available,NONE,0,0
+39R,Railroad,East,6,16,2023,Available,NONE,0,0
+39R,Railroad,East,6,19,2023,Available,NONE,0,0
+39R,Railroad,East,6,21,2023,Available,NONE,0,0
+39R,Railroad,East,6,23,2023,Available,NONE,0,0
+39R,Railroad,East,6,26,2023,Available,NONE,0,0
+39R,Railroad,East,6,28,2023,Available,NONE,0,0
+39R,Railroad,East,6,30,2023,Available,NONE,0,0
+39R,Railroad,East,7,3,2023,Available,NONE,0,0
+39R,Railroad,East,7,5,2023,Available,NONE,0,0
+39R,Railroad,East,7,7,2023,Available,NONE,0,0
+39R,Railroad,East,7,10,2023,Available,NONE,0,0
+39R,Railroad,East,7,12,2023,Available,NONE,0,0
+39R,Railroad,East,7,14,2023,Available,NONE,0,0
+39R,Railroad,East,7,17,2023,Available,NONE,0,0
+40R,Railroad,North,2,19,2023,Available ,NONE,0,0
+40R,Railroad,North,2,26,2023,Available ,NONE,0,0
+40R,Railroad,North,2,28,2023,Available ,NONE,0,0
+40R,Railroad,North,3,16,2023,Available ,NONE,0,0
+40R,Railroad,North,3,19,2023,Available ,NONE,0,0
+40R,Railroad,North,3,23,2023,Available ,NONE,0,0
+40R,Railroad,North,3,26,2023,Available ,NONE,0,0
+40R,Railroad,North,3,30,2023,Available ,NONE,0,0
+40R,Railroad,North,4,2,2023,Available ,NONE,0,0
+40R,Railroad,North,4,6,2023,Available ,NONE,0,0
+40R,Railroad,North,4,9,2023,Available ,NONE,0,0
+40R,Railroad,North,4,13,2023,Start,TRES,0,0
+40R,Railroad,North,4,16,2023,Medium,TRES,0,0
+40R,Railroad,North,4,20,2023,Medium,TRES,0,0
+40R,Railroad,North,4,23,2023,Medium,TRES,0,0
+40R,Railroad,North,4,27,2023,Complete,TRES,0,0
+40R,Railroad,North,4,29,2023,Eggs,TRES,2,0
+40R,Railroad,North,5,4,2023,Eggs,TRES,4,0
+40R,Railroad,North,5,7,2023,Eggs,TRES,6,0
+40R,Railroad,North,5,11,2023,Failed,TRES,1,0
+40R,Railroad,North,5,14,2023,Available,NONE,0,0
+40R,Railroad,North,5,18,2023,Available,NONE,0,0
+40R,Railroad,North,5,21,2023,Available,NONE,0,0
+40R,Railroad,North,5,23,2023,Available,NONE,0,0
+40R,Railroad,North,5,25,2023,Available,NONE,0,0
+40R,Railroad,North,5,27,2023,Available,NONE,0,0
+40R,Railroad,North,5,29,2023,Available,NONE,0,0
+40R,Railroad,North,5,31,2023,Available,NONE,0,0
+40R,Railroad,North,6,2,2023,Available,NONE,0,0
+40R,Railroad,North,6,5,2023,Available,NONE,0,0
+40R,Railroad,North,6,7,2023,Available,NONE,0,0
+40R,Railroad,North,6,9,2023,Available,NONE,0,0
+40R,Railroad,North,6,12,2023,Available,NONE,0,0
+40R,Railroad,North,6,14,2023,Available,NONE,0,0
+40R,Railroad,North,6,16,2023,Available,NONE,0,0
+40R,Railroad,North,6,19,2023,Available,NONE,0,0
+40R,Railroad,North,6,21,2023,Available,NONE,0,0
+40R,Railroad,North,6,23,2023,Available,NONE,0,0
+40R,Railroad,North,6,26,2023,Available,NONE,0,0
+40R,Railroad,North,6,28,2023,Available,NONE,0,0
+40R,Railroad,North,6,30,2023,Available,NONE,0,0
+40R,Railroad,North,7,3,2023,Available,NONE,0,0
+40R,Railroad,North,7,5,2023,Available,NONE,0,0
+40R,Railroad,North,7,7,2023,Available,NONE,0,0
+40R,Railroad,North,7,10,2023,Available,NONE,0,0
+40R,Railroad,North,7,12,2023,Available,NONE,0,0
+40R,Railroad,North,7,14,2023,Available,NONE,0,0
+40R,Railroad,North,7,17,2023,Available,NONE,0,0
+41R,Railroad,West,2,19,2023,Available ,NONE,0,0
+41R,Railroad,West,2,26,2023,Available ,NONE,0,0
+41R,Railroad,West,2,28,2023,Available ,NONE,0,0
+41R,Railroad,West,3,16,2023,Available ,NONE,0,0
+41R,Railroad,West,3,19,2023,Available ,NONE,0,0
+41R,Railroad,West,3,23,2023,Available ,NONE,0,0
+41R,Railroad,West,3,26,2023,Available ,NONE,0,0
+41R,Railroad,West,3,30,2023,Available ,NONE,0,0
+41R,Railroad,West,4,2,2023,Available ,NONE,0,0
+41R,Railroad,West,4,6,2023,Available ,NONE,0,0
+41R,Railroad,West,4,9,2023,Start,TRES,0,0
+41R,Railroad,West,4,13,2023,Start,TRES,0,0
+41R,Railroad,West,4,16,2023,Start,TRES,0,0
+41R,Railroad,West,4,20,2023,Medium,TRES,0,0
+41R,Railroad,West,4,23,2023,Complete,TRES,0,0
+41R,Railroad,West,4,27,2023,Eggs,TRES,2,0
+41R,Railroad,West,4,29,2023,Eggs,TRES,4,0
+41R,Railroad,West,5,4,2023,Eggs,TRES,4,0
+41R,Railroad,West,5,7,2023,Eggs,TRES,5,0
+41R,Railroad,West,5,11,2023,Eggs,TRES,5,0
+41R,Railroad,West,5,14,2023,Eggs,TRES,5,0
+41R,Railroad,West,5,18,2023,Chicks,TRES,1,4
+41R,Railroad,West,5,21,2023,Chicks,TRES,0,5
+41R,Railroad,West,5,23,2023,Chicks,TRES,0,5
+41R,Railroad,West,5,25,2023,Chicks,TRES,0,5
+41R,Railroad,West,5,27,2023,Chicks,TRES,0,5
+41R,Railroad,West,5,29,2023,Chicks,TRES,0,5
+41R,Railroad,West,5,31,2023,Chicks,TRES,0,5
+41R,Railroad,West,6,2,2023,Fledged,TRES,0,4
+41R,Railroad,West,6,5,2023,Fledged,TRES,0,1
+41R,Railroad,West,6,7,2023,Fledged,TRES,0,0
+41R,Railroad,West,6,9,2023,Available,NONE,0,0
+41R,Railroad,West,6,12,2023,Available,NONE,0,0
+41R,Railroad,West,6,14,2023,Available,NONE,0,0
+41R,Railroad,West,6,16,2023,Available,NONE,0,0
+41R,Railroad,West,6,19,2023,Available,NONE,0,0
+41R,Railroad,West,6,21,2023,Available,NONE,0,0
+42R,Railroad,South,2,19,2023,Available ,NONE,0,0
+42R,Railroad,South,2,26,2023,Available ,NONE,0,0
+42R,Railroad,South,2,28,2023,Available ,NONE,0,0
+42R,Railroad,South,3,16,2023,Available ,NONE,0,0
+42R,Railroad,South,3,19,2023,Available ,NONE,0,0
+42R,Railroad,South,3,23,2023,Available ,NONE,0,0
+42R,Railroad,South,3,26,2023,Available ,NONE,0,0
+42R,Railroad,South,3,30,2023,Available ,NONE,0,0
+42R,Railroad,South,4,2,2023,Available ,NONE,0,0
+42R,Railroad,South,6,21,2023,Available,NONE,0,0
+42R,Railroad,South,6,23,2023,Available,NONE,0,0
+42R,Railroad,South,6,26,2023,Available,NONE,0,0
+42R,Railroad,South,6,28,2023,Available,NONE,0,0
+42R,Railroad,South,6,30,2023,Available,NONE,0,0
+42R,Railroad,South,7,3,2023,Available,NONE,0,0
+42R,Railroad,South,7,5,2023,Available,NONE,0,0
+42R,Railroad,South,7,7,2023,Available,NONE,0,0
+42R,Railroad,South,7,10,2023,Available,NONE,0,0
+42R,Railroad,South,7,12,2023,Available,NONE,0,0
+42R,Railroad,South,7,14,2023,Available,NONE,0,0
+42R,Railroad,South,7,17,2023,Available,NONE,0,0
+43R,Railroad,East,2,19,2023,Available ,NONE,0,0
+43R,Railroad,East,2,26,2023,Available ,NONE,0,0
+43R,Railroad,East,2,28,2023,Available ,NONE,0,0
+43R,Railroad,East,3,16,2023,Available ,NONE,0,0
+43R,Railroad,East,3,19,2023,Available ,NONE,0,0
+43R,Railroad,East,3,23,2023,Available ,NONE,0,0
+43R,Railroad,East,3,26,2023,Available ,NONE,0,0
+43R,Railroad,East,3,30,2023,Available ,NONE,0,0
+43R,Railroad,East,4,2,2023,Available ,NONE,0,0
+43R,Railroad,East,4,6,2023,Start,TRES,0,0
+43R,Railroad,East,4,9,2023,Start,TRES,0,0
+43R,Railroad,East,4,13,2023,Start,TRES,0,0
+43R,Railroad,East,4,16,2023,Medium,TRES,0,0
+43R,Railroad,East,4,20,2023,Medium,TRES,0,0
+43R,Railroad,East,4,23,2023,Medium,TRES,0,0
+43R,Railroad,East,4,27,2023,Medium,TRES,0,0
+43R,Railroad,East,4,29,2023,Complete,TRES,0,0
+43R,Railroad,East,5,4,2023,Eggs,TRES,4,0
+43R,Railroad,East,5,7,2023,Eggs,TRES,5,0
+43R,Railroad,East,5,11,2023,Eggs,TRES,6,0
+43R,Railroad,East,5,14,2023,Eggs,TRES,6,0
+43R,Railroad,East,5,18,2023,Eggs,TRES,6,0
+43R,Railroad,East,5,21,2023,Chicks,TRES,2,4
+43R,Railroad,East,5,23,2023,Chicks,TRES,0,6
+43R,Railroad,East,5,25,2023,Chicks,TRES,0,6
+43R,Railroad,East,5,27,2023,Chicks,TRES,0,6
+43R,Railroad,East,5,29,2023,Chicks,TRES,0,6
+43R,Railroad,East,5,31,2023,Chicks,TRES,0,6
+43R,Railroad,East,6,2,2023,Fledged,TRES,0,5
+43R,Railroad,East,6,5,2023,Fledged,TRES,0,4
+43R,Railroad,East,6,7,2023,Failed,TRES,0,0
+43R,Railroad,East,6,9,2023,Available,NONE,0,0
+43R,Railroad,East,6,12,2023,Available,NONE,0,0
+43R,Railroad,East,6,14,2023,Available,NONE,0,0
+43R,Railroad,East,6,16,2023,Available,NONE,0,0
+43R,Railroad,East,6,19,2023,Available,NONE,0,0
+43R,Railroad,East,6,21,2023,Available,NONE,0,0
+43R,Railroad,East,6,23,2023,Available,NONE,0,0
+43R,Railroad,East,6,26,2023,Available,NONE,0,0
+43R,Railroad,East,6,28,2023,Available,NONE,0,0
+43R,Railroad,East,6,30,2023,Available,NONE,0,0
+43R,Railroad,East,7,3,2023,Available,NONE,0,0
+43R,Railroad,East,7,5,2023,Available,NONE,0,0
+43R,Railroad,East,7,7,2023,Available,NONE,0,0
+43R,Railroad,East,7,10,2023,Available,NONE,0,0
+43R,Railroad,East,7,12,2023,Available,NONE,0,0
+43R,Railroad,East,7,14,2023,Available,NONE,0,0
+43R,Railroad,East,7,17,2023,Available,NONE,0,0
+44R,Railroad,North,2,19,2023,Available ,NONE,0,0
+44R,Railroad,North,2,26,2023,Available ,NONE,0,0
+44R,Railroad,North,2,28,2023,Available ,NONE,0,0
+44R,Railroad,North,3,16,2023,Available ,NONE,0,0
+44R,Railroad,North,3,19,2023,Available ,NONE,0,0
+44R,Railroad,North,3,23,2023,Available ,NONE,0,0
+44R,Railroad,North,3,26,2023,Available ,NONE,0,0
+44R,Railroad,North,3,30,2023,Available ,NONE,0,0
+44R,Railroad,North,4,2,2023,Available ,NONE,0,0
+44R,Railroad,North,4,6,2023,Available ,NONE,0,0
+44R,Railroad,North,4,9,2023,Available ,NONE,0,0
+44R,Railroad,North,4,13,2023,Available ,NONE,0,0
+44R,Railroad,North,4,16,2023,Available,NONE,0,0
+44R,Railroad,North,4,20,2023,Start,TRES,0,0
+44R,Railroad,North,4,23,2023,Start,TRES,0,0
+44R,Railroad,North,4,27,2023,Complete,TRES,0,0
+44R,Railroad,North,4,29,2023,Complete,TRES,0,0
+44R,Railroad,North,5,4,2023,Eggs,TRES,1,0
+44R,Railroad,North,5,7,2023,Failed,TRES,4,0
+44R,Railroad,North,5,11,2023,Complete,TRES,0,0
+44R,Railroad,North,5,14,2023,Complete,TRES,0,0
+44R,Railroad,North,5,18,2023,Eggs,TRES,4,0
+44R,Railroad,North,5,21,2023,Eggs,TRES,5,0
+44R,Railroad,North,5,23,2023,Eggs,TRES,5,0
+44R,Railroad,North,5,25,2023,Eggs,TRES,5,0
+44R,Railroad,North,5,27,2023,Eggs,TRES,5,0
+44R,Railroad,North,5,29,2023,Eggs,TRES,5,0
+44R,Railroad,North,5,31,2023,Eggs,TRES,5,0
+44R,Railroad,North,6,2,2023,Chicks,TRES,0,5
+44R,Railroad,North,6,5,2023,Chicks,TRES,0,5
+44R,Railroad,North,6,7,2023,Chicks,TRES,0,1
+44R,Railroad,North,6,9,2023,Chicks,TRES,0,1
+44R,Railroad,North,6,12,2023,Chicks,TRES,0,1
+44R,Railroad,North,6,14,2023,Chicks,TRES,0,1
+44R,Railroad,North,6,16,2023,Chicks,TRES,0,1
+44R,Railroad,North,6,19,2023,Chicks,TRES,0,1
+44R,Railroad,North,6,21,2023,Fledged,TRES,0,0
+44R,Railroad,North,6,23,2023,Available,NONE,0,0
+44R,Railroad,North,6,26,2023,Available,NONE,0,0
+44R,Railroad,North,6,28,2023,Available,NONE,0,0
+44R,Railroad,North,6,30,2023,Available,NONE,0,0
+44R,Railroad,North,7,3,2023,Available,NONE,0,0
+44R,Railroad,North,7,5,2023,Available,NONE,0,0
+44R,Railroad,North,7,7,2023,Available,NONE,0,0
+44R,Railroad,North,7,10,2023,Available,NONE,0,0
+44R,Railroad,North,7,12,2023,Available,NONE,0,0
+44R,Railroad,North,7,14,2023,Available,NONE,0,0
+44R,Railroad,North,7,17,2023,Available,NONE,0,0
+45R,Railroad,West,2,19,2023,Available ,NONE,0,0
+45R,Railroad,West,2,26,2023,Available ,NONE,0,0
+45R,Railroad,West,2,28,2023,Available ,NONE,0,0
+45R,Railroad,West,3,16,2023,Available ,NONE,0,0
+45R,Railroad,West,3,19,2023,Available ,NONE,0,0
+45R,Railroad,West,3,23,2023,Available ,NONE,0,0
+45R,Railroad,West,3,26,2023,Available ,NONE,0,0
+45R,Railroad,West,3,30,2023,Available ,NONE,0,0
+45R,Railroad,West,4,2,2023,Available ,NONE,0,0
+45R,Railroad,West,4,6,2023,Available ,NONE,0,0
+45R,Railroad,West,4,9,2023,Available ,NONE,0,0
+45R,Railroad,West,4,13,2023,Available ,NONE,0,0
+45R,Railroad,West,4,16,2023,Available ,NONE,0,0
+45R,Railroad,West,4,20,2023,Available ,NONE,0,0
+45R,Railroad,West,4,23,2023,Start,TRES,0,0
+45R,Railroad,West,4,27,2023,Medium,TRES,0,0
+45R,Railroad,West,4,29,2023,Medium,TRES,0,0
+45R,Railroad,West,5,4,2023,Eggs,TRES,4,0
+45R,Railroad,West,5,7,2023,Failed,TRES,4,0
+45R,Railroad,West,5,11,2023,Complete,TRES,0,0
+45R,Railroad,West,5,14,2023,Complete,TRES,0,0
+45R,Railroad,West,5,18,2023,Eggs,TRES,3,0
+45R,Railroad,West,5,21,2023,Eggs,TRES,5,0
+45R,Railroad,West,5,23,2023,Eggs,TRES,5,0
+45R,Railroad,West,5,25,2023,Eggs,TRES,5,0
+45R,Railroad,West,5,27,2023,Eggs,TRES,5,0
+45R,Railroad,West,5,29,2023,Eggs,TRES,5,0
+45R,Railroad,West,5,31,2023,Eggs,TRES,5,0
+45R,Railroad,West,6,2,2023,Chicks,TRES,3,2
+45R,Railroad,West,6,5,2023,Chicks,TRES,2,3
+45R,Railroad,West,6,7,2023,Chicks,TRES,2,3
+45R,Railroad,West,6,9,2023,Chicks,TRES,2,3
+45R,Railroad,West,6,12,2023,Chicks,TRES,2,3
+45R,Railroad,West,6,14,2023,Chicks,TRES,2,3
+45R,Railroad,West,6,16,2023,Chicks,TRES,2,3
+45R,Railroad,West,6,19,2023,Chicks,TRES,2,3
+45R,Railroad,West,6,21,2023,Fledged,TRES,2,2
+45R,Railroad,West,6,23,2023,Fledged,TRES,1,0
+45R,Railroad,West,6,26,2023,Available,NONE,0,0
+45R,Railroad,West,6,28,2023,Available,NONE,0,0
+45R,Railroad,West,6,30,2023,Available,NONE,0,0
+45R,Railroad,West,7,3,2023,Available,NONE,0,0
+45R,Railroad,West,7,5,2023,Available,NONE,0,0
+45R,Railroad,West,7,7,2023,Available,NONE,0,0
+45R,Railroad,West,7,10,2023,Available,NONE,0,0
+45R,Railroad,West,7,12,2023,Available,NONE,0,0
+45R,Railroad,West,7,14,2023,Available,NONE,0,0
+45R,Railroad,West,7,17,2023,Available,NONE,0,0
+46R,Railroad,South,2,19,2023,Available ,NONE,0,0
+46R,Railroad,South,2,26,2023,Available ,NONE,0,0
+46R,Railroad,South,2,28,2023,Available ,NONE,0,0
+46R,Railroad,South,3,16,2023,Available ,NONE,0,0
+46R,Railroad,South,3,19,2023,Available ,NONE,0,0
+46R,Railroad,South,3,23,2023,Available ,NONE,0,0
+46R,Railroad,South,3,26,2023,Available ,NONE,0,0
+46R,Railroad,South,3,30,2023,Available ,NONE,0,0
+46R,Railroad,South,4,2,2023,Available ,NONE,0,0
+46R,Railroad,South,4,6,2023,Available ,NONE,0,0
+46R,Railroad,South,4,9,2023,Available ,NONE,0,0
+46R,Railroad,South,4,13,2023,Available ,NONE,0,0
+46R,Railroad,South,4,16,2023,Available,NONE,0,0
+46R,Railroad,South,4,20,2023,Start,TRES,0,0
+46R,Railroad,South,4,23,2023,Medium,TRES,0,0
+46R,Railroad,South,4,27,2023,Complete,TRES,0,0
+46R,Railroad,South,4,29,2023,Complete,TRES,0,0
+46R,Railroad,South,5,4,2023,Eggs,TRES,2,0
+46R,Railroad,South,5,7,2023,Eggs,TRES,2,0
+46R,Railroad,South,5,11,2023,Failed,TRES,2,0
+46R,Railroad,South,5,14,2023,Available,NONE,0,0
+46R,Railroad,South,5,18,2023,Start,TRES,0,0
+46R,Railroad,South,5,21,2023,Eggs,TRES,1,0
+46R,Railroad,South,5,23,2023,Failed,TRES,2,0
+46R,Railroad,South,5,25,2023,Eggs,TRES,1,0
+46R,Railroad,South,5,27,2023,Eggs,TRES,1,0
+46R,Railroad,South,5,29,2023,Eggs,TRES,2,0
+46R,Railroad,South,5,31,2023,Failed,TRES,2,0
+46R,Railroad,South,6,2,2023,Available,NONE,0,0
+46R,Railroad,South,6,5,2023,Available,NONE,0,0
+46R,Railroad,South,6,7,2023,Available,NONE,0,0
+46R,Railroad,South,6,9,2023,Available,NONE,0,0
+46R,Railroad,South,6,12,2023,Available,NONE,0,0
+46R,Railroad,South,6,14,2023,Available,NONE,0,0
+46R,Railroad,South,6,16,2023,Available,NONE,0,0
+46R,Railroad,South,6,19,2023,Available,NONE,0,0
+46R,Railroad,South,6,21,2023,Available,NONE,0,0
+46R,Railroad,South,6,23,2023,Available,NONE,0,0
+46R,Railroad,South,6,26,2023,Available,NONE,0,0
+46R,Railroad,South,6,28,2023,Available,NONE,0,0
+46R,Railroad,South,6,30,2023,Available,NONE,0,0
+46R,Railroad,South,7,3,2023,Available,NONE,0,0
+46R,Railroad,South,7,5,2023,Available,NONE,0,0
+46R,Railroad,South,7,7,2023,Available,NONE,0,0
+46R,Railroad,South,7,10,2023,Available,NONE,0,0
+46R,Railroad,South,7,12,2023,Available,NONE,0,0
+46R,Railroad,South,7,14,2023,Available,NONE,0,0
+46R,Railroad,South,7,17,2023,Available,NONE,0,0
+47R,Railroad,East,2,19,2023,Available ,NONE,0,0
+47R,Railroad,East,2,26,2023,Available ,NONE,0,0
+47R,Railroad,East,2,28,2023,Available ,NONE,0,0
+47R,Railroad,East,3,16,2023,Available ,NONE,0,0
+47R,Railroad,East,3,19,2023,Available ,NONE,0,0
+47R,Railroad,East,3,23,2023,Available ,NONE,0,0
+47R,Railroad,East,3,26,2023,Available ,NONE,0,0
+47R,Railroad,East,3,30,2023,Available ,NONE,0,0
+47R,Railroad,East,4,2,2023,Available ,NONE,0,0
+47R,Railroad,East,5,23,2023,Available,NONE,0,0
+47R,Railroad,East,5,25,2023,Available,NONE,0,0
+47R,Railroad,East,5,27,2023,Available,NONE,0,0
+47R,Railroad,East,5,29,2023,Available,NONE,0,0
+47R,Railroad,East,5,31,2023,Available,NONE,0,0
+47R,Railroad,East,6,2,2023,Available,NONE,0,0
+47R,Railroad,East,6,5,2023,Available,NONE,0,0
+47R,Railroad,East,6,7,2023,Available,NONE,0,0
+47R,Railroad,East,6,9,2023,Available,NONE,0,0
+47R,Railroad,East,6,12,2023,Available,NONE,0,0
+47R,Railroad,East,6,14,2023,Available,NONE,0,0
+47R,Railroad,East,6,16,2023,Available,NONE,0,0
+47R,Railroad,East,6,19,2023,Available,NONE,0,0
+47R,Railroad,East,6,21,2023,Available,NONE,0,0
+47R,Railroad,East,6,23,2023,Available,NONE,0,0
+48R,Railroad,North,2,19,2023,Available ,NONE,0,0
+48R,Railroad,North,2,26,2023,Available ,NONE,0,0
+48R,Railroad,North,2,28,2023,Available ,NONE,0,0
+48R,Railroad,North,3,16,2023,Available ,NONE,0,0
+48R,Railroad,North,3,19,2023,Available ,NONE,0,0
+48R,Railroad,North,3,23,2023,Available ,NONE,0,0
+48R,Railroad,North,3,26,2023,Available ,NONE,0,0
+48R,Railroad,North,3,30,2023,Available ,NONE,0,0
+48R,Railroad,North,4,2,2023,Available ,NONE,0,0
+48R,Railroad,North,4,6,2023,Start,TRES,0,0
+48R,Railroad,North,4,9,2023,Start,TRES,0,0
+48R,Railroad,North,4,13,2023,Medium,TRES,0,0
+48R,Railroad,North,4,16,2023,Medium,TRES,0,0
+48R,Railroad,North,4,20,2023,Medium,TRES,0,0
+48R,Railroad,North,4,23,2023,Medium,TRES,0,0
+48R,Railroad,North,4,27,2023,Complete,TRES,0,0
+48R,Railroad,North,4,29,2023,Complete,TRES,0,0
+48R,Railroad,North,5,4,2023,Complete,TRES,0,0
+48R,Railroad,North,5,7,2023,Complete,TRES,0,0
+48R,Railroad,North,5,11,2023,Eggs,TRES,3,0
+48R,Railroad,North,5,14,2023,Eggs,TRES,3,0
+48R,Railroad,North,5,18,2023,Eggs,TRES,6,0
+48R,Railroad,North,5,21,2023,Eggs,TRES,6,0
+48R,Railroad,North,5,23,2023,Eggs,TRES,6,0
+48R,Railroad,North,5,25,2023,Eggs,TRES,6,0
+48R,Railroad,North,5,27,2023,Chicks,TRES,4,2
+48R,Railroad,North,5,29,2023,Chicks,TRES,2,4
+48R,Railroad,North,5,31,2023,Chicks,TRES,2,4
+48R,Railroad,North,6,2,2023,Chicks,TRES,2,4
+48R,Railroad,North,6,5,2023,Chicks,TRES,2,4
+48R,Railroad,North,6,7,2023,Chicks,TRES,2,4
+48R,Railroad,North,6,9,2023,Chicks,TRES,2,4
+48R,Railroad,North,6,12,2023,Chicks,TRES,2,4
+48R,Railroad,North,6,14,2023,Fledged,TRES,1,0
+48R,Railroad,North,6,16,2023,Available,NONE,0,0
+48R,Railroad,North,6,19,2023,Available,NONE,0,0
+48R,Railroad,North,6,21,2023,Available,NONE,0,0
+48R,Railroad,North,6,23,2023,Available,NONE,0,0
+48R,Railroad,North,6,26,2023,Available,NONE,0,0
+48R,Railroad,North,6,28,2023,Available,NONE,0,0
+48R,Railroad,North,6,30,2023,Available,NONE,0,0
+48R,Railroad,North,7,3,2023,Available,NONE,0,0
+48R,Railroad,North,7,5,2023,Available,NONE,0,0
+48R,Railroad,North,7,7,2023,Available,NONE,0,0
+48R,Railroad,North,7,10,2023,Available,NONE,0,0
+48R,Railroad,North,7,12,2023,Available,NONE,0,0
+48R,Railroad,North,7,14,2023,Available,NONE,0,0
+48R,Railroad,North,7,17,2023,Available,NONE,0,0
+49R,Railroad,West,2,19,2023,Available ,NONE,0,0
+49R,Railroad,West,2,26,2023,Available ,NONE,0,0
+49R,Railroad,West,2,28,2023,Available ,NONE,0,0
+49R,Railroad,West,3,16,2023,Available ,NONE,0,0
+49R,Railroad,West,3,19,2023,Available ,NONE,0,0
+49R,Railroad,West,3,23,2023,Available ,NONE,0,0
+49R,Railroad,West,3,26,2023,Available ,NONE,0,0
+49R,Railroad,West,3,30,2023,Available ,NONE,0,0
+49R,Railroad,West,4,2,2023,Available ,NONE,0,0
+49R,Railroad,West,4,6,2023,Available ,NONE,0,0
+49R,Railroad,West,4,9,2023,Available ,NONE,0,0
+49R,Railroad,West,4,13,2023,Start,TRES,0,0
+49R,Railroad,West,4,16,2023,Start,TRES,0,0
+49R,Railroad,West,4,20,2023,Medium,TRES,0,0
+49R,Railroad,West,4,23,2023,Medium,TRES,0,0
+49R,Railroad,West,4,27,2023,Medium,TRES,0,0
+49R,Railroad,West,4,29,2023,Complete,TRES,0,0
+49R,Railroad,West,5,4,2023,Eggs,TRES,3,0
+49R,Railroad,West,5,7,2023,Eggs,TRES,3,0
+49R,Railroad,West,5,11,2023,Eggs,TRES,3,0
+49R,Railroad,West,5,14,2023,Eggs,TRES,6,0
+49R,Railroad,West,5,18,2023,Eggs,TRES,6,0
+49R,Railroad,West,5,21,2023,Eggs,TRES,6,0
+49R,Railroad,West,5,23,2023,Chicks,TRES,2,4
+49R,Railroad,West,5,25,2023,Chicks,TRES,2,4
+49R,Railroad,West,5,27,2023,Chicks,TRES,2,4
+49R,Railroad,West,5,29,2023,Chicks,TRES,2,4
+49R,Railroad,West,5,31,2023,Chicks,TRES,2,4
+49R,Railroad,West,6,2,2023,Chicks,TRES,2,4
+49R,Railroad,West,6,5,2023,Fledged,TRES,0,0
+49R,Railroad,West,6,7,2023,Available,NONE,0,0
+49R,Railroad,West,6,23,2023,Available,NONE,0,0
+49R,Railroad,West,6,26,2023,Available,NONE,0,0
+49R,Railroad,West,6,28,2023,Available,NONE,0,0
+49R,Railroad,West,6,30,2023,Available,NONE,0,0
+49R,Railroad,West,7,3,2023,Available,NONE,0,0
+49R,Railroad,West,7,5,2023,Available,NONE,0,0
+49R,Railroad,West,7,7,2023,Available,NONE,0,0
+49R,Railroad,West,7,10,2023,Available,NONE,0,0
+49R,Railroad,West,7,12,2023,Available,NONE,0,0
+49R,Railroad,West,7,14,2023,Available,NONE,0,0
+49R,Railroad,West,7,17,2023,Available,NONE,0,0
+50R,Railroad,South,2,19,2023,Available ,NONE,0,0
+50R,Railroad,South,2,26,2023,Available ,NONE,0,0
+50R,Railroad,South,2,28,2023,Available ,NONE,0,0
+50R,Railroad,South,3,16,2023,Available ,NONE,0,0
+50R,Railroad,South,3,19,2023,Available ,NONE,0,0
+50R,Railroad,South,3,23,2023,Available ,NONE,0,0
+50R,Railroad,South,5,14,2023,Available ,NONE,0,0
+50R,Railroad,South,5,18,2023,Available ,NONE,0,0
+50R,Railroad,South,5,21,2023,Available ,NONE,0,0
+50R,Railroad,South,5,23,2023,Available ,NONE,0,0
+50R,Railroad,South,5,25,2023,Available ,NONE,0,0
+50R,Railroad,South,5,27,2023,Available ,NONE,0,0
+50R,Railroad,South,7,12,2023,Available,NONE,0,0
+50R,Railroad,South,7,14,2023,Available,NONE,0,0
+50R,Railroad,South,7,17,2023,Available,NONE,0,0
+51R,Railroad,East,2,19,2023,Available ,NONE,0,0
+51R,Railroad,East,2,26,2023,Available ,NONE,0,0
+51R,Railroad,East,2,28,2023,Available ,NONE,0,0
+51R,Railroad,East,3,16,2023,Available ,NONE,0,0
+51R,Railroad,East,3,19,2023,Available ,NONE,0,0
+51R,Railroad,East,3,23,2023,Available ,NONE,0,0
+51R,Railroad,East,3,26,2023,Available ,NONE,0,0
+51R,Railroad,East,3,30,2023,Available ,NONE,0,0
+51R,Railroad,East,4,2,2023,Available ,NONE,0,0
+51R,Railroad,East,4,6,2023,Available ,NONE,0,0
+51R,Railroad,East,4,9,2023,Available ,NONE,0,0
+51R,Railroad,East,4,13,2023,Available ,NONE,0,0
+51R,Railroad,East,4,16,2023,Available,NONE,0,0
+51R,Railroad,East,4,20,2023,Start,NONE,0,0
+51R,Railroad,East,4,23,2023,Start,NONE,0,0
+51R,Railroad,East,4,27,2023,Start,NONE,0,0
+51R,Railroad,East,4,29,2023,Medium,NONE,0,0
+51R,Railroad,East,5,4,2023,Medium,NONE,0,0
+51R,Railroad,East,5,7,2023,Medium,NONE,0,0
+51R,Railroad,East,5,11,2023,Complete,NONE,0,0
+51R,Railroad,East,5,14,2023,Complete,NONE,0,0
+51R,Railroad,East,5,18,2023,Complete,NONE,0,0
+51R,Railroad,East,5,21,2023,Complete,NONE,0,0
+51R,Railroad,East,5,23,2023,Complete,NONE,0,0
+51R,Railroad,East,5,25,2023,Complete,NONE,0,0
+51R,Railroad,East,5,27,2023,Available,NONE,0,0
+51R,Railroad,East,5,29,2023,Available,NONE,0,0
+51R,Railroad,East,5,31,2023,Available,NONE,0,0
+51R,Railroad,East,6,2,2023,Available,NONE,0,0
+51R,Railroad,East,6,5,2023,Available,NONE,0,0
+51R,Railroad,East,6,7,2023,Available,NONE,0,0
+51R,Railroad,East,6,9,2023,Available,NONE,0,0
+51R,Railroad,East,6,12,2023,Available,NONE,0,0
+51R,Railroad,East,6,14,2023,Available,NONE,0,0
+51R,Railroad,East,6,16,2023,Available,NONE,0,0
+51R,Railroad,East,6,19,2023,Available,NONE,0,0
+51R,Railroad,East,6,21,2023,Available,NONE,0,0
+51R,Railroad,East,6,23,2023,Available,NONE,0,0
+51R,Railroad,East,6,26,2023,Available,NONE,0,0
+51R,Railroad,East,6,28,2023,Available,NONE,0,0
+51R,Railroad,East,6,30,2023,Available,NONE,0,0
+51R,Railroad,East,7,3,2023,Available,NONE,0,0
+51R,Railroad,East,7,5,2023,Available,NONE,0,0
+51R,Railroad,East,7,7,2023,Available,NONE,0,0
+51R,Railroad,East,7,10,2023,Available,NONE,0,0
+51R,Railroad,East,7,12,2023,Available,NONE,0,0
+51R,Railroad,East,7,14,2023,Available,NONE,0,0
+51R,Railroad,East,7,17,2023,Available,NONE,0,0
+52R,Railroad,North,2,19,2023,Available ,NONE,0,0
+52R,Railroad,North,2,26,2023,Available ,NONE,0,0
+52R,Railroad,North,2,28,2023,Available ,NONE,0,0
+52R,Railroad,North,3,16,2023,Available ,NONE,0,0
+52R,Railroad,North,3,19,2023,Available ,NONE,0,0
+52R,Railroad,North,3,23,2023,Available ,NONE,0,0
+52R,Railroad,North,3,26,2023,Available ,NONE,0,0
+52R,Railroad,North,3,30,2023,Available ,NONE,0,0
+52R,Railroad,North,4,2,2023,Available ,NONE,0,0
+52R,Railroad,North,4,6,2023,Available ,NONE,0,0
+52R,Railroad,North,4,9,2023,Available ,NONE,0,0
+52R,Railroad,North,4,13,2023,Available ,NONE,0,0
+52R,Railroad,North,4,16,2023,Start,TRES,0,0
+52R,Railroad,North,4,20,2023,Start,TRES,0,0
+52R,Railroad,North,4,23,2023,Medium,TRES,0,0
+52R,Railroad,North,4,27,2023,Complete,TRES,0,0
+52R,Railroad,North,4,29,2023,Eggs,TRES,1,0
+52R,Railroad,North,5,4,2023,Eggs,TRES,6,0
+52R,Railroad,North,5,7,2023,Eggs,TRES,6,0
+52R,Railroad,North,5,11,2023,Eggs,TRES,6,0
+52R,Railroad,North,5,14,2023,Eggs,TRES,6,0
+52R,Railroad,North,5,18,2023,Chicks,TRES,3,3
+52R,Railroad,North,5,21,2023,Chicks,TRES,0,6
+52R,Railroad,North,5,23,2023,Chicks,TRES,0,6
+52R,Railroad,North,5,25,2023,Chicks,TRES,0,6
+52R,Railroad,North,5,27,2023,Chicks,TRES,0,6
+52R,Railroad,North,5,29,2023,Chicks,TRES,0,6
+52R,Railroad,North,5,31,2023,Fledged,TRES,0,0
+52R,Railroad,North,6,2,2023,Available,NONE,0,0
+52R,Railroad,North,6,5,2023,Available,NONE,0,0
+52R,Railroad,North,6,7,2023,Available,NONE,0,0
+52R,Railroad,North,6,9,2023,Available,NONE,0,0
+52R,Railroad,North,6,12,2023,Available,NONE,0,0
+52R,Railroad,North,6,14,2023,Available,NONE,0,0
+52R,Railroad,North,6,16,2023,Available,NONE,0,0
+52R,Railroad,North,6,19,2023,Available,NONE,0,0
+52R,Railroad,North,6,21,2023,Available,NONE,0,0
+52R,Railroad,North,6,23,2023,Available,NONE,0,0
+52R,Railroad,North,6,26,2023,Available,NONE,0,0
+52R,Railroad,North,6,28,2023,Available,NONE,0,0
+52R,Railroad,North,6,30,2023,Available,NONE,0,0
+52R,Railroad,North,7,3,2023,Available,NONE,0,0
+52R,Railroad,North,7,5,2023,Available,NONE,0,0
+52R,Railroad,North,7,7,2023,Available,NONE,0,0
+52R,Railroad,North,7,10,2023,Available,NONE,0,0
+52R,Railroad,North,7,12,2023,Available,NONE,0,0
+52R,Railroad,North,7,14,2023,Available,NONE,0,0
+52R,Railroad,North,7,17,2023,Available,NONE,0,0
+71R,Railroad,West,2,19,2023,Available ,NONE,0,0
+71R,Railroad,West,2,26,2023,Available ,NONE,0,0
+71R,Railroad,West,2,28,2023,Available ,NONE,0,0
+71R,Railroad,West,3,16,2023,Available ,NONE,0,0
+71R,Railroad,West,3,19,2023,Available ,NONE,0,0
+71R,Railroad,West,3,23,2023,Available ,NONE,0,0
+71R,Railroad,West,3,26,2023,Available ,NONE,0,0
+71R,Railroad,West,3,30,2023,Available ,NONE,0,0
+71R,Railroad,West,4,2,2023,Available ,NONE,0,0
+71R,Railroad,West,4,6,2023,Available ,NONE,0,0
+71R,Railroad,West,4,9,2023,Available ,NONE,0,0
+71R,Railroad,West,4,13,2023,Available ,NONE,0,0
+71R,Railroad,West,5,31,2023,Available,NONE,0,0
+71R,Railroad,West,6,2,2023,Available,NONE,0,0
+71R,Railroad,West,6,5,2023,Available,NONE,0,0
+71R,Railroad,West,6,7,2023,Available,NONE,0,0
+71R,Railroad,West,6,9,2023,Available,NONE,0,0
+71R,Railroad,West,6,12,2023,Available,NONE,0,0
+72R,Railroad,South,2,19,2023,Available ,NONE,0,0
+72R,Railroad,South,2,26,2023,Available ,NONE,0,0
+72R,Railroad,South,2,28,2023,Available ,NONE,0,0
+72R,Railroad,South,3,16,2023,Available ,NONE,0,0
+72R,Railroad,South,3,19,2023,Available ,NONE,0,0
+72R,Railroad,South,3,23,2023,Available ,NONE,0,0
+72R,Railroad,South,3,26,2023,Available ,NONE,0,0
+72R,Railroad,South,3,30,2023,Available ,NONE,0,0
+72R,Railroad,South,4,2,2023,Available ,NONE,0,0
+72R,Railroad,South,4,6,2023,Available ,NONE,0,0
+72R,Railroad,South,4,9,2023,Available ,NONE,0,0
+72R,Railroad,South,4,13,2023,Available ,NONE,0,0
+72R,Railroad,South,4,16,2023,Available ,NONE,0,0
+72R,Railroad,South,4,20,2023,Available ,NONE,0,0
+72R,Railroad,South,4,23,2023,Available ,NONE,0,0
+72R,Railroad,South,4,27,2023,Available ,NONE,0,0
+72R,Railroad,South,4,29,2023,Available ,NONE,0,0
+72R,Railroad,South,5,4,2023,Available ,NONE,0,0
+72R,Railroad,South,5,7,2023,Available ,NONE,0,0
+72R,Railroad,South,5,11,2023,Available ,NONE,0,0
+72R,Railroad,South,5,14,2023,Available ,NONE,0,0
+72R,Railroad,South,5,18,2023,Available ,NONE,0,0
+72R,Railroad,South,5,21,2023,Available ,NONE,0,0
+72R,Railroad,South,5,23,2023,Available ,NONE,0,0
+72R,Railroad,South,5,25,2023,Available ,NONE,0,0
+72R,Railroad,South,5,27,2023,Available ,NONE,0,0
+72R,Railroad,South,5,29,2023,Available ,NONE,0,0
+72R,Railroad,South,5,31,2023,Available ,NONE,0,0
+72R,Railroad,South,6,2,2023,Available ,NONE,0,0
+72R,Railroad,South,6,5,2023,Available ,NONE,0,0
+72R,Railroad,South,6,7,2023,Available ,NONE,0,0
+72R,Railroad,South,6,9,2023,Available ,NONE,0,0
+72R,Railroad,South,6,12,2023,Available ,NONE,0,0
+72R,Railroad,South,6,14,2023,Available ,NONE,0,0
+72R,Railroad,South,6,16,2023,Available ,NONE,0,0
+72R,Railroad,South,6,19,2023,Available ,NONE,0,0
+72R,Railroad,South,6,21,2023,Available ,NONE,0,0
+72R,Railroad,South,6,23,2023,Available ,NONE,0,0
+72R,Railroad,South,6,26,2023,Available ,NONE,0,0
+72R,Railroad,South,6,28,2023,Available ,NONE,0,0
+72R,Railroad,South,6,30,2023,Available ,NONE,0,0
+72R,Railroad,South,7,3,2023,Available ,NONE,0,0
+72R,Railroad,South,7,5,2023,Available ,NONE,0,0
+72R,Railroad,South,7,7,2023,Available ,NONE,0,0
+72R,Railroad,South,7,10,2023,Available ,NONE,0,0
+72R,Railroad,South,7,12,2023,Available ,NONE,0,0
+72R,Railroad,South,7,14,2023,Available ,NONE,0,0
+72R,Railroad,South,7,17,2023,Available ,NONE,0,0
+73R,Railroad,East,2,19,2023,Available ,NONE,0,0
+73R,Railroad,East,2,26,2023,Available ,NONE,0,0
+73R,Railroad,East,2,28,2023,Available ,NONE,0,0
+73R,Railroad,East,3,16,2023,Available ,NONE,0,0
+73R,Railroad,East,3,19,2023,Available ,NONE,0,0
+73R,Railroad,East,3,23,2023,Available ,NONE,0,0
+73R,Railroad,East,3,26,2023,Available ,NONE,0,0
+73R,Railroad,East,3,30,2023,Available ,NONE,0,0
+73R,Railroad,East,4,2,2023,Available ,NONE,0,0
+73R,Railroad,East,4,6,2023,Available ,NONE,0,0
+73R,Railroad,East,4,9,2023,Available ,NONE,0,0
+73R,Railroad,East,4,13,2023,Available ,NONE,0,0
+73R,Railroad,East,4,16,2023,Available ,NONE,0,0
+73R,Railroad,East,4,20,2023,Available ,NONE,0,0
+73R,Railroad,East,4,23,2023,Available ,NONE,0,0
+73R,Railroad,East,4,27,2023,Available ,NONE,0,0
+73R,Railroad,East,4,29,2023,Available ,NONE,0,0
+73R,Railroad,East,5,4,2023,Available ,NONE,0,0
+73R,Railroad,East,5,7,2023,Start,TRES,0,0
+73R,Railroad,East,5,11,2023,Medium,TRES,0,0
+73R,Railroad,East,5,14,2023,Eggs,TRES,2,0
+73R,Railroad,East,5,18,2023,Eggs,TRES,5,0
+73R,Railroad,East,5,21,2023,Eggs,TRES,6,0
+73R,Railroad,East,5,23,2023,Eggs,TRES,6,0
+73R,Railroad,East,5,25,2023,Eggs,TRES,6,0
+73R,Railroad,East,5,27,2023,Eggs,TRES,6,0
+73R,Railroad,East,5,29,2023,Eggs,TRES,6,0
+73R,Railroad,East,5,31,2023,Chicks,TRES,1,5
+73R,Railroad,East,6,2,2023,Chicks,TRES,0,6
+73R,Railroad,East,6,5,2023,Chicks,TRES,0,6
+73R,Railroad,East,6,7,2023,Chicks,TRES,0,6
+73R,Railroad,East,6,9,2023,Chicks,TRES,0,6
+73R,Railroad,East,6,12,2023,Failed,TRES,0,0
+73R,Railroad,East,6,14,2023,Available,NONE,0,0
+73R,Railroad,East,6,16,2023,Available,NONE,0,0
+73R,Railroad,East,6,19,2023,Available,NONE,0,0
+73R,Railroad,East,6,21,2023,Available,NONE,0,0
+73R,Railroad,East,6,23,2023,Available,NONE,0,0
+73R,Railroad,East,6,26,2023,Available,NONE,0,0
+73R,Railroad,East,6,28,2023,Available,NONE,0,0
+73R,Railroad,East,6,30,2023,Available,NONE,0,0
+73R,Railroad,East,7,3,2023,Available,NONE,0,0
+73R,Railroad,East,7,5,2023,Available,NONE,0,0
+73R,Railroad,East,7,7,2023,Available,NONE,0,0
+73R,Railroad,East,7,10,2023,Available,NONE,0,0
+73R,Railroad,East,7,12,2023,Available,NONE,0,0
+73R,Railroad,East,7,14,2023,Available,NONE,0,0
+73R,Railroad,East,7,17,2023,Available,NONE,0,0
+1C,Cemetery,North,2,19,2023,Available ,NONE,0,0
+1C,Cemetery,North,2,26,2023,Available ,NONE,0,0
+1C,Cemetery,North,2,28,2023,Available ,NONE,0,0
+1C,Cemetery,North,3,16,2023,Available ,NONE,0,0
+1C,Cemetery,North,3,19,2023,Available ,NONE,0,0
+1C,Cemetery,North,3,23,2023,Available ,NONE,0,0
+1C,Cemetery,North,3,26,2023,Available ,NONE,0,0
+1C,Cemetery,North,3,30,2023,Available ,NONE,0,0
+1C,Cemetery,North,4,2,2023,Available ,NONE,0,0
+1C,Cemetery,North,4,6,2023,Available ,NONE,0,0
+1C,Cemetery,North,4,9,2023,Available ,NONE,0,0
+1C,Cemetery,North,4,13,2023,Available ,NONE,0,0
+1C,Cemetery,North,4,16,2023,Available ,NONE,0,0
+1C,Cemetery,North,4,20,2023,Available ,NONE,0,0
+1C,Cemetery,North,4,23,2023,Available ,NONE,0,0
+1C,Cemetery,North,4,27,2023,Available ,NONE,0,0
+1C,Cemetery,North,4,29,2023,Available ,NONE,0,0
+1C,Cemetery,North,5,4,2023,Available ,NONE,0,0
+1C,Cemetery,North,5,7,2023,Available ,NONE,0,0
+1C,Cemetery,North,5,11,2023,Available ,NONE,0,0
+1C,Cemetery,North,5,14,2023,Available ,NONE,0,0
+1C,Cemetery,North,5,18,2023,Medium,TRES,0,0
+1C,Cemetery,North,5,21,2023,Complete,TRES,0,0
+1C,Cemetery,North,5,23,2023,Complete,TRES,0,0
+1C,Cemetery,North,5,25,2023,Eggs,TRES,1,0
+1C,Cemetery,North,5,27,2023,Eggs,TRES,3,0
+1C,Cemetery,North,5,29,2023,Complete,TRES,0,0
+1C,Cemetery,North,5,31,2023,Eggs,TRES,5,0
+1C,Cemetery,North,6,2,2023,Eggs,TRES,5,0
+1C,Cemetery,North,6,5,2023,Eggs,TRES,5,0
+1C,Cemetery,North,6,7,2023,Eggs,TRES,5,0
+1C,Cemetery,North,6,9,2023,Eggs,TRES,5,0
+1C,Cemetery,North,6,12,2023,Chicks,TRES,1,4
+1C,Cemetery,North,6,14,2023,Chicks,TRES,1,4
+1C,Cemetery,North,6,16,2023,Chicks,TRES,1,2
+1C,Cemetery,North,6,19,2023,Failed,TRES,1,0
+1C,Cemetery,North,6,21,2023,Available,NONE,0,0
+1C,Cemetery,North,6,23,2023,Available,NONE,0,0
+1C,Cemetery,North,6,26,2023,Available,NONE,0,0
+1C,Cemetery,North,6,28,2023,Available,NONE,0,0
+1C,Cemetery,North,6,30,2023,Available,NONE,0,0
+1C,Cemetery,North,7,3,2023,Available,NONE,0,0
+1C,Cemetery,North,7,5,2023,Available,NONE,0,0
+1C,Cemetery,North,7,7,2023,Available,NONE,0,0
+1C,Cemetery,North,7,10,2023,Available,NONE,0,0
+1C,Cemetery,North,7,12,2023,Available,NONE,0,0
+1C,Cemetery,North,7,14,2023,Available,NONE,0,0
+1C,Cemetery,North,7,17,2023,Available,NONE,0,0
+2C,Cemetery,East,2,19,2023,Available ,NONE,0,0
+2C,Cemetery,East,2,26,2023,Available ,NONE,0,0
+2C,Cemetery,East,2,28,2023,Available ,NONE,0,0
+2C,Cemetery,East,3,16,2023,Available ,NONE,0,0
+2C,Cemetery,East,3,19,2023,Available ,NONE,0,0
+2C,Cemetery,East,3,23,2023,Available ,NONE,0,0
+2C,Cemetery,East,3,26,2023,Available ,NONE,0,0
+2C,Cemetery,East,3,30,2023,Available ,NONE,0,0
+2C,Cemetery,East,4,2,2023,Available ,NONE,0,0
+2C,Cemetery,East,4,6,2023,Available ,NONE,0,0
+2C,Cemetery,East,4,9,2023,Available ,NONE,0,0
+2C,Cemetery,East,4,13,2023,Available ,NONE,0,0
+2C,Cemetery,East,4,16,2023,Available,NONE,0,0
+2C,Cemetery,East,4,20,2023,Start,TRES,0,0
+2C,Cemetery,East,4,23,2023,Medium,TRES,0,0
+2C,Cemetery,East,4,27,2023,Complete,TRES,0,0
+2C,Cemetery,East,4,29,2023,Complete,TRES,0,0
+2C,Cemetery,East,5,4,2023,Eggs,TRES,2,0
+2C,Cemetery,East,5,7,2023,Eggs,TRES,2,0
+2C,Cemetery,East,5,11,2023,Eggs,TRES,4,0
+2C,Cemetery,East,5,14,2023,Eggs,TRES,4,0
+2C,Cemetery,East,5,18,2023,Eggs,TRES,4,0
+2C,Cemetery,East,5,21,2023,Eggs,TRES,4,0
+2C,Cemetery,East,5,23,2023,Eggs,TRES,4,0
+2C,Cemetery,East,5,25,2023,Failed,TRES,4,0
+2C,Cemetery,East,5,27,2023,Available,NONE,0,0
+2C,Cemetery,East,5,29,2023,Available,NONE,0,0
+2C,Cemetery,East,5,31,2023,Available,NONE,0,0
+2C,Cemetery,East,6,2,2023,Available,NONE,0,0
+2C,Cemetery,East,6,5,2023,Available,NONE,0,0
+2C,Cemetery,East,6,7,2023,Available,NONE,0,0
+2C,Cemetery,East,6,9,2023,Available,NONE,0,0
+2C,Cemetery,East,6,12,2023,Available,NONE,0,0
+2C,Cemetery,East,6,14,2023,Available,NONE,0,0
+2C,Cemetery,East,6,16,2023,Available,NONE,0,0
+2C,Cemetery,East,6,19,2023,Available,NONE,0,0
+2C,Cemetery,East,6,21,2023,Available,NONE,0,0
+2C,Cemetery,East,6,23,2023,Available,NONE,0,0
+2C,Cemetery,East,6,26,2023,Available,NONE,0,0
+2C,Cemetery,East,6,28,2023,Available,NONE,0,0
+2C,Cemetery,East,6,30,2023,Available,NONE,0,0
+2C,Cemetery,East,7,3,2023,Available,NONE,0,0
+2C,Cemetery,East,7,5,2023,Available,NONE,0,0
+2C,Cemetery,East,7,7,2023,Available,NONE,0,0
+2C,Cemetery,East,7,10,2023,Available,NONE,0,0
+2C,Cemetery,East,7,12,2023,Available,NONE,0,0
+2C,Cemetery,East,7,14,2023,Available,NONE,0,0
+2C,Cemetery,East,7,17,2023,Available,NONE,0,0
+3C,Cemetery,South,2,19,2023,Available ,NONE,0,0
+3C,Cemetery,South,2,26,2023,Available ,NONE,0,0
+3C,Cemetery,South,2,28,2023,Available ,NONE,0,0
+3C,Cemetery,South,3,16,2023,Available ,NONE,0,0
+3C,Cemetery,South,3,19,2023,Available ,NONE,0,0
+3C,Cemetery,South,3,23,2023,Available ,NONE,0,0
+3C,Cemetery,South,3,26,2023,Available ,NONE,0,0
+3C,Cemetery,South,3,30,2023,Available ,NONE,0,0
+3C,Cemetery,South,4,2,2023,Available ,NONE,0,0
+3C,Cemetery,South,4,6,2023,Available ,NONE,0,0
+3C,Cemetery,South,4,9,2023,Available ,NONE,0,0
+3C,Cemetery,South,4,13,2023,Available ,NONE,0,0
+3C,Cemetery,South,4,16,2023,Available ,NONE,0,0
+3C,Cemetery,South,4,20,2023,Available ,NONE,0,0
+3C,Cemetery,South,4,23,2023,Start,TRES,0,0
+3C,Cemetery,South,4,27,2023,Medium,TRES,0,0
+3C,Cemetery,South,4,29,2023,Medium,TRES,0,0
+3C,Cemetery,South,5,4,2023,Medium,TRES,0,0
+3C,Cemetery,South,5,7,2023,Eggs,TRES,2,0
+3C,Cemetery,South,5,11,2023,Eggs,TRES,4,0
+3C,Cemetery,South,5,14,2023,Eggs,TRES,4,0
+3C,Cemetery,South,5,18,2023,Eggs,TRES,4,0
+3C,Cemetery,South,5,21,2023,Failed,TRES,2,0
+3C,Cemetery,South,5,23,2023,Available,NONE,0,0
+3C,Cemetery,South,5,25,2023,Available,NONE,0,0
+3C,Cemetery,South,5,27,2023,Available,NONE,0,0
+3C,Cemetery,South,5,29,2023,Available,NONE,0,0
+3C,Cemetery,South,5,31,2023,Available,NONE,0,0
+3C,Cemetery,South,6,2,2023,Available,NONE,0,0
+3C,Cemetery,South,6,5,2023,Available,NONE,0,0
+3C,Cemetery,South,6,7,2023,Complete,TRES,0,0
+3C,Cemetery,South,6,9,2023,Complete,TRES,0,0
+3C,Cemetery,South,6,12,2023,Eggs,TRES,2,0
+3C,Cemetery,South,6,14,2023,Eggs,TRES,2,0
+3C,Cemetery,South,6,16,2023,Eggs,TRES,2,0
+3C,Cemetery,South,6,19,2023,Failed,TRES,2,0
+3C,Cemetery,South,6,21,2023,Available,NONE,0,0
+3C,Cemetery,South,6,23,2023,Available,NONE,0,0
+3C,Cemetery,South,6,26,2023,Available,NONE,0,0
+3C,Cemetery,South,6,28,2023,Available,NONE,0,0
+3C,Cemetery,South,6,30,2023,Available,NONE,0,0
+3C,Cemetery,South,7,3,2023,Available,NONE,0,0
+3C,Cemetery,South,7,5,2023,Available,NONE,0,0
+3C,Cemetery,South,7,7,2023,Available,NONE,0,0
+3C,Cemetery,South,7,10,2023,Available,NONE,0,0
+3C,Cemetery,South,7,12,2023,Available,NONE,0,0
+3C,Cemetery,South,7,14,2023,Available,NONE,0,0
+3C,Cemetery,South,7,17,2023,Available,NONE,0,0
+4C,Cemetery,West,2,19,2023,Available ,NONE,0,0
+4C,Cemetery,West,2,26,2023,Available ,NONE,0,0
+4C,Cemetery,West,2,28,2023,Available ,NONE,0,0
+4C,Cemetery,West,3,16,2023,Available ,NONE,0,0
+4C,Cemetery,West,3,19,2023,Available ,NONE,0,0
+4C,Cemetery,West,3,23,2023,Available ,NONE,0,0
+4C,Cemetery,West,3,26,2023,Available ,NONE,0,0
+4C,Cemetery,West,3,30,2023,Available ,NONE,0,0
+4C,Cemetery,West,4,2,2023,Available ,NONE,0,0
+4C,Cemetery,West,5,23,2023,Available ,NONE,0,0
+4C,Cemetery,West,5,25,2023,Available ,NONE,0,0
+4C,Cemetery,West,5,27,2023,Available ,NONE,0,0
+4C,Cemetery,West,5,29,2023,Complete,TRES,0,0
+4C,Cemetery,West,5,31,2023,Eggs,TRES,2,0
+4C,Cemetery,West,6,2,2023,Eggs,TRES,3,0
+4C,Cemetery,West,6,5,2023,Eggs,TRES,3,0
+4C,Cemetery,West,6,7,2023,Eggs,TRES,3,0
+4C,Cemetery,West,6,9,2023,Eggs,TRES,3,0
+4C,Cemetery,West,6,12,2023,Eggs,TRES,3,0
+4C,Cemetery,West,6,14,2023,Eggs,TRES,3,0
+4C,Cemetery,West,6,16,2023,Eggs,TRES,3,0
+4C,Cemetery,West,6,19,2023,Eggs,TRES,2,0
+4C,Cemetery,West,6,21,2023,Eggs,TRES,2,0
+4C,Cemetery,West,6,23,2023,Eggs,TRES,2,0
+4C,Cemetery,West,6,26,2023,Eggs,TRES,2,0
+4C,Cemetery,West,6,28,2023,Eggs,TRES,2,0
+4C,Cemetery,West,6,30,2023,Failed,TRES,2,0
+4C,Cemetery,West,7,3,2023,Available,NONE,0,0
+4C,Cemetery,West,7,5,2023,Available,NONE,0,0
+4C,Cemetery,West,7,7,2023,Available,NONE,0,0
+4C,Cemetery,West,7,10,2023,Available,NONE,0,0
+4C,Cemetery,West,7,12,2023,Available,NONE,0,0
+4C,Cemetery,West,7,14,2023,Available,NONE,0,0
+4C,Cemetery,West,7,17,2023,Available,NONE,0,0
+5C,Cemetery,North,2,19,2023,Available ,NONE,0,0
+5C,Cemetery,North,2,26,2023,Available ,NONE,0,0
+5C,Cemetery,North,2,28,2023,Available ,NONE,0,0
+5C,Cemetery,North,3,16,2023,Available ,NONE,0,0
+5C,Cemetery,North,3,19,2023,Available ,NONE,0,0
+5C,Cemetery,North,3,23,2023,Available ,NONE,0,0
+5C,Cemetery,North,3,26,2023,Available ,NONE,0,0
+5C,Cemetery,North,3,30,2023,Available ,NONE,0,0
+5C,Cemetery,North,4,2,2023,Available ,NONE,0,0
+5C,Cemetery,North,4,6,2023,Available ,NONE,0,0
+5C,Cemetery,North,4,9,2023,Available ,NONE,0,0
+5C,Cemetery,North,4,13,2023,Available ,NONE,0,0
+5C,Cemetery,North,4,16,2023,Available ,NONE,0,0
+5C,Cemetery,North,4,20,2023,Available ,NONE,0,0
+5C,Cemetery,North,4,23,2023,Available ,NONE,0,0
+5C,Cemetery,North,4,27,2023,Available ,NONE,0,0
+5C,Cemetery,North,4,29,2023,Available ,NONE,0,0
+5C,Cemetery,North,5,4,2023,Available ,NONE,0,0
+5C,Cemetery,North,5,7,2023,Available ,NONE,0,0
+5C,Cemetery,North,5,11,2023,Available ,NONE,0,0
+5C,Cemetery,North,5,14,2023,Available ,NONE,0,0
+5C,Cemetery,North,5,18,2023,Available ,NONE,0,0
+5C,Cemetery,North,5,21,2023,Available ,NONE,0,0
+5C,Cemetery,North,5,23,2023,Available ,NONE,0,0
+5C,Cemetery,North,5,25,2023,Available ,NONE,0,0
+5C,Cemetery,North,5,27,2023,Available ,NONE,0,0
+5C,Cemetery,North,5,29,2023,Available ,NONE,0,0
+5C,Cemetery,North,5,31,2023,Available ,NONE,0,0
+5C,Cemetery,North,6,2,2023,Available ,NONE,0,0
+5C,Cemetery,North,6,5,2023,Available ,NONE,0,0
+5C,Cemetery,North,6,7,2023,Available ,NONE,0,0
+5C,Cemetery,North,6,9,2023,Available ,NONE,0,0
+5C,Cemetery,North,6,12,2023,Available ,NONE,0,0
+5C,Cemetery,North,6,14,2023,Available ,NONE,0,0
+5C,Cemetery,North,6,16,2023,Available ,NONE,0,0
+5C,Cemetery,North,6,19,2023,Available ,NONE,0,0
+5C,Cemetery,North,6,21,2023,Available ,NONE,0,0
+5C,Cemetery,North,6,23,2023,Available ,NONE,0,0
+5C,Cemetery,North,6,26,2023,Available ,NONE,0,0
+5C,Cemetery,North,6,28,2023,Available ,NONE,0,0
+5C,Cemetery,North,6,30,2023,Available ,NONE,0,0
+5C,Cemetery,North,7,3,2023,Available ,NONE,0,0
+5C,Cemetery,North,7,5,2023,Available ,NONE,0,0
+5C,Cemetery,North,7,7,2023,Available ,NONE,0,0
+5C,Cemetery,North,7,10,2023,Available ,NONE,0,0
+5C,Cemetery,North,7,12,2023,Available ,NONE,0,0
+5C,Cemetery,North,7,14,2023,Available ,NONE,0,0
+5C,Cemetery,North,7,17,2023,Available ,NONE,0,0
+6C,Cemetery,East,2,19,2023,Available ,NONE,0,0
+6C,Cemetery,East,2,26,2023,Available ,NONE,0,0
+6C,Cemetery,East,2,28,2023,Available ,NONE,0,0
+6C,Cemetery,East,3,16,2023,Available ,NONE,0,0
+6C,Cemetery,East,3,19,2023,Available ,NONE,0,0
+6C,Cemetery,East,3,23,2023,Available ,NONE,0,0
+6C,Cemetery,East,3,26,2023,Available ,NONE,0,0
+6C,Cemetery,East,3,30,2023,Available ,NONE,0,0
+6C,Cemetery,East,4,2,2023,Available ,NONE,0,0
+6C,Cemetery,East,4,6,2023,Available ,NONE,0,0
+6C,Cemetery,East,4,9,2023,Available ,NONE,0,0
+6C,Cemetery,East,4,13,2023,Available ,NONE,0,0
+6C,Cemetery,East,4,16,2023,Start,TRES,0,0
+6C,Cemetery,East,4,20,2023,Start,TRES,0,0
+6C,Cemetery,East,4,23,2023,Start,TRES,0,0
+6C,Cemetery,East,4,27,2023,Medium,TRES,0,0
+6C,Cemetery,East,4,29,2023,Medium,TRES,0,0
+6C,Cemetery,East,5,4,2023,Eggs,TRES,3,0
+6C,Cemetery,East,5,7,2023,Eggs,TRES,5,0
+6C,Cemetery,East,5,11,2023,Eggs,TRES,5,0
+6C,Cemetery,East,5,14,2023,Eggs,TRES,5,0
+6C,Cemetery,East,5,18,2023,Eggs,TRES,5,0
+6C,Cemetery,East,5,21,2023,Chicks,TRES,0,5
+6C,Cemetery,East,5,23,2023,Chicks,TRES,0,5
+6C,Cemetery,East,5,25,2023,Chicks,TRES,0,5
+6C,Cemetery,East,5,27,2023,Chicks,TRES,0,5
+6C,Cemetery,East,5,29,2023,Chicks,TRES,0,5
+6C,Cemetery,East,5,31,2023,Chicks,TRES,0,3
+6C,Cemetery,East,6,2,2023,Chicks,TRES,0,3
+6C,Cemetery,East,6,5,2023,Fledged,TRES,0,0
+6C,Cemetery,East,6,7,2023,Available,NONE,0,0
+6C,Cemetery,East,6,9,2023,Available,NONE,0,0
+6C,Cemetery,East,6,12,2023,Available,NONE,0,0
+6C,Cemetery,East,6,14,2023,Available,NONE,0,0
+6C,Cemetery,East,6,16,2023,Available,NONE,0,0
+6C,Cemetery,East,6,19,2023,Available,NONE,0,0
+6C,Cemetery,East,6,21,2023,Available,NONE,0,0
+6C,Cemetery,East,6,23,2023,Available,NONE,0,0
+6C,Cemetery,East,6,26,2023,Available,NONE,0,0
+6C,Cemetery,East,6,28,2023,Available,NONE,0,0
+6C,Cemetery,East,6,30,2023,Available,NONE,0,0
+6C,Cemetery,East,7,3,2023,Available,NONE,0,0
+6C,Cemetery,East,7,5,2023,Available,NONE,0,0
+6C,Cemetery,East,7,7,2023,Available,NONE,0,0
+6C,Cemetery,East,7,10,2023,Available,NONE,0,0
+6C,Cemetery,East,7,12,2023,Available,NONE,0,0
+6C,Cemetery,East,7,14,2023,Available,NONE,0,0
+6C,Cemetery,East,7,17,2023,Available,NONE,0,0
+7C,Cemetery,South,2,19,2023,Available ,NONE,0,0
+7C,Cemetery,South,2,26,2023,Available ,NONE,0,0
+7C,Cemetery,South,2,28,2023,Available ,NONE,0,0
+7C,Cemetery,South,3,16,2023,Available ,NONE,0,0
+7C,Cemetery,South,3,19,2023,Available ,NONE,0,0
+7C,Cemetery,South,3,23,2023,Available ,NONE,0,0
+7C,Cemetery,South,3,26,2023,Available ,NONE,0,0
+7C,Cemetery,South,3,30,2023,Available ,NONE,0,0
+7C,Cemetery,South,4,2,2023,Available ,NONE,0,0
+7C,Cemetery,South,4,6,2023,Available ,NONE,0,0
+7C,Cemetery,South,4,9,2023,Available ,NONE,0,0
+7C,Cemetery,South,4,13,2023,Available ,NONE,0,0
+7C,Cemetery,South,4,16,2023,Available,NONE,0,0
+7C,Cemetery,South,4,20,2023,Start,TRES,0,0
+7C,Cemetery,South,4,23,2023,Start,TRES,0,0
+7C,Cemetery,South,4,27,2023,Complete,TRES,0,0
+7C,Cemetery,South,4,29,2023,Complete,TRES,0,0
+7C,Cemetery,South,5,4,2023,Complete,TRES,0,0
+7C,Cemetery,South,5,7,2023,Complete,TRES,0,0
+7C,Cemetery,South,5,11,2023,Complete,TRES,0,0
+7C,Cemetery,South,5,14,2023,Eggs,TRES,2,0
+7C,Cemetery,South,5,18,2023,Eggs,TRES,6,0
+7C,Cemetery,South,5,21,2023,Eggs,TRES,6,0
+7C,Cemetery,South,5,23,2023,Failed,TRES,6,0
+7C,Cemetery,South,5,25,2023,Available,TRES,6,0
+7C,Cemetery,South,5,27,2023,Available,TRES,6,0
+7C,Cemetery,South,5,29,2023,Available,TRES,6,0
+7C,Cemetery,South,5,31,2023,Available,TRES,6,0
+7C,Cemetery,South,6,2,2023,Available,TRES,6,0
+7C,Cemetery,South,6,5,2023,Available,TRES,6,0
+7C,Cemetery,South,6,7,2023,Complete,TRES,0,0
+7C,Cemetery,South,6,9,2023,Complete,TRES,0,0
+7C,Cemetery,South,6,12,2023,Eggs,TRES,1,0
+7C,Cemetery,South,6,14,2023,Eggs,TRES,1,0
+7C,Cemetery,South,6,16,2023,Eggs,TRES,4,0
+7C,Cemetery,South,6,19,2023,Eggs,TRES,6,0
+7C,Cemetery,South,6,21,2023,Eggs,TRES,6,0
+7C,Cemetery,South,6,23,2023,Eggs,TRES,6,0
+7C,Cemetery,South,6,26,2023,Eggs,TRES,6,0
+7C,Cemetery,South,6,28,2023,Eggs,TRES,6,0
+7C,Cemetery,South,6,30,2023,Eggs,TRES,6,0
+7C,Cemetery,South,7,3,2023,Chicks,TRES,5,1
+7C,Cemetery,South,7,5,2023,Chicks,TRES,5,1
+7C,Cemetery,South,7,7,2023,Chicks,TRES,5,1
+7C,Cemetery,South,7,10,2023,Chicks,TRES,5,1
+7C,Cemetery,South,7,12,2023,Chicks,TRES,5,1
+7C,Cemetery,South,7,14,2023,Chicks,TRES,5,1
+7C,Cemetery,South,7,17,2023,Chicks,TRES,5,1
+8C,Cemetery,West,2,19,2023,Available ,NONE,0,0
+8C,Cemetery,West,2,26,2023,Available ,NONE,0,0
+8C,Cemetery,West,2,28,2023,Available ,NONE,0,0
+8C,Cemetery,West,3,16,2023,Available ,NONE,0,0
+8C,Cemetery,West,3,19,2023,Available ,NONE,0,0
+8C,Cemetery,West,3,23,2023,Available ,NONE,0,0
+8C,Cemetery,West,3,26,2023,Available ,NONE,0,0
+8C,Cemetery,West,3,30,2023,Available ,NONE,0,0
+8C,Cemetery,West,4,2,2023,Available ,NONE,0,0
+8C,Cemetery,West,4,6,2023,Available ,NONE,0,0
+8C,Cemetery,West,4,9,2023,Available,NONE,0,0
+8C,Cemetery,West,4,13,2023,Start,TRES,0,0
+8C,Cemetery,West,4,16,2023,Start,TRES,0,0
+8C,Cemetery,West,4,20,2023,Start,TRES,0,0
+8C,Cemetery,West,4,23,2023,Medium,TRES,0,0
+8C,Cemetery,West,4,27,2023,Complete,TRES,0,0
+8C,Cemetery,West,4,29,2023,Complete,TRES,0,0
+8C,Cemetery,West,5,4,2023,Eggs,TRES,3,0
+8C,Cemetery,West,5,7,2023,Eggs,TRES,6,0
+8C,Cemetery,West,5,11,2023,Eggs,TRES,6,0
+8C,Cemetery,West,5,14,2023,Eggs,TRES,6,0
+8C,Cemetery,West,5,18,2023,Eggs,TRES,6,0
+8C,Cemetery,West,5,21,2023,Chicks,TRES,4,2
+8C,Cemetery,West,5,23,2023,Failed,TRES,2,0
+8C,Cemetery,West,5,25,2023,Eggs,TRES,2,0
+8C,Cemetery,West,5,27,2023,Eggs,TRES,2,0
+8C,Cemetery,West,5,29,2023,Failed,TRES,2,0
+8C,Cemetery,West,5,31,2023,Available,NONE,0,0
+8C,Cemetery,West,6,2,2023,Available,NONE,0,0
+8C,Cemetery,West,6,5,2023,Available,NONE,0,0
+8C,Cemetery,West,6,7,2023,Available,NONE,0,0
+8C,Cemetery,West,6,9,2023,Available,NONE,0,0
+8C,Cemetery,West,6,12,2023,Available,NONE,0,0
+8C,Cemetery,West,6,14,2023,Available,NONE,0,0
+8C,Cemetery,West,6,16,2023,Available,NONE,0,0
+8C,Cemetery,West,6,19,2023,Available,NONE,0,0
+8C,Cemetery,West,6,21,2023,Available,NONE,0,0
+8C,Cemetery,West,6,23,2023,Available,NONE,0,0
+8C,Cemetery,West,6,26,2023,Available,NONE,0,0
+8C,Cemetery,West,6,28,2023,Available,NONE,0,0
+8C,Cemetery,West,6,30,2023,Available,NONE,0,0
+8C,Cemetery,West,7,3,2023,Available,NONE,0,0
+8C,Cemetery,West,7,5,2023,Available,NONE,0,0
+8C,Cemetery,West,7,7,2023,Available,NONE,0,0
+8C,Cemetery,West,7,10,2023,Available,NONE,0,0
+8C,Cemetery,West,7,12,2023,Available,NONE,0,0
+8C,Cemetery,West,7,14,2023,Available,NONE,0,0
+8C,Cemetery,West,7,17,2023,Available,NONE,0,0
+9C,Cemetery,North,2,19,2023,Available ,NONE,0,0
+9C,Cemetery,North,2,26,2023,Available ,NONE,0,0
+9C,Cemetery,North,2,28,2023,Available ,NONE,0,0
+9C,Cemetery,North,3,16,2023,Available ,NONE,0,0
+9C,Cemetery,North,3,19,2023,Available ,NONE,0,0
+9C,Cemetery,North,3,23,2023,Available ,NONE,0,0
+9C,Cemetery,North,3,26,2023,Available ,NONE,0,0
+9C,Cemetery,North,3,30,2023,Available ,NONE,0,0
+9C,Cemetery,North,4,2,2023,Available ,NONE,0,0
+9C,Cemetery,North,4,6,2023,Available ,NONE,0,0
+9C,Cemetery,North,4,9,2023,Available ,NONE,0,0
+9C,Cemetery,North,4,13,2023,Available ,NONE,0,0
+9C,Cemetery,North,4,16,2023,Start,TRES,0,0
+9C,Cemetery,North,4,20,2023,Start,TRES,0,0
+9C,Cemetery,North,4,23,2023,Start,TRES,0,0
+9C,Cemetery,North,4,27,2023,Medium,TRES,0,0
+9C,Cemetery,North,4,29,2023,Medium,TRES,0,0
+9C,Cemetery,North,5,4,2023,Eggs,TRES,4,0
+9C,Cemetery,North,5,7,2023,Eggs,TRES,5,0
+9C,Cemetery,North,5,11,2023,Eggs,TRES,5,0
+9C,Cemetery,North,5,14,2023,Eggs,TRES,5,0
+9C,Cemetery,North,5,18,2023,Eggs,TRES,5,0
+9C,Cemetery,North,5,21,2023,Chicks,TRES,2,3
+9C,Cemetery,North,5,23,2023,Failed,TRES,0,1
+9C,Cemetery,North,5,25,2023,Available,NONE,0,0
+9C,Cemetery,North,5,27,2023,Available,NONE,0,0
+9C,Cemetery,North,5,29,2023,Available,NONE,0,0
+9C,Cemetery,North,5,31,2023,Available,NONE,0,0
+9C,Cemetery,North,6,2,2023,Available,NONE,0,0
+9C,Cemetery,North,6,5,2023,Available,NONE,0,0
+9C,Cemetery,North,6,7,2023,Available,NONE,0,0
+9C,Cemetery,North,6,9,2023,Available,NONE,0,0
+9C,Cemetery,North,6,12,2023,Available,NONE,0,0
+9C,Cemetery,North,6,14,2023,Available,NONE,0,0
+9C,Cemetery,North,6,16,2023,Available,NONE,0,0
+9C,Cemetery,North,6,19,2023,Available,NONE,0,0
+9C,Cemetery,North,7,17,2023,Available,NONE,0,0
+10C,Cemetery,East,2,19,2023,Available ,NONE,0,0
+10C,Cemetery,East,2,26,2023,Available ,NONE,0,0
+10C,Cemetery,East,2,28,2023,Available ,NONE,0,0
+10C,Cemetery,East,3,16,2023,Available ,NONE,0,0
+10C,Cemetery,East,3,19,2023,Available ,NONE,0,0
+10C,Cemetery,East,3,23,2023,Available ,NONE,0,0
+10C,Cemetery,East,3,26,2023,Available ,NONE,0,0
+10C,Cemetery,East,3,30,2023,Available ,NONE,0,0
+10C,Cemetery,East,4,2,2023,Available ,NONE,0,0
+10C,Cemetery,East,4,6,2023,Available ,NONE,0,0
+10C,Cemetery,East,4,9,2023,Available ,NONE,0,0
+10C,Cemetery,East,4,13,2023,Available ,NONE,0,0
+10C,Cemetery,East,4,16,2023,Available ,NONE,0,0
+10C,Cemetery,East,4,20,2023,Available ,NONE,0,0
+10C,Cemetery,East,4,23,2023,Available ,NONE,0,0
+10C,Cemetery,East,4,27,2023,Available ,NONE,0,0
+10C,Cemetery,East,4,29,2023,Available ,NONE,0,0
+10C,Cemetery,East,5,4,2023,Available ,NONE,0,0
+10C,Cemetery,East,5,7,2023,Available ,NONE,0,0
+10C,Cemetery,East,5,11,2023,Available ,NONE,0,0
+10C,Cemetery,East,5,14,2023,Available ,NONE,0,0
+10C,Cemetery,East,5,18,2023,Available ,NONE,0,0
+10C,Cemetery,East,5,21,2023,Available ,NONE,0,0
+10C,Cemetery,East,5,23,2023,Available ,NONE,0,0
+10C,Cemetery,East,5,25,2023,Start,TRES,0,0
+10C,Cemetery,East,5,27,2023,Start,TRES,0,0
+10C,Cemetery,East,5,29,2023,Start,TRES,0,0
+10C,Cemetery,East,5,31,2023,Medium,TRES,0,0
+10C,Cemetery,East,6,2,2023,Medium,TRES,0,0
+10C,Cemetery,East,6,5,2023,Eggs,TRES,3,0
+10C,Cemetery,East,6,7,2023,Eggs,TRES,5,0
+10C,Cemetery,East,6,9,2023,Eggs,TRES,5,0
+10C,Cemetery,East,6,12,2023,Eggs,TRES,5,0
+10C,Cemetery,East,6,14,2023,Failed,TRES,5,0
+10C,Cemetery,East,6,16,2023,Available,NONE,0,0
+10C,Cemetery,East,6,19,2023,Available,NONE,0,0
+10C,Cemetery,East,6,21,2023,Available,NONE,0,0
+10C,Cemetery,East,6,23,2023,Available,NONE,0,0
+10C,Cemetery,East,6,26,2023,Available,NONE,0,0
+10C,Cemetery,East,6,28,2023,Available,NONE,0,0
+10C,Cemetery,East,6,30,2023,Available,NONE,0,0
+10C,Cemetery,East,7,3,2023,Available,NONE,0,0
+10C,Cemetery,East,7,5,2023,Available,NONE,0,0
+10C,Cemetery,East,7,7,2023,Available,NONE,0,0
+10C,Cemetery,East,7,10,2023,Available,NONE,0,0
+10C,Cemetery,East,7,12,2023,Available,NONE,0,0
+10C,Cemetery,East,7,14,2023,Available,NONE,0,0
+10C,Cemetery,East,7,17,2023,Available,NONE,0,0
+11C,Cemetery,South,2,19,2023,Available ,NONE,0,0
+11C,Cemetery,South,2,26,2023,Available ,NONE,0,0
+11C,Cemetery,South,2,28,2023,Available ,NONE,0,0
+11C,Cemetery,South,3,16,2023,Available ,NONE,0,0
+11C,Cemetery,South,3,19,2023,Available ,NONE,0,0
+11C,Cemetery,South,3,23,2023,Available ,NONE,0,0
+11C,Cemetery,South,3,26,2023,Available ,NONE,0,0
+11C,Cemetery,South,3,30,2023,Available ,NONE,0,0
+11C,Cemetery,South,4,2,2023,Available ,NONE,0,0
+11C,Cemetery,South,4,6,2023,Available ,NONE,0,0
+11C,Cemetery,South,4,9,2023,Available ,NONE,0,0
+11C,Cemetery,South,4,13,2023,Available ,NONE,0,0
+11C,Cemetery,South,4,16,2023,Available ,NONE,0,0
+11C,Cemetery,South,4,20,2023,Available ,NONE,0,0
+11C,Cemetery,South,4,23,2023,Start,TRES,0,0
+11C,Cemetery,South,4,27,2023,Complete,TRES,0,0
+11C,Cemetery,South,4,29,2023,Complete,TRES,0,0
+11C,Cemetery,South,5,4,2023,Complete,TRES,0,0
+11C,Cemetery,South,5,7,2023,Eggs,TRES,1,0
+11C,Cemetery,South,5,11,2023,Eggs,TRES,5,0
+11C,Cemetery,South,5,14,2023,Eggs,TRES,5,0
+11C,Cemetery,South,5,18,2023,Eggs,TRES,5,0
+11C,Cemetery,South,5,21,2023,Eggs,TRES,5,0
+11C,Cemetery,South,5,23,2023,Failed,TRES,5,0
+11C,Cemetery,South,5,25,2023,Available,NONE,0,0
+11C,Cemetery,South,5,27,2023,Available,NONE,0,0
+11C,Cemetery,South,5,29,2023,Available,NONE,0,0
+11C,Cemetery,South,5,31,2023,Available,NONE,0,0
+11C,Cemetery,South,6,2,2023,Available,NONE,0,0
+11C,Cemetery,South,6,5,2023,Available,NONE,0,0
+11C,Cemetery,South,6,7,2023,Available,NONE,0,0
+11C,Cemetery,South,6,9,2023,Available,NONE,0,0
+11C,Cemetery,South,6,12,2023,Available,NONE,0,0
+11C,Cemetery,South,6,14,2023,Available,NONE,0,0
+11C,Cemetery,South,6,16,2023,Available,NONE,0,0
+11C,Cemetery,South,6,19,2023,Available,NONE,0,0
+11C,Cemetery,South,6,21,2023,Available,NONE,0,0
+11C,Cemetery,South,6,23,2023,Available,NONE,0,0
+11C,Cemetery,South,6,26,2023,Available,NONE,0,0
+11C,Cemetery,South,6,28,2023,Available,NONE,0,0
+11C,Cemetery,South,6,30,2023,Available,NONE,0,0
+11C,Cemetery,South,7,3,2023,Available,NONE,0,0
+11C,Cemetery,South,7,5,2023,Available,NONE,0,0
+11C,Cemetery,South,7,7,2023,Available,NONE,0,0
+11C,Cemetery,South,7,10,2023,Available,NONE,0,0
+11C,Cemetery,South,7,12,2023,Available,NONE,0,0
+11C,Cemetery,South,7,14,2023,Available,NONE,0,0
+11C,Cemetery,South,7,17,2023,Available,NONE,0,0
+12C,Cemetery,West,2,19,2023,Available ,NONE,0,0
+12C,Cemetery,West,2,26,2023,Available ,NONE,0,0
+12C,Cemetery,West,2,28,2023,Available ,NONE,0,0
+12C,Cemetery,West,3,16,2023,Available ,NONE,0,0
+12C,Cemetery,West,3,19,2023,Available ,NONE,0,0
+12C,Cemetery,West,3,23,2023,Available ,NONE,0,0
+12C,Cemetery,West,3,26,2023,Available ,NONE,0,0
+12C,Cemetery,West,3,30,2023,Available ,NONE,0,0
+12C,Cemetery,West,4,2,2023,Available ,NONE,0,0
+12C,Cemetery,West,4,6,2023,Available ,NONE,0,0
+12C,Cemetery,West,4,9,2023,Available ,NONE,0,0
+12C,Cemetery,West,4,13,2023,Available ,NONE,0,0
+12C,Cemetery,West,4,16,2023,Available ,NONE,0,0
+12C,Cemetery,West,4,20,2023,Available ,NONE,0,0
+12C,Cemetery,West,4,23,2023,Available ,NONE,0,0
+12C,Cemetery,West,4,27,2023,Available ,NONE,0,0
+12C,Cemetery,West,4,29,2023,Available ,NONE,0,0
+12C,Cemetery,West,5,4,2023,Available ,NONE,0,0
+12C,Cemetery,West,5,7,2023,Available ,NONE,0,0
+12C,Cemetery,West,5,11,2023,Available ,NONE,0,0
+12C,Cemetery,West,5,14,2023,Available ,NONE,0,0
+12C,Cemetery,West,5,18,2023,Available ,NONE,0,0
+12C,Cemetery,West,5,21,2023,Available ,NONE,0,0
+12C,Cemetery,West,5,23,2023,Available ,NONE,0,0
+12C,Cemetery,West,5,25,2023,Available ,NONE,0,0
+12C,Cemetery,West,5,27,2023,Available ,NONE,0,0
+12C,Cemetery,West,5,29,2023,Available ,NONE,0,0
+12C,Cemetery,West,5,31,2023,Available ,NONE,0,0
+12C,Cemetery,West,6,2,2023,Available ,NONE,0,0
+12C,Cemetery,West,6,5,2023,Available ,NONE,0,0
+12C,Cemetery,West,6,7,2023,Available ,NONE,0,0
+12C,Cemetery,West,6,9,2023,Available ,NONE,0,0
+12C,Cemetery,West,6,12,2023,Available ,NONE,0,0
+12C,Cemetery,West,6,14,2023,Available ,NONE,0,0
+12C,Cemetery,West,6,16,2023,Available ,NONE,0,0
+12C,Cemetery,West,6,19,2023,Available ,NONE,0,0
+12C,Cemetery,West,6,21,2023,Available ,NONE,0,0
+12C,Cemetery,West,6,23,2023,Available ,NONE,0,0
+12C,Cemetery,West,6,26,2023,Available ,NONE,0,0
+12C,Cemetery,West,6,28,2023,Available ,NONE,0,0
+12C,Cemetery,West,6,30,2023,Available ,NONE,0,0
+12C,Cemetery,West,7,3,2023,Available ,NONE,0,0
+12C,Cemetery,West,7,5,2023,Available ,NONE,0,0
+12C,Cemetery,West,7,7,2023,Available ,NONE,0,0
+12C,Cemetery,West,7,10,2023,Available ,NONE,0,0
+12C,Cemetery,West,7,12,2023,Available ,NONE,0,0
+12C,Cemetery,West,7,14,2023,Available ,NONE,0,0
+12C,Cemetery,West,7,17,2023,Available ,NONE,0,0
+13C,Cemetery,North,2,19,2023,Available ,NONE,0,0
+13C,Cemetery,North,2,26,2023,Available ,NONE,0,0
+13C,Cemetery,North,2,28,2023,Available ,NONE,0,0
+13C,Cemetery,North,3,16,2023,Available ,NONE,0,0
+13C,Cemetery,North,3,19,2023,Available ,NONE,0,0
+13C,Cemetery,North,3,23,2023,Available ,NONE,0,0
+13C,Cemetery,North,3,26,2023,Available ,NONE,0,0
+13C,Cemetery,North,3,30,2023,Available ,NONE,0,0
+13C,Cemetery,North,4,2,2023,Available ,NONE,0,0
+13C,Cemetery,North,4,6,2023,Available ,NONE,0,0
+13C,Cemetery,North,4,9,2023,Available ,NONE,0,0
+13C,Cemetery,North,4,13,2023,Available ,NONE,0,0
+13C,Cemetery,North,4,16,2023,Available ,NONE,0,0
+13C,Cemetery,North,4,20,2023,Available ,NONE,0,0
+13C,Cemetery,North,4,23,2023,Available ,NONE,0,0
+13C,Cemetery,North,4,27,2023,Available ,NONE,0,0
+13C,Cemetery,North,4,29,2023,Available ,NONE,0,0
+13C,Cemetery,North,5,4,2023,Available ,NONE,0,0
+13C,Cemetery,North,5,7,2023,Available ,NONE,0,0
+13C,Cemetery,North,5,11,2023,Available ,NONE,0,0
+13C,Cemetery,North,5,14,2023,Available ,NONE,0,0
+13C,Cemetery,North,5,18,2023,Available ,NONE,0,0
+13C,Cemetery,North,5,21,2023,Available ,NONE,0,0
+13C,Cemetery,North,5,23,2023,Available ,NONE,0,0
+13C,Cemetery,North,5,25,2023,Available ,NONE,0,0
+13C,Cemetery,North,5,27,2023,Available ,NONE,0,0
+13C,Cemetery,North,5,29,2023,Available ,NONE,0,0
+13C,Cemetery,North,5,31,2023,Available ,NONE,0,0
+13C,Cemetery,North,6,2,2023,Available ,NONE,0,0
+13C,Cemetery,North,6,5,2023,Available ,NONE,0,0
+13C,Cemetery,North,6,7,2023,Available ,NONE,0,0
+13C,Cemetery,North,6,9,2023,Available ,NONE,0,0
+13C,Cemetery,North,6,12,2023,Available ,NONE,0,0
+13C,Cemetery,North,6,14,2023,Available ,NONE,0,0
+13C,Cemetery,North,6,16,2023,Available ,NONE,0,0
+13C,Cemetery,North,6,19,2023,Available ,NONE,0,0
+13C,Cemetery,North,6,21,2023,Available ,NONE,0,0
+13C,Cemetery,North,6,23,2023,Available ,NONE,0,0
+13C,Cemetery,North,6,26,2023,Available ,NONE,0,0
+13C,Cemetery,North,6,28,2023,Available ,NONE,0,0
+13C,Cemetery,North,6,30,2023,Available ,NONE,0,0
+13C,Cemetery,North,7,3,2023,Available ,NONE,0,0
+13C,Cemetery,North,7,5,2023,Available ,NONE,0,0
+13C,Cemetery,North,7,7,2023,Available ,NONE,0,0
+13C,Cemetery,North,7,10,2023,Available ,NONE,0,0
+13C,Cemetery,North,7,12,2023,Available ,NONE,0,0
+13C,Cemetery,North,7,14,2023,Available ,NONE,0,0
+13C,Cemetery,North,7,17,2023,Available ,NONE,0,0
+14C,Cemetery,East,2,19,2023,Available ,NONE,0,0
+14C,Cemetery,East,2,26,2023,Available ,NONE,0,0
+14C,Cemetery,East,2,28,2023,Available ,NONE,0,0
+14C,Cemetery,East,3,16,2023,Available ,NONE,0,0
+14C,Cemetery,East,3,19,2023,Available ,NONE,0,0
+14C,Cemetery,East,3,23,2023,Available ,NONE,0,0
+14C,Cemetery,East,3,26,2023,Available ,NONE,0,0
+14C,Cemetery,East,3,30,2023,Available ,NONE,0,0
+14C,Cemetery,East,4,2,2023,Available ,NONE,0,0
+14C,Cemetery,East,4,6,2023,Available ,NONE,0,0
+14C,Cemetery,East,4,9,2023,Available ,NONE,0,0
+14C,Cemetery,East,4,13,2023,Available ,NONE,0,0
+14C,Cemetery,East,4,16,2023,Available,NONE,0,0
+14C,Cemetery,East,4,20,2023,Start,TRES,0,0
+14C,Cemetery,East,4,23,2023,Start,TRES,0,0
+14C,Cemetery,East,4,27,2023,Medium,TRES,0,0
+14C,Cemetery,East,4,29,2023,Medium,TRES,0,0
+14C,Cemetery,East,5,4,2023,Medium,TRES,0,0
+14C,Cemetery,East,5,7,2023,Eggs,TRES,5,0
+14C,Cemetery,East,5,11,2023,Eggs,TRES,6,0
+14C,Cemetery,East,5,14,2023,Eggs,TRES,6,0
+14C,Cemetery,East,5,18,2023,Eggs,TRES,6,0
+14C,Cemetery,East,5,21,2023,Eggs,TRES,6,0
+14C,Cemetery,East,5,23,2023,Chicks,TRES,2,4
+14C,Cemetery,East,5,25,2023,Chicks,TRES,2,4
+14C,Cemetery,East,5,27,2023,Chicks,TRES,1,5
+14C,Cemetery,East,5,29,2023,Chicks,TRES,1,5
+14C,Cemetery,East,5,31,2023,Chicks,TRES,1,5
+14C,Cemetery,East,6,2,2023,Chicks,TRES,1,5
+14C,Cemetery,East,6,5,2023,Fledged,TRES,1,1
+14C,Cemetery,East,6,7,2023,Fledged,TRES,1,1
+14C,Cemetery,East,6,9,2023,Fledged,TRES,1,0
+14C,Cemetery,East,6,12,2023,Available,NONE,0,0
+14C,Cemetery,East,6,14,2023,Available,NONE,0,0
+14C,Cemetery,East,6,16,2023,Available,NONE,0,0
+14C,Cemetery,East,6,19,2023,Available,NONE,0,0
+14C,Cemetery,East,6,21,2023,Available,NONE,0,0
+14C,Cemetery,East,6,23,2023,Available,NONE,0,0
+14C,Cemetery,East,6,26,2023,Available,NONE,0,0
+14C,Cemetery,East,6,28,2023,Available,NONE,0,0
+14C,Cemetery,East,6,30,2023,Available,NONE,0,0
+14C,Cemetery,East,7,3,2023,Available,NONE,0,0
+14C,Cemetery,East,7,5,2023,Available,NONE,0,0
+14C,Cemetery,East,7,7,2023,Available,NONE,0,0
+14C,Cemetery,East,7,10,2023,Available,NONE,0,0
+14C,Cemetery,East,7,12,2023,Available,NONE,0,0
+14C,Cemetery,East,7,14,2023,Available,NONE,0,0
+14C,Cemetery,East,7,17,2023,Available,NONE,0,0
+15C,Cemetery,South,2,19,2023,Available ,NONE,0,0
+15C,Cemetery,South,2,26,2023,Available ,NONE,0,0
+15C,Cemetery,South,2,28,2023,Available ,NONE,0,0
+15C,Cemetery,South,3,16,2023,Available ,NONE,0,0
+15C,Cemetery,South,3,19,2023,Available ,NONE,0,0
+15C,Cemetery,South,3,23,2023,Available ,NONE,0,0
+15C,Cemetery,South,3,26,2023,Available ,NONE,0,0
+15C,Cemetery,South,3,30,2023,Available ,NONE,0,0
+15C,Cemetery,South,4,2,2023,Available ,NONE,0,0
+15C,Cemetery,South,4,6,2023,Available ,NONE,0,0
+15C,Cemetery,South,4,9,2023,Available ,NONE,0,0
+15C,Cemetery,South,4,13,2023,Available ,NONE,0,0
+15C,Cemetery,South,4,16,2023,Available ,NONE,0,0
+15C,Cemetery,South,4,20,2023,Available ,NONE,0,0
+15C,Cemetery,South,4,23,2023,Available ,NONE,0,0
+15C,Cemetery,South,4,27,2023,Available ,NONE,0,0
+15C,Cemetery,South,4,29,2023,Available ,NONE,0,0
+15C,Cemetery,South,5,4,2023,Available ,NONE,0,0
+15C,Cemetery,South,5,7,2023,Available ,NONE,0,0
+15C,Cemetery,South,5,11,2023,Available ,NONE,0,0
+15C,Cemetery,South,5,14,2023,Available ,NONE,0,0
+15C,Cemetery,South,5,18,2023,Available ,NONE,0,0
+15C,Cemetery,South,5,21,2023,Available ,NONE,0,0
+15C,Cemetery,South,5,23,2023,Available ,NONE,0,0
+15C,Cemetery,South,5,25,2023,Available ,NONE,0,0
+15C,Cemetery,South,5,27,2023,Available ,NONE,0,0
+15C,Cemetery,South,5,29,2023,Available ,NONE,0,0
+15C,Cemetery,South,5,31,2023,Available ,NONE,0,0
+15C,Cemetery,South,6,2,2023,Available ,NONE,0,0
+15C,Cemetery,South,6,5,2023,Available ,NONE,0,0
+15C,Cemetery,South,6,7,2023,Available ,NONE,0,0
+15C,Cemetery,South,6,9,2023,Available ,NONE,0,0
+15C,Cemetery,South,6,12,2023,Available ,NONE,0,0
+15C,Cemetery,South,6,14,2023,Available ,NONE,0,0
+15C,Cemetery,South,6,16,2023,Available ,NONE,0,0
+15C,Cemetery,South,6,19,2023,Available ,NONE,0,0
+15C,Cemetery,South,6,21,2023,Available ,NONE,0,0
+15C,Cemetery,South,6,23,2023,Available ,NONE,0,0
+15C,Cemetery,South,6,26,2023,Available ,NONE,0,0
+15C,Cemetery,South,6,28,2023,Available ,NONE,0,0
+15C,Cemetery,South,6,30,2023,Available ,NONE,0,0
+15C,Cemetery,South,7,3,2023,Available ,NONE,0,0
+15C,Cemetery,South,7,5,2023,Available ,NONE,0,0
+15C,Cemetery,South,7,7,2023,Available ,NONE,0,0
+15C,Cemetery,South,7,10,2023,Available ,NONE,0,0
+15C,Cemetery,South,7,12,2023,Available ,NONE,0,0
+15C,Cemetery,South,7,14,2023,Available ,NONE,0,0
+15C,Cemetery,South,7,17,2023,Available ,NONE,0,0
+16C,Cemetery,West,2,19,2023,Available ,NONE,0,0
+16C,Cemetery,West,2,26,2023,Available ,NONE,0,0
+16C,Cemetery,West,2,28,2023,Available ,NONE,0,0
+16C,Cemetery,West,3,16,2023,Available ,NONE,0,0
+16C,Cemetery,West,3,19,2023,Available ,NONE,0,0
+16C,Cemetery,West,3,23,2023,Available ,NONE,0,0
+16C,Cemetery,West,3,26,2023,Available ,NONE,0,0
+16C,Cemetery,West,3,30,2023,Available ,NONE,0,0
+16C,Cemetery,West,4,2,2023,Available ,NONE,0,0
+16C,Cemetery,West,4,6,2023,Available ,NONE,0,0
+16C,Cemetery,West,4,9,2023,Available ,NONE,0,0
+16C,Cemetery,West,4,13,2023,Available ,NONE,0,0
+16C,Cemetery,West,4,16,2023,Available,NONE,0,0
+16C,Cemetery,West,4,20,2023,Start,TRES,0,0
+16C,Cemetery,West,4,23,2023,Start,TRES,0,0
+16C,Cemetery,West,4,27,2023,Start,TRES,0,0
+16C,Cemetery,West,4,29,2023,Start,TRES,0,0
+16C,Cemetery,West,5,4,2023,Start,TRES,0,0
+16C,Cemetery,West,5,7,2023,Eggs,TRES,6,0
+16C,Cemetery,West,5,11,2023,Eggs,TRES,6,0
+16C,Cemetery,West,5,14,2023,Eggs,TRES,6,0
+16C,Cemetery,West,5,18,2023,Eggs,TRES,6,0
+16C,Cemetery,West,5,21,2023,Eggs,TRES,6,0
+16C,Cemetery,West,5,23,2023,Eggs,TRES,3,0
+16C,Cemetery,West,5,25,2023,Failed,TRES,3,0
+16C,Cemetery,West,5,27,2023,Available,TRES,3,0
+16C,Cemetery,West,5,29,2023,Available,TRES,3,0
+16C,Cemetery,West,5,31,2023,Available,TRES,3,0
+16C,Cemetery,West,6,2,2023,Available,TRES,3,0
+16C,Cemetery,West,6,5,2023,Available,TRES,3,0
+16C,Cemetery,West,6,7,2023,Available,TRES,3,0
+16C,Cemetery,West,6,14,2023,Available,NONE,0,0
+16C,Cemetery,West,6,16,2023,Available,NONE,0,0
+16C,Cemetery,West,6,19,2023,Available,NONE,0,0
+16C,Cemetery,West,6,21,2023,Available,NONE,0,0
+16C,Cemetery,West,6,23,2023,Available,NONE,0,0
+16C,Cemetery,West,6,26,2023,Available,NONE,0,0
+16C,Cemetery,West,6,28,2023,Available,NONE,0,0
+16C,Cemetery,West,6,30,2023,Available,NONE,0,0
+16C,Cemetery,West,7,3,2023,Available,NONE,0,0
+16C,Cemetery,West,7,5,2023,Available,NONE,0,0
+16C,Cemetery,West,7,7,2023,Available,NONE,0,0
+16C,Cemetery,West,7,10,2023,Available,NONE,0,0
+16C,Cemetery,West,7,12,2023,Available,NONE,0,0
+16C,Cemetery,West,7,14,2023,Available,NONE,0,0
+16C,Cemetery,West,7,17,2023,Available,NONE,0,0
+17C,Cemetery,North,2,19,2023,Available ,NONE,0,0
+17C,Cemetery,North,2,26,2023,Available ,NONE,0,0
+17C,Cemetery,North,2,28,2023,Available ,NONE,0,0
+17C,Cemetery,North,3,16,2023,Available ,NONE,0,0
+17C,Cemetery,North,3,19,2023,Available ,NONE,0,0
+17C,Cemetery,North,3,23,2023,Available ,NONE,0,0
+17C,Cemetery,North,3,26,2023,Available ,NONE,0,0
+17C,Cemetery,North,3,30,2023,Available ,NONE,0,0
+17C,Cemetery,North,4,2,2023,Available ,NONE,0,0
+17C,Cemetery,North,4,6,2023,Available ,NONE,0,0
+17C,Cemetery,North,4,9,2023,Available ,NONE,0,0
+17C,Cemetery,North,4,13,2023,Available ,NONE,0,0
+17C,Cemetery,North,4,16,2023,Start,TRES,0,0
+17C,Cemetery,North,4,20,2023,Medium,TRES,0,0
+17C,Cemetery,North,4,23,2023,Medium,TRES,0,0
+17C,Cemetery,North,4,27,2023,Medium,TRES,0,0
+17C,Cemetery,North,4,29,2023,Complete,TRES,0,0
+17C,Cemetery,North,5,4,2023,Eggs,TRES,5,0
+17C,Cemetery,North,5,7,2023,Eggs,TRES,5,0
+17C,Cemetery,North,5,11,2023,Eggs,TRES,5,0
+17C,Cemetery,North,5,14,2023,Eggs,TRES,5,0
+17C,Cemetery,North,5,18,2023,Eggs,TRES,5,0
+17C,Cemetery,North,5,21,2023,Eggs,TRES,4,0
+17C,Cemetery,North,5,23,2023,Failed,TRES,2,0
+17C,Cemetery,North,5,25,2023,Available ,NONE,0,0
+17C,Cemetery,North,5,27,2023,Available,NONE,0,0
+17C,Cemetery,North,5,29,2023,Available ,NONE,0,0
+17C,Cemetery,North,5,31,2023,Available,NONE,0,0
+17C,Cemetery,North,6,2,2023,Available,NONE,0,0
+17C,Cemetery,North,6,5,2023,Available,NONE,0,0
+17C,Cemetery,North,6,7,2023,Available,NONE,0,0
+17C,Cemetery,North,6,9,2023,Available,NONE,0,0
+17C,Cemetery,North,6,12,2023,Available,NONE,0,0
+17C,Cemetery,North,6,14,2023,Available,NONE,0,0
+17C,Cemetery,North,6,16,2023,Available,NONE,0,0
+17C,Cemetery,North,6,19,2023,Available,NONE,0,0
+17C,Cemetery,North,6,21,2023,Available,NONE,0,0
+17C,Cemetery,North,6,23,2023,Available,NONE,0,0
+17C,Cemetery,North,6,26,2023,Available,NONE,0,0
+17C,Cemetery,North,6,28,2023,Available,NONE,0,0
+17C,Cemetery,North,6,30,2023,Available,NONE,0,0
+17C,Cemetery,North,7,3,2023,Available,NONE,0,0
+17C,Cemetery,North,7,5,2023,Available,NONE,0,0
+17C,Cemetery,North,7,7,2023,Available,NONE,0,0
+17C,Cemetery,North,7,10,2023,Available,NONE,0,0
+17C,Cemetery,North,7,12,2023,Available,NONE,0,0
+17C,Cemetery,North,7,14,2023,Available,NONE,0,0
+17C,Cemetery,North,7,17,2023,Available,NONE,0,0
+18C,Cemetery,East,2,19,2023,Available ,NONE,0,0
+18C,Cemetery,East,2,26,2023,Available ,NONE,0,0
+18C,Cemetery,East,2,28,2023,Available ,NONE,0,0
+18C,Cemetery,East,3,16,2023,Available ,NONE,0,0
+18C,Cemetery,East,3,19,2023,Available ,NONE,0,0
+18C,Cemetery,East,3,23,2023,Available ,NONE,0,0
+18C,Cemetery,East,3,26,2023,Available ,NONE,0,0
+18C,Cemetery,East,3,30,2023,Available ,NONE,0,0
+18C,Cemetery,East,4,2,2023,Available ,NONE,0,0
+18C,Cemetery,East,4,6,2023,Available ,NONE,0,0
+18C,Cemetery,East,4,9,2023,Available ,NONE,0,0
+18C,Cemetery,East,4,13,2023,Available ,NONE,0,0
+18C,Cemetery,East,4,16,2023,Start,TRES,0,0
+18C,Cemetery,East,4,20,2023,Complete,TRES,0,0
+18C,Cemetery,East,4,23,2023,Complete,TRES,0,0
+18C,Cemetery,East,4,27,2023,Complete,TRES,0,0
+18C,Cemetery,East,4,29,2023,Eggs,TRES,3,0
+18C,Cemetery,East,5,4,2023,Eggs,TRES,3,0
+18C,Cemetery,East,5,7,2023,Eggs,TRES,4,0
+18C,Cemetery,East,5,11,2023,Eggs,TRES,4,0
+18C,Cemetery,East,5,14,2023,Eggs,TRES,5,0
+18C,Cemetery,East,5,18,2023,Chicks,TRES,1,4
+18C,Cemetery,East,5,21,2023,Failed,TRES,4,0
+18C,Cemetery,East,5,23,2023,Available,NONE,0,0
+18C,Cemetery,East,5,25,2023,Available,NONE,0,0
+18C,Cemetery,East,5,27,2023,Complete,TRES,0,0
+18C,Cemetery,East,5,29,2023,Complete,TRES,0,0
+18C,Cemetery,East,5,31,2023,Complete,TRES,0,0
+18C,Cemetery,East,6,2,2023,Complete,TRES,0,0
+18C,Cemetery,East,6,5,2023,Complete,TRES,0,0
+18C,Cemetery,East,6,7,2023,Complete,TRES,0,0
+18C,Cemetery,East,6,9,2023,Complete,TRES,0,0
+18C,Cemetery,East,6,12,2023,Complete,TRES,0,0
+18C,Cemetery,East,6,14,2023,Complete,TRES,0,0
+18C,Cemetery,East,6,16,2023,Complete,TRES,0,0
+18C,Cemetery,East,6,19,2023,Complete,TRES,0,0
+18C,Cemetery,East,6,21,2023,Complete,TRES,0,0
+18C,Cemetery,East,6,23,2023,Available,NONE,0,0
+18C,Cemetery,East,6,26,2023,Available,NONE,0,0
+18C,Cemetery,East,6,28,2023,Available,NONE,0,0
+18C,Cemetery,East,6,30,2023,Available,NONE,0,0
+18C,Cemetery,East,7,3,2023,Available,NONE,0,0
+18C,Cemetery,East,7,5,2023,Available,NONE,0,0
+18C,Cemetery,East,7,7,2023,Available,NONE,0,0
+18C,Cemetery,East,7,10,2023,Available,NONE,0,0
+18C,Cemetery,East,7,12,2023,Available,NONE,0,0
+18C,Cemetery,East,7,14,2023,Available,NONE,0,0
+18C,Cemetery,East,7,17,2023,Available,NONE,0,0
+19C,Cemetery,South,2,19,2023,Available ,NONE,0,0
+19C,Cemetery,South,2,26,2023,Available ,NONE,0,0
+19C,Cemetery,South,2,28,2023,Available ,NONE,0,0
+19C,Cemetery,South,3,16,2023,Available ,NONE,0,0
+19C,Cemetery,South,3,19,2023,Available ,NONE,0,0
+19C,Cemetery,South,3,23,2023,Available ,NONE,0,0
+19C,Cemetery,South,3,26,2023,Available ,NONE,0,0
+19C,Cemetery,South,3,30,2023,Available ,NONE,0,0
+19C,Cemetery,South,4,2,2023,Available ,NONE,0,0
+19C,Cemetery,South,5,4,2023,Complete,TRES,0,0
+19C,Cemetery,South,5,7,2023,Complete,TRES,0,0
+19C,Cemetery,South,5,11,2023,Complete,TRES,0,0
+19C,Cemetery,South,5,14,2023,Eggs,TRES,0,0
+19C,Cemetery,South,5,18,2023,Eggs,TRES,0,0
+19C,Cemetery,South,5,21,2023,Eggs,TRES,0,0
+19C,Cemetery,South,5,23,2023,Failed,TRES,0,0
+19C,Cemetery,South,5,25,2023,Available,NONE,0,0
+19C,Cemetery,South,5,27,2023,Available,NONE,0,0
+19C,Cemetery,South,5,29,2023,Available,NONE,0,0
+19C,Cemetery,South,5,31,2023,Available,NONE,0,0
+19C,Cemetery,South,6,2,2023,Available,NONE,0,0
+19C,Cemetery,South,6,5,2023,Available,NONE,0,0
+19C,Cemetery,South,6,7,2023,Available,NONE,0,0
+19C,Cemetery,South,6,9,2023,Available,NONE,0,0
+19C,Cemetery,South,6,12,2023,Available,NONE,0,0
+19C,Cemetery,South,6,14,2023,Available,NONE,0,0
+19C,Cemetery,South,6,16,2023,Available,NONE,0,0
+19C,Cemetery,South,6,19,2023,Available,NONE,0,0
+19C,Cemetery,South,6,21,2023,Available,NONE,0,0
+19C,Cemetery,South,6,23,2023,Available,NONE,0,0
+19C,Cemetery,South,6,26,2023,Available,NONE,0,0
+19C,Cemetery,South,6,28,2023,Available,NONE,0,0
+19C,Cemetery,South,6,30,2023,Available,NONE,0,0
+19C,Cemetery,South,7,3,2023,Available,NONE,0,0
+19C,Cemetery,South,7,5,2023,Available,NONE,0,0
+19C,Cemetery,South,7,7,2023,Available,NONE,0,0
+19C,Cemetery,South,7,10,2023,Available,NONE,0,0
+19C,Cemetery,South,7,12,2023,Available,NONE,0,0
+19C,Cemetery,South,7,14,2023,Available,NONE,0,0
+19C,Cemetery,South,7,17,2023,Available,NONE,0,0
+20C,Cemetery,West,2,19,2023,Available ,NONE,0,0
+20C,Cemetery,West,2,26,2023,Available ,NONE,0,0
+20C,Cemetery,West,2,28,2023,Available ,NONE,0,0
+20C,Cemetery,West,3,16,2023,Available ,NONE,0,0
+20C,Cemetery,West,3,19,2023,Available ,NONE,0,0
+20C,Cemetery,West,3,23,2023,Available ,NONE,0,0
+20C,Cemetery,West,3,26,2023,Available ,NONE,0,0
+20C,Cemetery,West,3,30,2023,Available ,NONE,0,0
+20C,Cemetery,West,4,2,2023,Available ,NONE,0,0
+20C,Cemetery,West,4,6,2023,Available ,NONE,0,0
+20C,Cemetery,West,4,9,2023,Available ,NONE,0,0
+20C,Cemetery,West,4,13,2023,Available ,NONE,0,0
+20C,Cemetery,West,4,16,2023,Start,TRES,0,0
+20C,Cemetery,West,4,20,2023,Start,TRES,0,0
+20C,Cemetery,West,4,23,2023,Start,TRES,0,0
+20C,Cemetery,West,4,27,2023,Start,TRES,0,0
+20C,Cemetery,West,4,29,2023,Medium,TRES,0,0
+20C,Cemetery,West,5,4,2023,Complete,TRES,0,0
+20C,Cemetery,West,5,7,2023,Complete,TRES,0,0
+20C,Cemetery,West,5,11,2023,Complete,TRES,0,0
+20C,Cemetery,West,5,14,2023,Complete,TRES,0,0
+20C,Cemetery,West,5,18,2023,Complete,TRES,0,0
+20C,Cemetery,West,5,21,2023,Complete,TRES,0,0
+20C,Cemetery,West,5,23,2023,Complete,TRES,0,0
+20C,Cemetery,West,5,25,2023,Complete,TRES,0,0
+20C,Cemetery,West,5,27,2023,Complete,TRES,0,0
+20C,Cemetery,West,5,29,2023,Complete,TRES,0,0
+20C,Cemetery,West,5,31,2023,Complete,TRES,0,0
+20C,Cemetery,West,6,2,2023,Complete,TRES,0,0
+20C,Cemetery,West,6,5,2023,Complete,TRES,0,0
+20C,Cemetery,West,6,7,2023,Complete,TRES,0,0
+20C,Cemetery,West,6,9,2023,Available,NONE,0,0
+20C,Cemetery,West,6,12,2023,Available,NONE,0,0
+20C,Cemetery,West,6,14,2023,Available,NONE,0,0
+20C,Cemetery,West,6,16,2023,Available,NONE,0,0
+20C,Cemetery,West,6,19,2023,Available,NONE,0,0
+20C,Cemetery,West,6,21,2023,Available,NONE,0,0
+20C,Cemetery,West,6,23,2023,Available,NONE,0,0
+20C,Cemetery,West,6,26,2023,Available,NONE,0,0
+20C,Cemetery,West,6,28,2023,Available,NONE,0,0
+20C,Cemetery,West,6,30,2023,Available,NONE,0,0
+20C,Cemetery,West,7,3,2023,Available,NONE,0,0
+20C,Cemetery,West,7,5,2023,Available,NONE,0,0
+20C,Cemetery,West,7,7,2023,Available,NONE,0,0
+20C,Cemetery,West,7,10,2023,Available,NONE,0,0
+20C,Cemetery,West,7,12,2023,Available,NONE,0,0
+20C,Cemetery,West,7,14,2023,Available,NONE,0,0
+20C,Cemetery,West,7,17,2023,Available,NONE,0,0
+21C,Cemetery,North,2,19,2023,Available ,NONE,0,0
+21C,Cemetery,North,2,26,2023,Available ,NONE,0,0
+21C,Cemetery,North,2,28,2023,Available ,NONE,0,0
+21C,Cemetery,North,3,16,2023,Available ,NONE,0,0
+21C,Cemetery,North,3,19,2023,Available ,NONE,0,0
+21C,Cemetery,North,3,23,2023,Available ,NONE,0,0
+21C,Cemetery,North,3,26,2023,Available ,NONE,0,0
+21C,Cemetery,North,3,30,2023,Available ,NONE,0,0
+21C,Cemetery,North,4,2,2023,Available ,NONE,0,0
+21C,Cemetery,North,4,6,2023,Available ,NONE,0,0
+21C,Cemetery,North,4,9,2023,Available,NONE,0,0
+21C,Cemetery,North,4,13,2023,Start,TRES,0,0
+21C,Cemetery,North,4,16,2023,Start,TRES,0,0
+21C,Cemetery,North,4,20,2023,Medium,TRES,0,0
+21C,Cemetery,North,4,23,2023,Medium,TRES,0,0
+21C,Cemetery,North,4,27,2023,Medium,TRES,0,0
+21C,Cemetery,North,4,29,2023,Medium,TRES,0,0
+21C,Cemetery,North,5,4,2023,Medium,TRES,0,0
+21C,Cemetery,North,5,7,2023,Medium,TRES,0,0
+21C,Cemetery,North,5,11,2023,Medium,TRES,0,0
+21C,Cemetery,North,5,14,2023,Eggs,TRES,5,0
+21C,Cemetery,North,5,18,2023,Eggs,TRES,5,0
+21C,Cemetery,North,5,21,2023,Eggs,TRES,5,0
+21C,Cemetery,North,5,23,2023,Eggs,TRES,5,0
+21C,Cemetery,North,5,25,2023,Eggs,TRES,5,0
+21C,Cemetery,North,5,27,2023,Eggs,TRES,5,0
+21C,Cemetery,North,5,29,2023,Eggs,TRES,5,0
+21C,Cemetery,North,5,31,2023,Eggs,TRES,5,0
+21C,Cemetery,North,6,2,2023,Failed,TRES,5,0
+21C,Cemetery,North,6,5,2023,Available,NONE,0,0
+21C,Cemetery,North,6,7,2023,Available,NONE,0,0
+21C,Cemetery,North,6,9,2023,Available,NONE,0,0
+21C,Cemetery,North,6,12,2023,Available,NONE,0,0
+21C,Cemetery,North,6,14,2023,Eggs,TRES,3,0
+21C,Cemetery,North,6,16,2023,Eggs,TRES,5,0
+21C,Cemetery,North,6,19,2023,Eggs,TRES,5,0
+21C,Cemetery,North,6,21,2023,Eggs,TRES,5,0
+21C,Cemetery,North,6,23,2023,Eggs,TRES,5,0
+21C,Cemetery,North,6,26,2023,Eggs,TRES,5,0
+21C,Cemetery,North,6,28,2023,Eggs,TRES,5,0
+21C,Cemetery,North,6,30,2023,Chicks,TRES,1,4
+21C,Cemetery,North,7,3,2023,Chicks,TRES,1,4
+21C,Cemetery,North,7,5,2023,Chicks,TRES,1,4
+21C,Cemetery,North,7,7,2023,Failed,TRES,0,0
+21C,Cemetery,North,7,10,2023,Available,NONE,0,0
+21C,Cemetery,North,7,12,2023,Available,NONE,0,0
+21C,Cemetery,North,7,14,2023,Available,NONE,0,0
+21C,Cemetery,North,7,17,2023,Available,NONE,0,0
+22C,Cemetery,East,2,19,2023,Available ,NONE,0,0
+22C,Cemetery,East,2,26,2023,Available ,NONE,0,0
+22C,Cemetery,East,2,28,2023,Available ,NONE,0,0
+22C,Cemetery,East,3,16,2023,Available ,NONE,0,0
+22C,Cemetery,East,3,19,2023,Available ,NONE,0,0
+22C,Cemetery,East,3,23,2023,Available ,NONE,0,0
+22C,Cemetery,East,3,26,2023,Available ,NONE,0,0
+22C,Cemetery,East,3,30,2023,Available ,NONE,0,0
+22C,Cemetery,East,4,2,2023,Available ,NONE,0,0
+22C,Cemetery,East,4,6,2023,Available ,NONE,0,0
+22C,Cemetery,East,4,9,2023,Available ,NONE,0,0
+22C,Cemetery,East,4,13,2023,Available ,NONE,0,0
+22C,Cemetery,East,4,16,2023,Start,TRES,0,0
+22C,Cemetery,East,4,20,2023,Medium,TRES,0,0
+22C,Cemetery,East,4,23,2023,Complete,TRES,0,0
+22C,Cemetery,East,4,27,2023,Complete,TRES,0,0
+22C,Cemetery,East,4,29,2023,Eggs,TRES,1,0
+22C,Cemetery,East,5,4,2023,Eggs,TRES,6,0
+22C,Cemetery,East,5,7,2023,Eggs,TRES,6,0
+22C,Cemetery,East,5,11,2023,Eggs,TRES,6,0
+22C,Cemetery,East,5,14,2023,Eggs,TRES,6,0
+22C,Cemetery,East,5,18,2023,Chicks,TRES,3,3
+22C,Cemetery,East,5,21,2023,Chicks,TRES,1,5
+22C,Cemetery,East,5,23,2023,Chicks,TRES,1,6
+22C,Cemetery,East,5,25,2023,Chicks,TRES,1,4
+22C,Cemetery,East,5,27,2023,Chicks,TRES,1,4
+22C,Cemetery,East,5,29,2023,Chicks,TRES,1,4
+22C,Cemetery,East,5,31,2023,Chicks,TRES,1,4
+22C,Cemetery,East,6,2,2023,Fledged,TRES,1,3
+22C,Cemetery,East,6,5,2023,Fledged,TRES,1,3
+22C,Cemetery,East,6,7,2023,Fledged,TRES,1,0
+22C,Cemetery,East,6,9,2023,Available,NONE,0,0
+22C,Cemetery,East,6,12,2023,Medium,TRES,0,0
+22C,Cemetery,East,6,14,2023,Complete,TRES,0,0
+22C,Cemetery,East,6,16,2023,Eggs,TRES,2,0
+22C,Cemetery,East,6,19,2023,Eggs,TRES,4,0
+22C,Cemetery,East,6,21,2023,Eggs,TRES,4,0
+22C,Cemetery,East,6,23,2023,Eggs,TRES,3,0
+22C,Cemetery,East,6,26,2023,Eggs,TRES,2,0
+22C,Cemetery,East,6,28,2023,Eggs,TRES,2,0
+22C,Cemetery,East,6,30,2023,Eggs,TRES,3,0
+22C,Cemetery,East,7,3,2023,Failed,TRES,0,0
+22C,Cemetery,East,7,5,2023,Available,NONE,0,0
+22C,Cemetery,East,7,7,2023,Available,NONE,0,0
+22C,Cemetery,East,7,10,2023,Available,NONE,0,0
+22C,Cemetery,East,7,12,2023,Available,NONE,0,0
+22C,Cemetery,East,7,14,2023,Available,NONE,0,0
+22C,Cemetery,East,7,17,2023,Available,NONE,0,0
+23C,Cemetery,South,2,19,2023,Available ,NONE,0,0
+23C,Cemetery,South,2,26,2023,Available ,NONE,0,0
+23C,Cemetery,South,2,28,2023,Available ,NONE,0,0
+23C,Cemetery,South,3,16,2023,Available ,NONE,0,0
+23C,Cemetery,South,3,19,2023,Available ,NONE,0,0
+23C,Cemetery,South,3,23,2023,Available ,NONE,0,0
+23C,Cemetery,South,3,26,2023,Available ,NONE,0,0
+23C,Cemetery,South,3,30,2023,Available ,NONE,0,0
+23C,Cemetery,South,6,26,2023,Available,NONE,0,0
+23C,Cemetery,South,6,28,2023,Available,NONE,0,0
+23C,Cemetery,South,6,30,2023,Available,NONE,0,0
+23C,Cemetery,South,7,3,2023,Available,NONE,0,0
+23C,Cemetery,South,7,5,2023,Available,NONE,0,0
+23C,Cemetery,South,7,7,2023,Available,NONE,0,0
+23C,Cemetery,South,7,10,2023,Available,NONE,0,0
+23C,Cemetery,South,7,12,2023,Available,NONE,0,0
+23C,Cemetery,South,7,14,2023,Available,NONE,0,0
+23C,Cemetery,South,7,17,2023,Available,NONE,0,0
+24C,Cemetery,West,2,19,2023,Available ,NONE,0,0
+24C,Cemetery,West,2,26,2023,Available ,NONE,0,0
+24C,Cemetery,West,2,28,2023,Available ,NONE,0,0
+24C,Cemetery,West,3,16,2023,Available ,NONE,0,0
+24C,Cemetery,West,3,19,2023,Available ,NONE,0,0
+24C,Cemetery,West,3,23,2023,Available ,NONE,0,0
+24C,Cemetery,West,3,26,2023,Available ,NONE,0,0
+24C,Cemetery,West,3,30,2023,Available ,NONE,0,0
+24C,Cemetery,West,4,2,2023,Available ,NONE,0,0
+24C,Cemetery,West,4,6,2023,Available ,NONE,0,0
+24C,Cemetery,West,4,9,2023,Available ,NONE,0,0
+24C,Cemetery,West,4,13,2023,Available ,NONE,0,0
+24C,Cemetery,West,4,16,2023,Available ,NONE,0,0
+24C,Cemetery,West,4,20,2023,Available ,NONE,0,0
+24C,Cemetery,West,4,23,2023,Available ,NONE,0,0
+24C,Cemetery,West,4,27,2023,Available ,NONE,0,0
+24C,Cemetery,West,4,29,2023,Available ,NONE,0,0
+24C,Cemetery,West,5,4,2023,Available ,NONE,0,0
+24C,Cemetery,West,5,7,2023,Available ,NONE,0,0
+24C,Cemetery,West,5,11,2023,Available ,NONE,0,0
+24C,Cemetery,West,5,14,2023,Available ,NONE,0,0
+24C,Cemetery,West,5,18,2023,Available ,NONE,0,0
+24C,Cemetery,West,5,21,2023,Available ,NONE,0,0
+24C,Cemetery,West,5,23,2023,Available ,NONE,0,0
+24C,Cemetery,West,5,25,2023,Available ,NONE,0,0
+24C,Cemetery,West,5,27,2023,Available ,NONE,0,0
+24C,Cemetery,West,5,29,2023,Available ,NONE,0,0
+24C,Cemetery,West,5,31,2023,Available ,NONE,0,0
+24C,Cemetery,West,6,2,2023,Available ,NONE,0,0
+24C,Cemetery,West,6,5,2023,Available ,NONE,0,0
+24C,Cemetery,West,6,7,2023,Available ,NONE,0,0
+24C,Cemetery,West,6,9,2023,Available ,NONE,0,0
+24C,Cemetery,West,6,12,2023,Available ,NONE,0,0
+24C,Cemetery,West,6,14,2023,Available ,NONE,0,0
+24C,Cemetery,West,6,16,2023,Available ,NONE,0,0
+24C,Cemetery,West,6,19,2023,Available ,NONE,0,0
+24C,Cemetery,West,6,21,2023,Available ,NONE,0,0
+24C,Cemetery,West,6,23,2023,Available ,NONE,0,0
+24C,Cemetery,West,6,26,2023,Available ,NONE,0,0
+24C,Cemetery,West,6,28,2023,Available ,NONE,0,0
+24C,Cemetery,West,6,30,2023,Available ,NONE,0,0
+24C,Cemetery,West,7,3,2023,Available ,NONE,0,0
+24C,Cemetery,West,7,5,2023,Available ,NONE,0,0
+24C,Cemetery,West,7,7,2023,Available ,NONE,0,0
+24C,Cemetery,West,7,10,2023,Available ,NONE,0,0
+24C,Cemetery,West,7,12,2023,Available ,NONE,0,0
+24C,Cemetery,West,7,14,2023,Available ,NONE,0,0
+24C,Cemetery,West,7,17,2023,Available ,NONE,0,0
+25C,Cemetery,North,2,19,2023,Available ,NONE,0,0
+25C,Cemetery,North,2,26,2023,Available ,NONE,0,0
+25C,Cemetery,North,2,28,2023,Available ,NONE,0,0
+25C,Cemetery,North,3,16,2023,Available ,NONE,0,0
+25C,Cemetery,North,3,19,2023,Available ,NONE,0,0
+25C,Cemetery,North,3,23,2023,Available ,NONE,0,0
+25C,Cemetery,North,3,26,2023,Available ,NONE,0,0
+25C,Cemetery,North,3,30,2023,Available ,NONE,0,0
+25C,Cemetery,North,4,2,2023,Available ,NONE,0,0
+25C,Cemetery,North,4,6,2023,Available ,NONE,0,0
+25C,Cemetery,North,4,9,2023,Available ,NONE,0,0
+25C,Cemetery,North,4,13,2023,Available ,NONE,0,0
+25C,Cemetery,North,4,16,2023,Start,TRES,0,0
+25C,Cemetery,North,4,20,2023,Complete,TRES,0,0
+25C,Cemetery,North,4,23,2023,Complete,TRES,0,0
+25C,Cemetery,North,4,27,2023,Complete,TRES,0,0
+25C,Cemetery,North,4,29,2023,Complete,TRES,0,0
+25C,Cemetery,North,5,4,2023,Eggs,TRES,2,0
+25C,Cemetery,North,5,7,2023,Eggs,TRES,5,0
+25C,Cemetery,North,5,11,2023,Eggs,TRES,5,0
+25C,Cemetery,North,5,14,2023,Eggs,TRES,5,0
+25C,Cemetery,North,5,18,2023,Eggs,TRES,5,0
+25C,Cemetery,North,5,21,2023,Eggs,TRES,5,0
+25C,Cemetery,North,5,23,2023,Eggs,TRES,5,0
+25C,Cemetery,North,5,25,2023,Eggs,TRES,4,0
+25C,Cemetery,North,5,27,2023,Eggs,TRES,4,0
+25C,Cemetery,North,5,29,2023,Eggs,TRES,4,0
+25C,Cemetery,North,5,31,2023,Eggs,TRES,4,0
+25C,Cemetery,North,6,2,2023,Failed,TRES,3,0
+25C,Cemetery,North,6,5,2023,Available,NONE,0,0
+25C,Cemetery,North,6,7,2023,Available,NONE,0,0
+25C,Cemetery,North,6,9,2023,Available,NONE,0,0
+25C,Cemetery,North,6,12,2023,Available,NONE,0,0
+25C,Cemetery,North,6,14,2023,Available,NONE,0,0
+25C,Cemetery,North,6,16,2023,Available,NONE,0,0
+25C,Cemetery,North,6,19,2023,Available,NONE,0,0
+25C,Cemetery,North,6,21,2023,Available,NONE,0,0
+25C,Cemetery,North,6,23,2023,Available,NONE,0,0
+25C,Cemetery,North,6,26,2023,Available,NONE,0,0
+25C,Cemetery,North,6,28,2023,Available,NONE,0,0
+25C,Cemetery,North,6,30,2023,Available,NONE,0,0
+25C,Cemetery,North,7,3,2023,Available,NONE,0,0
+25C,Cemetery,North,7,5,2023,Available,NONE,0,0
+25C,Cemetery,North,7,7,2023,Available,NONE,0,0
+25C,Cemetery,North,7,10,2023,Available,NONE,0,0
+25C,Cemetery,North,7,12,2023,Available,NONE,0,0
+25C,Cemetery,North,7,14,2023,Available,NONE,0,0
+25C,Cemetery,North,7,17,2023,Available,NONE,0,0
+26C,Cemetery,East,2,19,2023,Available ,NONE,0,0
+26C,Cemetery,East,2,26,2023,Available ,NONE,0,0
+26C,Cemetery,East,2,28,2023,Available ,NONE,0,0
+26C,Cemetery,East,3,16,2023,Available ,NONE,0,0
+26C,Cemetery,East,3,19,2023,Available ,NONE,0,0
+26C,Cemetery,East,3,23,2023,Available ,NONE,0,0
+26C,Cemetery,East,3,26,2023,Available ,NONE,0,0
+26C,Cemetery,East,3,30,2023,Available ,NONE,0,0
+26C,Cemetery,East,4,2,2023,Available ,NONE,0,0
+26C,Cemetery,East,4,6,2023,Available ,NONE,0,0
+26C,Cemetery,East,4,9,2023,Available ,NONE,0,0
+26C,Cemetery,East,4,13,2023,Available ,NONE,0,0
+26C,Cemetery,East,4,16,2023,Available ,NONE,0,0
+26C,Cemetery,East,4,20,2023,Available ,NONE,0,0
+26C,Cemetery,East,4,23,2023,Available ,NONE,0,0
+26C,Cemetery,East,4,27,2023,Available ,NONE,0,0
+26C,Cemetery,East,4,29,2023,Available ,NONE,0,0
+26C,Cemetery,East,5,4,2023,Available ,NONE,0,0
+26C,Cemetery,East,5,7,2023,Start,TRES,0,0
+26C,Cemetery,East,5,11,2023,Complete,TRES,0,0
+26C,Cemetery,East,5,14,2023,Eggs,TRES,2,0
+26C,Cemetery,East,5,18,2023,Eggs,TRES,5,0
+26C,Cemetery,East,5,21,2023,Eggs,TRES,6,0
+26C,Cemetery,East,5,23,2023,Failed,TRES,6,0
+26C,Cemetery,East,5,25,2023,Available,NONE,0,0
+26C,Cemetery,East,5,27,2023,Available,NONE,0,0
+26C,Cemetery,East,5,29,2023,Available,NONE,0,0
+26C,Cemetery,East,5,31,2023,Available,NONE,0,0
+26C,Cemetery,East,6,2,2023,Available,NONE,0,0
+26C,Cemetery,East,6,5,2023,Available,NONE,0,0
+26C,Cemetery,East,6,7,2023,Available,NONE,0,0
+26C,Cemetery,East,6,9,2023,Available,NONE,0,0
+26C,Cemetery,East,6,12,2023,Available,NONE,0,0
+26C,Cemetery,East,6,14,2023,Available,NONE,0,0
+26C,Cemetery,East,6,16,2023,Available,NONE,0,0
+26C,Cemetery,East,6,19,2023,Available,NONE,0,0
+26C,Cemetery,East,6,21,2023,Available,NONE,0,0
+26C,Cemetery,East,6,23,2023,Available,NONE,0,0
+26C,Cemetery,East,6,26,2023,Available,NONE,0,0
+26C,Cemetery,East,6,28,2023,Available,NONE,0,0
+26C,Cemetery,East,6,30,2023,Available,NONE,0,0
+26C,Cemetery,East,7,3,2023,Available,NONE,0,0
+26C,Cemetery,East,7,5,2023,Available,NONE,0,0
+26C,Cemetery,East,7,7,2023,Available,NONE,0,0
+26C,Cemetery,East,7,10,2023,Available,NONE,0,0
+26C,Cemetery,East,7,12,2023,Available,NONE,0,0
+26C,Cemetery,East,7,14,2023,Available,NONE,0,0
+26C,Cemetery,East,7,17,2023,Available,NONE,0,0
+27C,Cemetery,South,2,19,2023,Available ,NONE,0,0
+27C,Cemetery,South,2,26,2023,Available ,NONE,0,0
+27C,Cemetery,South,2,28,2023,Available ,NONE,0,0
+27C,Cemetery,South,3,16,2023,Available ,NONE,0,0
+27C,Cemetery,South,3,19,2023,Available ,NONE,0,0
+27C,Cemetery,South,3,23,2023,Available ,NONE,0,0
+27C,Cemetery,South,3,26,2023,Available ,NONE,0,0
+27C,Cemetery,South,3,30,2023,Available ,NONE,0,0
+27C,Cemetery,South,4,2,2023,Available ,NONE,0,0
+27C,Cemetery,South,4,6,2023,Available ,NONE,0,0
+27C,Cemetery,South,4,9,2023,Available ,NONE,0,0
+27C,Cemetery,South,4,13,2023,Available ,NONE,0,0
+27C,Cemetery,South,4,16,2023,Available ,NONE,0,0
+27C,Cemetery,South,4,20,2023,Available ,NONE,0,0
+27C,Cemetery,South,4,23,2023,Available ,NONE,0,0
+27C,Cemetery,South,4,27,2023,Available ,NONE,0,0
+27C,Cemetery,South,4,29,2023,Available ,NONE,0,0
+27C,Cemetery,South,5,4,2023,Available ,NONE,0,0
+27C,Cemetery,South,5,29,2023,Available,NONE,0,0
+27C,Cemetery,South,5,31,2023,Available,NONE,0,0
+27C,Cemetery,South,6,2,2023,Available,NONE,0,0
+27C,Cemetery,South,6,5,2023,Available,NONE,0,0
+27C,Cemetery,South,6,7,2023,Available,NONE,0,0
+27C,Cemetery,South,6,9,2023,Available,NONE,0,0
+27C,Cemetery,South,6,12,2023,Available,NONE,0,0
+27C,Cemetery,South,6,14,2023,Available,NONE,0,0
+27C,Cemetery,South,6,16,2023,Available,NONE,0,0
+27C,Cemetery,South,6,19,2023,Available,NONE,0,0
+27C,Cemetery,South,6,21,2023,Available,NONE,0,0
+27C,Cemetery,South,6,23,2023,Available,NONE,0,0
+27C,Cemetery,South,6,26,2023,Available,NONE,0,0
+27C,Cemetery,South,6,28,2023,Available,NONE,0,0
+27C,Cemetery,South,6,30,2023,Available,NONE,0,0
+27C,Cemetery,South,7,3,2023,Available,NONE,0,0
+27C,Cemetery,South,7,5,2023,Available,NONE,0,0
+27C,Cemetery,South,7,7,2023,Available,NONE,0,0
+27C,Cemetery,South,7,10,2023,Available,NONE,0,0
+27C,Cemetery,South,7,12,2023,Available,NONE,0,0
+27C,Cemetery,South,7,14,2023,Available,NONE,0,0
+27C,Cemetery,South,7,17,2023,Available,NONE,0,0
+28C,Cemetery,West,2,19,2023,Available ,NONE,0,0
+28C,Cemetery,West,2,26,2023,Available ,NONE,0,0
+28C,Cemetery,West,2,28,2023,Available ,NONE,0,0
+28C,Cemetery,West,3,16,2023,Available ,NONE,0,0
+28C,Cemetery,West,3,19,2023,Available ,NONE,0,0
+28C,Cemetery,West,3,23,2023,Available ,NONE,0,0
+28C,Cemetery,West,3,26,2023,Available ,NONE,0,0
+28C,Cemetery,West,3,30,2023,Available ,NONE,0,0
+28C,Cemetery,West,4,2,2023,Available ,NONE,0,0
+28C,Cemetery,West,4,6,2023,Available ,NONE,0,0
+28C,Cemetery,West,4,9,2023,Start,TRES,0,0
+28C,Cemetery,West,4,13,2023,Start,TRES,0,0
+28C,Cemetery,West,4,16,2023,Medium,TRES,0,0
+28C,Cemetery,West,4,20,2023,Complete,TRES,0,0
+28C,Cemetery,West,4,23,2023,Complete,TRES,0,0
+28C,Cemetery,West,4,27,2023,Complete,TRES,0,0
+28C,Cemetery,West,4,29,2023,Complete,TRES,0,0
+28C,Cemetery,West,5,4,2023,Eggs,TRES,4,0
+28C,Cemetery,West,5,7,2023,Eggs,TRES,4,0
+28C,Cemetery,West,5,11,2023,Eggs,TRES,6,0
+28C,Cemetery,West,5,14,2023,Eggs,TRES,6,0
+28C,Cemetery,West,5,18,2023,Eggs,TRES,6,0
+28C,Cemetery,West,5,21,2023,Chicks,TRES,1,5
+28C,Cemetery,West,5,23,2023,Failed,TRES,0,0
+28C,Cemetery,West,5,25,2023,Available ,NONE,0,0
+28C,Cemetery,West,5,27,2023,Available ,NONE,0,0
+28C,Cemetery,West,5,29,2023,Available ,NONE,0,0
+28C,Cemetery,West,5,31,2023,Available ,NONE,0,0
+28C,Cemetery,West,6,2,2023,Available ,NONE,0,0
+28C,Cemetery,West,6,5,2023,Available ,NONE,0,0
+28C,Cemetery,West,6,7,2023,Available ,NONE,0,0
+28C,Cemetery,West,6,9,2023,Medium,TRES,0,0
+28C,Cemetery,West,6,12,2023,Medium,TRES,0,0
+28C,Cemetery,West,6,14,2023,Eggs,TRES,1,0
+28C,Cemetery,West,6,16,2023,Eggs,TRES,3,0
+28C,Cemetery,West,6,19,2023,Eggs,TRES,3,0
+28C,Cemetery,West,6,21,2023,Eggs,TRES,3,0
+28C,Cemetery,West,6,23,2023,Eggs,TRES,3,0
+28C,Cemetery,West,6,26,2023,Eggs,TRES,3,0
+28C,Cemetery,West,6,28,2023,Eggs,TRES,3,0
+28C,Cemetery,West,6,30,2023,Chicks,TRES,2,1
+28C,Cemetery,West,7,3,2023,Failed,TRES,0,0
+28C,Cemetery,West,7,5,2023,Available,NONE,0,0
+28C,Cemetery,West,7,7,2023,Available,NONE,0,0
+29C,Cemetery,North,2,19,2023,Available ,NONE,0,0
+29C,Cemetery,North,2,26,2023,Available ,NONE,0,0
+29C,Cemetery,North,2,28,2023,Available ,NONE,0,0
+29C,Cemetery,North,3,16,2023,Available ,NONE,0,0
+29C,Cemetery,North,3,19,2023,Available ,NONE,0,0
+29C,Cemetery,North,3,23,2023,Available ,NONE,0,0
+29C,Cemetery,North,3,26,2023,Available ,NONE,0,0
+29C,Cemetery,North,3,30,2023,Available ,NONE,0,0
+29C,Cemetery,North,4,2,2023,Available ,NONE,0,0
+29C,Cemetery,North,4,6,2023,Available ,NONE,0,0
+29C,Cemetery,North,4,9,2023,Available ,NONE,0,0
+29C,Cemetery,North,4,13,2023,Available ,NONE,0,0
+29C,Cemetery,North,4,16,2023,Available ,NONE,0,0
+29C,Cemetery,North,4,20,2023,Available ,NONE,0,0
+29C,Cemetery,North,4,23,2023,Available ,NONE,0,0
+29C,Cemetery,North,4,27,2023,Available ,NONE,0,0
+29C,Cemetery,North,4,29,2023,Available ,NONE,0,0
+29C,Cemetery,North,5,4,2023,Available ,NONE,0,0
+29C,Cemetery,North,5,7,2023,Available ,NONE,0,0
+29C,Cemetery,North,5,11,2023,Available ,NONE,0,0
+29C,Cemetery,North,5,14,2023,Available ,NONE,0,0
+29C,Cemetery,North,5,18,2023,Available ,NONE,0,0
+29C,Cemetery,North,5,21,2023,Available ,NONE,0,0
+29C,Cemetery,North,5,23,2023,Available ,NONE,0,0
+29C,Cemetery,North,5,25,2023,Available ,NONE,0,0
+29C,Cemetery,North,5,27,2023,Available ,NONE,0,0
+29C,Cemetery,North,5,29,2023,Available ,NONE,0,0
+29C,Cemetery,North,5,31,2023,Available ,NONE,0,0
+29C,Cemetery,North,6,2,2023,Available ,NONE,0,0
+29C,Cemetery,North,6,5,2023,Available ,NONE,0,0
+29C,Cemetery,North,6,7,2023,Available ,NONE,0,0
+29C,Cemetery,North,6,9,2023,Available ,NONE,0,0
+29C,Cemetery,North,6,12,2023,Available ,NONE,0,0
+29C,Cemetery,North,6,14,2023,Available ,NONE,0,0
+29C,Cemetery,North,6,16,2023,Available ,NONE,0,0
+29C,Cemetery,North,6,19,2023,Available ,NONE,0,0
+29C,Cemetery,North,6,21,2023,Available ,NONE,0,0
+29C,Cemetery,North,6,23,2023,Available ,NONE,0,0
+29C,Cemetery,North,6,26,2023,Available ,NONE,0,0
+29C,Cemetery,North,6,28,2023,Available ,NONE,0,0
+29C,Cemetery,North,6,30,2023,Available ,NONE,0,0
+29C,Cemetery,North,7,3,2023,Available ,NONE,0,0
+29C,Cemetery,North,7,5,2023,Available ,NONE,0,0
+29C,Cemetery,North,7,7,2023,Available ,NONE,0,0
+29C,Cemetery,North,7,10,2023,Available ,NONE,0,0
+29C,Cemetery,North,7,12,2023,Available ,NONE,0,0
+29C,Cemetery,North,7,14,2023,Available ,NONE,0,0
+29C,Cemetery,North,7,17,2023,Available ,NONE,0,0
+30C,Cemetery,East,2,19,2023,Available ,NONE,0,0
+30C,Cemetery,East,2,26,2023,Available ,NONE,0,0
+30C,Cemetery,East,2,28,2023,Available ,NONE,0,0
+30C,Cemetery,East,3,16,2023,Available ,NONE,0,0
+30C,Cemetery,East,3,19,2023,Available ,NONE,0,0
+30C,Cemetery,East,3,23,2023,Available ,NONE,0,0
+30C,Cemetery,East,3,26,2023,Available ,NONE,0,0
+30C,Cemetery,East,3,30,2023,Available ,NONE,0,0
+30C,Cemetery,East,4,2,2023,Available ,NONE,0,0
+30C,Cemetery,East,4,6,2023,Available ,NONE,0,0
+30C,Cemetery,East,4,9,2023,Available,NONE,0,0
+30C,Cemetery,East,4,13,2023,Start,TRES,0,0
+30C,Cemetery,East,4,16,2023,Medium,TRES,0,0
+30C,Cemetery,East,4,20,2023,Complete,TRES,0,0
+30C,Cemetery,East,4,23,2023,Complete,TRES,0,0
+30C,Cemetery,East,4,27,2023,Complete,TRES,0,0
+30C,Cemetery,East,4,29,2023,Complete,TRES,0,0
+30C,Cemetery,East,5,4,2023,Eggs,TRES,4,0
+30C,Cemetery,East,5,7,2023,Failed,TRES,0,0
+30C,Cemetery,East,5,11,2023,Complete,TRES,0,0
+30C,Cemetery,East,5,14,2023,Eggs,TRES,1,0
+30C,Cemetery,East,5,18,2023,Eggs,TRES,5,0
+30C,Cemetery,East,5,21,2023,Eggs,TRES,5,0
+30C,Cemetery,East,5,23,2023,Eggs,TRES,5,0
+30C,Cemetery,East,5,25,2023,Eggs,TRES,5,0
+30C,Cemetery,East,5,27,2023,Eggs,TRES,5,0
+30C,Cemetery,East,5,29,2023,Eggs,TRES,5,0
+30C,Cemetery,East,5,31,2023,Chicks,TRES,2,3
+30C,Cemetery,East,6,2,2023,Chicks,TRES,0,5
+30C,Cemetery,East,6,5,2023,Chicks,TRES,0,1
+30C,Cemetery,East,6,7,2023,Failed,TRES,0,0
+30C,Cemetery,East,6,9,2023,Available,NONE,0,0
+30C,Cemetery,East,6,12,2023,Available,NONE,0,0
+30C,Cemetery,East,6,14,2023,Available,NONE,0,0
+30C,Cemetery,East,7,3,2023,Available,NONE,0,0
+30C,Cemetery,East,7,5,2023,Available,NONE,0,0
+30C,Cemetery,East,7,7,2023,Available,NONE,0,0
+30C,Cemetery,East,7,10,2023,Available,NONE,0,0
+30C,Cemetery,East,7,12,2023,Available,NONE,0,0
+30C,Cemetery,East,7,14,2023,Available,NONE,0,0
+30C,Cemetery,East,7,17,2023,Available,NONE,0,0
+31C,Cemetery,South,2,19,2023,Available ,NONE,0,0
+31C,Cemetery,South,2,26,2023,Available ,NONE,0,0
+31C,Cemetery,South,2,28,2023,Available ,NONE,0,0
+31C,Cemetery,South,3,16,2023,Available ,NONE,0,0
+31C,Cemetery,South,3,19,2023,Available ,NONE,0,0
+31C,Cemetery,South,3,23,2023,Available ,NONE,0,0
+31C,Cemetery,South,3,26,2023,Available ,NONE,0,0
+31C,Cemetery,South,3,30,2023,Available ,NONE,0,0
+31C,Cemetery,South,4,2,2023,Available ,NONE,0,0
+31C,Cemetery,South,4,6,2023,Available ,NONE,0,0
+31C,Cemetery,South,4,9,2023,Available ,NONE,0,0
+31C,Cemetery,South,4,13,2023,Available ,NONE,0,0
+31C,Cemetery,South,4,16,2023,Available ,NONE,0,0
+31C,Cemetery,South,4,20,2023,Available ,NONE,0,0
+31C,Cemetery,South,4,23,2023,Start,TRES,0,0
+31C,Cemetery,South,4,27,2023,Complete,TRES,0,0
+31C,Cemetery,South,4,29,2023,Complete,TRES,0,0
+31C,Cemetery,South,5,4,2023,Complete,TRES,0,0
+31C,Cemetery,South,5,7,2023,Eggs,TRES,2,0
+31C,Cemetery,South,5,11,2023,Eggs,TRES,6,0
+31C,Cemetery,South,5,14,2023,Eggs,TRES,6,0
+31C,Cemetery,South,5,18,2023,Eggs,TRES,6,0
+31C,Cemetery,South,5,21,2023,Eggs,TRES,6,0
+31C,Cemetery,South,5,23,2023,Failed,TRES,6,0
+31C,Cemetery,South,5,25,2023,Available,NONE,0,0
+31C,Cemetery,South,5,27,2023,Available,NONE,0,0
+31C,Cemetery,South,5,29,2023,Available,NONE,0,0
+31C,Cemetery,South,5,31,2023,Available,NONE,0,0
+31C,Cemetery,South,6,2,2023,Available,NONE,0,0
+31C,Cemetery,South,6,5,2023,Available,NONE,0,0
+31C,Cemetery,South,6,7,2023,Available,NONE,0,0
+31C,Cemetery,South,6,9,2023,Available,NONE,0,0
+31C,Cemetery,South,6,12,2023,Available,NONE,0,0
+31C,Cemetery,South,6,14,2023,Available,NONE,0,0
+31C,Cemetery,South,6,16,2023,Available,NONE,0,0
+31C,Cemetery,South,6,19,2023,Available,NONE,0,0
+31C,Cemetery,South,6,21,2023,Available,NONE,0,0
+31C,Cemetery,South,6,23,2023,Available,NONE,0,0
+31C,Cemetery,South,6,26,2023,Available,NONE,0,0
+31C,Cemetery,South,6,28,2023,Available,NONE,0,0
+31C,Cemetery,South,6,30,2023,Available,NONE,0,0
+31C,Cemetery,South,7,3,2023,Available,NONE,0,0
+31C,Cemetery,South,7,5,2023,Available,NONE,0,0
+31C,Cemetery,South,7,7,2023,Available,NONE,0,0
+31C,Cemetery,South,7,10,2023,Available,NONE,0,0
+31C,Cemetery,South,7,12,2023,Available,NONE,0,0
+31C,Cemetery,South,7,14,2023,Available,NONE,0,0
+31C,Cemetery,South,7,17,2023,Available,NONE,0,0
+32C,Cemetery,West,2,19,2023,Available ,NONE,0,0
+32C,Cemetery,West,2,26,2023,Available ,NONE,0,0
+32C,Cemetery,West,2,28,2023,Available ,NONE,0,0
+32C,Cemetery,West,3,16,2023,Available ,NONE,0,0
+32C,Cemetery,West,3,19,2023,Available ,NONE,0,0
+32C,Cemetery,West,3,23,2023,Available ,NONE,0,0
+32C,Cemetery,West,3,26,2023,Available ,NONE,0,0
+32C,Cemetery,West,3,30,2023,Available ,NONE,0,0
+32C,Cemetery,West,4,2,2023,Available ,NONE,0,0
+32C,Cemetery,West,4,6,2023,Available ,NONE,0,0
+32C,Cemetery,West,4,9,2023,Available ,NONE,0,0
+32C,Cemetery,West,4,13,2023,Available ,NONE,0,0
+32C,Cemetery,West,4,16,2023,Available ,NONE,0,0
+32C,Cemetery,West,4,20,2023,Available ,NONE,0,0
+32C,Cemetery,West,4,23,2023,Available ,NONE,0,0
+32C,Cemetery,West,4,27,2023,Available ,NONE,0,0
+32C,Cemetery,West,4,29,2023,Available ,NONE,0,0
+32C,Cemetery,West,5,4,2023,Available ,NONE,0,0
+32C,Cemetery,West,5,7,2023,Medium,NONE,0,0
+32C,Cemetery,West,5,11,2023,Complete,NONE,0,0
+32C,Cemetery,West,5,14,2023,Complete,NONE,0,0
+32C,Cemetery,West,5,18,2023,Complete,NONE,0,0
+32C,Cemetery,West,5,21,2023,Complete,NONE,0,0
+32C,Cemetery,West,5,23,2023,Complete,NONE,0,0
+32C,Cemetery,West,5,25,2023,Complete,NONE,0,0
+32C,Cemetery,West,5,27,2023,Complete,NONE,0,0
+32C,Cemetery,West,5,29,2023,Available,NONE,0,0
+32C,Cemetery,West,5,31,2023,Available,NONE,0,0
+32C,Cemetery,West,6,2,2023,Available,NONE,0,0
+32C,Cemetery,West,6,5,2023,Available,NONE,0,0
+32C,Cemetery,West,6,7,2023,Available,NONE,0,0
+32C,Cemetery,West,6,9,2023,Available,NONE,0,0
+32C,Cemetery,West,6,12,2023,Available,NONE,0,0
+32C,Cemetery,West,6,14,2023,Available,NONE,0,0
+32C,Cemetery,West,6,16,2023,Eggs,TRES,3,0
+32C,Cemetery,West,6,19,2023,Eggs,TRES,4,0
+32C,Cemetery,West,6,21,2023,Eggs,TRES,4,0
+32C,Cemetery,West,6,23,2023,Eggs,TRES,4,0
+32C,Cemetery,West,6,26,2023,Eggs,TRES,4,0
+32C,Cemetery,West,6,28,2023,Eggs,TRES,4,0
+32C,Cemetery,West,6,30,2023,Failed,TRES,4,0
+32C,Cemetery,West,7,3,2023,Available,NONE,0,0
+32C,Cemetery,West,7,5,2023,Available,NONE,0,0
+32C,Cemetery,West,7,7,2023,Available,NONE,0,0
+32C,Cemetery,West,7,10,2023,Available,NONE,0,0
+32C,Cemetery,West,7,12,2023,Available,NONE,0,0
+32C,Cemetery,West,7,14,2023,Available,NONE,0,0
+32C,Cemetery,West,7,17,2023,Available,NONE,0,0
+33C,Cemetery,North,2,19,2023,Available ,NONE,0,0
+33C,Cemetery,North,2,26,2023,Available ,NONE,0,0
+33C,Cemetery,North,2,28,2023,Available ,NONE,0,0
+33C,Cemetery,North,3,16,2023,Available ,NONE,0,0
+33C,Cemetery,North,3,19,2023,Available ,NONE,0,0
+33C,Cemetery,North,3,23,2023,Available ,NONE,0,0
+33C,Cemetery,North,3,26,2023,Available ,NONE,0,0
+33C,Cemetery,North,3,30,2023,Available ,NONE,0,0
+33C,Cemetery,North,4,2,2023,Available ,NONE,0,0
+33C,Cemetery,North,4,6,2023,Available ,NONE,0,0
+33C,Cemetery,North,4,9,2023,Available,NONE,0,0
+33C,Cemetery,North,4,13,2023,Start,TRES,0,0
+33C,Cemetery,North,4,16,2023,Start,TRES,0,0
+33C,Cemetery,North,4,20,2023,Medium,TRES,0,0
+33C,Cemetery,North,4,23,2023,Medium,TRES,0,0
+33C,Cemetery,North,4,27,2023,Complete,TRES,0,0
+33C,Cemetery,North,4,29,2023,Complete,TRES,0,0
+33C,Cemetery,North,5,4,2023,Eggs,TRES,4,0
+33C,Cemetery,North,5,7,2023,Eggs,TRES,7,0
+33C,Cemetery,North,5,11,2023,Eggs,TRES,7,0
+33C,Cemetery,North,5,14,2023,Eggs,TRES,7,0
+33C,Cemetery,North,5,18,2023,Eggs,TRES,7,0
+33C,Cemetery,North,5,21,2023,Chicks,TRES,2,5
+33C,Cemetery,North,5,23,2023,Chicks,TRES,1,6
+33C,Cemetery,North,5,25,2023,Chicks,TRES,1,6
+33C,Cemetery,North,5,27,2023,Chicks,TRES,1,6
+33C,Cemetery,North,5,29,2023,Chicks,TRES,1,6
+33C,Cemetery,North,5,31,2023,Chicks,TRES,1,6
+33C,Cemetery,North,6,2,2023,Chicks,TRES,1,6
+33C,Cemetery,North,6,5,2023,Chicks,TRES,1,6
+33C,Cemetery,North,6,7,2023,Chicks,TRES,1,6
+33C,Cemetery,North,6,9,2023,Chicks,TRES,1,6
+33C,Cemetery,North,6,12,2023,Fledged,TRES,0,0
+33C,Cemetery,North,6,14,2023,Available,NONE,0,0
+33C,Cemetery,North,6,16,2023,Available,NONE,0,0
+33C,Cemetery,North,6,19,2023,Available,NONE,0,0
+33C,Cemetery,North,6,21,2023,Available,NONE,0,0
+33C,Cemetery,North,6,23,2023,Available,NONE,0,0
+33C,Cemetery,North,6,26,2023,Available,NONE,0,0
+33C,Cemetery,North,6,28,2023,Available,NONE,0,0
+33C,Cemetery,North,6,30,2023,Available,NONE,0,0
+33C,Cemetery,North,7,3,2023,Available,NONE,0,0
+33C,Cemetery,North,7,5,2023,Available,NONE,0,0
+33C,Cemetery,North,7,7,2023,Available,NONE,0,0
+33C,Cemetery,North,7,10,2023,Available,NONE,0,0
+33C,Cemetery,North,7,12,2023,Available,NONE,0,0
+33C,Cemetery,North,7,14,2023,Available,NONE,0,0
+33C,Cemetery,North,7,17,2023,Available,NONE,0,0
+34C,Cemetery,East,2,19,2023,Available ,NONE,0,0
+34C,Cemetery,East,2,26,2023,Available ,NONE,0,0
+34C,Cemetery,East,2,28,2023,Available ,NONE,0,0
+34C,Cemetery,East,3,16,2023,Available ,NONE,0,0
+34C,Cemetery,East,3,19,2023,Available ,NONE,0,0
+34C,Cemetery,East,3,23,2023,Available ,NONE,0,0
+34C,Cemetery,East,3,26,2023,Available ,NONE,0,0
+34C,Cemetery,East,3,30,2023,Available ,NONE,0,0
+34C,Cemetery,East,4,2,2023,Available ,NONE,0,0
+34C,Cemetery,East,4,6,2023,Available ,NONE,0,0
+34C,Cemetery,East,4,9,2023,Available ,NONE,0,0
+34C,Cemetery,East,4,13,2023,Available ,NONE,0,0
+34C,Cemetery,East,4,16,2023,Available ,NONE,0,0
+34C,Cemetery,East,4,20,2023,Available ,NONE,0,0
+34C,Cemetery,East,4,23,2023,Available ,NONE,0,0
+34C,Cemetery,East,4,27,2023,Available ,NONE,0,0
+34C,Cemetery,East,5,23,2023,Available,NONE,0,0
+34C,Cemetery,East,5,25,2023,Available ,NONE,0,0
+34C,Cemetery,East,5,27,2023,Available ,NONE,0,0
+34C,Cemetery,East,5,29,2023,Available ,NONE,0,0
+34C,Cemetery,East,5,31,2023,Available ,NONE,0,0
+34C,Cemetery,East,6,2,2023,Available ,NONE,0,0
+34C,Cemetery,East,6,5,2023,Available ,NONE,0,0
+34C,Cemetery,East,6,7,2023,Available ,NONE,0,0
+34C,Cemetery,East,6,9,2023,Available ,NONE,0,0
+34C,Cemetery,East,6,12,2023,Available ,NONE,0,0
+34C,Cemetery,East,6,14,2023,Available ,NONE,0,0
+34C,Cemetery,East,6,16,2023,Available ,NONE,0,0
+34C,Cemetery,East,6,19,2023,Available ,NONE,0,0
+34C,Cemetery,East,6,21,2023,Available ,NONE,0,0
+34C,Cemetery,East,6,23,2023,Available ,NONE,0,0
+34C,Cemetery,East,6,26,2023,Available ,NONE,0,0
+34C,Cemetery,East,6,28,2023,Available ,NONE,0,0
+34C,Cemetery,East,6,30,2023,Available ,NONE,0,0
+34C,Cemetery,East,7,3,2023,Available ,NONE,0,0
+34C,Cemetery,East,7,5,2023,Available ,NONE,0,0
+34C,Cemetery,East,7,7,2023,Available ,NONE,0,0
+34C,Cemetery,East,7,10,2023,Available ,NONE,0,0
+34C,Cemetery,East,7,12,2023,Available ,NONE,0,0
+34C,Cemetery,East,7,14,2023,Available ,NONE,0,0
+34C,Cemetery,East,7,17,2023,Available ,NONE,0,0
+35C,Cemetery,South,2,19,2023,Available ,NONE,0,0
+35C,Cemetery,South,2,26,2023,Available ,NONE,0,0
+35C,Cemetery,South,2,28,2023,Available ,NONE,0,0
+35C,Cemetery,South,3,16,2023,Available ,NONE,0,0
+35C,Cemetery,South,3,19,2023,Available ,NONE,0,0
+35C,Cemetery,South,3,23,2023,Available ,NONE,0,0
+35C,Cemetery,South,3,26,2023,Available ,NONE,0,0
+35C,Cemetery,South,3,30,2023,Available ,NONE,0,0
+35C,Cemetery,South,4,2,2023,Available ,NONE,0,0
+35C,Cemetery,South,4,6,2023,Available ,NONE,0,0
+35C,Cemetery,South,4,9,2023,Available ,NONE,0,0
+35C,Cemetery,South,4,13,2023,Available ,NONE,0,0
+35C,Cemetery,South,4,16,2023,Available ,NONE,0,0
+35C,Cemetery,South,4,20,2023,Available ,NONE,0,0
+35C,Cemetery,South,4,23,2023,Available ,NONE,0,0
+35C,Cemetery,South,4,27,2023,Available ,NONE,0,0
+35C,Cemetery,South,4,29,2023,Available ,NONE,0,0
+35C,Cemetery,South,5,4,2023,Available ,NONE,0,0
+35C,Cemetery,South,5,7,2023,Available ,NONE,0,0
+35C,Cemetery,South,5,11,2023,Available ,NONE,0,0
+35C,Cemetery,South,5,14,2023,Available ,NONE,0,0
+35C,Cemetery,South,5,18,2023,Available ,NONE,0,0
+35C,Cemetery,South,5,21,2023,Available ,NONE,0,0
+35C,Cemetery,South,5,23,2023,Available ,NONE,0,0
+35C,Cemetery,South,5,25,2023,Medium,NONE,0,0
+35C,Cemetery,South,5,27,2023,Complete,NONE,0,0
+35C,Cemetery,South,5,29,2023,Complete,NONE,0,0
+35C,Cemetery,South,6,28,2023,Available,NONE,0,0
+35C,Cemetery,South,6,30,2023,Available,NONE,0,0
+35C,Cemetery,South,7,3,2023,Available,NONE,0,0
+35C,Cemetery,South,7,5,2023,Available,NONE,0,0
+35C,Cemetery,South,7,7,2023,Available,NONE,0,0
+35C,Cemetery,South,7,10,2023,Available,NONE,0,0
+35C,Cemetery,South,7,12,2023,Available,NONE,0,0
+35C,Cemetery,South,7,14,2023,Available,NONE,0,0
+35C,Cemetery,South,7,17,2023,Available,NONE,0,0
+36C,Cemetery,West,2,19,2023,Available ,NONE,0,0
+36C,Cemetery,West,2,26,2023,Available ,NONE,0,0
+36C,Cemetery,West,2,28,2023,Available ,NONE,0,0
+36C,Cemetery,West,3,16,2023,Available ,NONE,0,0
+36C,Cemetery,West,3,19,2023,Available ,NONE,0,0
+36C,Cemetery,West,3,23,2023,Available ,NONE,0,0
+36C,Cemetery,West,3,26,2023,Available ,NONE,0,0
+36C,Cemetery,West,3,30,2023,Available ,NONE,0,0
+36C,Cemetery,West,4,2,2023,Available ,NONE,0,0
+36C,Cemetery,West,4,6,2023,Available ,NONE,0,0
+36C,Cemetery,West,4,9,2023,Available ,NONE,0,0
+36C,Cemetery,West,4,13,2023,Available ,NONE,0,0
+36C,Cemetery,West,4,16,2023,Available ,NONE,0,0
+36C,Cemetery,West,4,20,2023,Available ,NONE,0,0
+36C,Cemetery,West,4,23,2023,Available ,NONE,0,0
+36C,Cemetery,West,4,27,2023,Available ,NONE,0,0
+36C,Cemetery,West,4,29,2023,Available ,NONE,0,0
+36C,Cemetery,West,5,4,2023,Start,TRES,0,0
+36C,Cemetery,West,5,7,2023,Complete,TRES,0,0
+36C,Cemetery,West,5,11,2023,Complete,TRES,0,0
+36C,Cemetery,West,5,14,2023,Eggs,TRES,3,0
+36C,Cemetery,West,5,18,2023,Eggs,TRES,4,0
+36C,Cemetery,West,5,21,2023,Eggs,TRES,4,0
+36C,Cemetery,West,5,23,2023,Eggs,TRES,4,0
+36C,Cemetery,West,5,25,2023,Eggs,TRES,4,0
+36C,Cemetery,West,5,27,2023,Eggs,TRES,4,0
+36C,Cemetery,West,5,29,2023,Chicks,TRES,2,2
+36C,Cemetery,West,5,31,2023,Chicks,TRES,2,2
+36C,Cemetery,West,6,2,2023,Chicks,TRES,2,2
+36C,Cemetery,West,6,5,2023,Chicks,TRES,0,1
+36C,Cemetery,West,6,7,2023,Failed,TRES,0,0
+36C,Cemetery,West,6,9,2023,Complete,TRES,0,0
+36C,Cemetery,West,6,12,2023,Complete,TRES,0,0
+36C,Cemetery,West,6,14,2023,Complete,TRES,0,0
+36C,Cemetery,West,6,16,2023,Complete,TRES,0,0
+36C,Cemetery,West,6,19,2023,Complete,TRES,0,0
+36C,Cemetery,West,6,21,2023,Complete,TRES,0,0
+36C,Cemetery,West,6,23,2023,Complete,TRES,0,0
+36C,Cemetery,West,6,26,2023,Complete,TRES,0,0
+36C,Cemetery,West,6,28,2023,Available,NONE,0,0
+36C,Cemetery,West,6,30,2023,Available,NONE,0,0
+36C,Cemetery,West,7,3,2023,Available,NONE,0,0
+36C,Cemetery,West,7,5,2023,Available,NONE,0,0
+36C,Cemetery,West,7,7,2023,Available,NONE,0,0
+36C,Cemetery,West,7,10,2023,Available,NONE,0,0
+36C,Cemetery,West,7,12,2023,Available,NONE,0,0
+36C,Cemetery,West,7,14,2023,Available,NONE,0,0
+36C,Cemetery,West,7,17,2023,Available,NONE,0,0
+37C,Cemetery,North,2,19,2023,Available ,NONE,0,0
+37C,Cemetery,North,2,26,2023,Available ,NONE,0,0
+37C,Cemetery,North,2,28,2023,Available ,NONE,0,0
+37C,Cemetery,North,3,16,2023,Available ,NONE,0,0
+37C,Cemetery,North,3,19,2023,Available ,NONE,0,0
+37C,Cemetery,North,3,23,2023,Available ,NONE,0,0
+37C,Cemetery,North,3,26,2023,Available ,NONE,0,0
+37C,Cemetery,North,3,30,2023,Available ,NONE,0,0
+37C,Cemetery,North,4,2,2023,Available ,NONE,0,0
+37C,Cemetery,North,4,6,2023,Available ,NONE,0,0
+37C,Cemetery,North,4,9,2023,Available ,NONE,0,0
+37C,Cemetery,North,4,13,2023,Available ,NONE,0,0
+37C,Cemetery,North,4,16,2023,Available,NONE,0,0
+37C,Cemetery,North,4,20,2023,Medium,TRES,0,0
+37C,Cemetery,North,4,23,2023,Medium,TRES,0,0
+37C,Cemetery,North,4,27,2023,Complete,TRES,0,0
+37C,Cemetery,North,4,29,2023,Eggs,TRES,1,0
+37C,Cemetery,North,5,4,2023,Eggs,TRES,6,0
+37C,Cemetery,North,5,7,2023,Eggs,TRES,8,0
+37C,Cemetery,North,5,11,2023,Eggs,TRES,8,0
+37C,Cemetery,North,5,14,2023,Eggs,TRES,8,0
+37C,Cemetery,North,5,18,2023,Eggs,TRES,7,0
+37C,Cemetery,North,5,21,2023,Eggs,TRES,3,0
+37C,Cemetery,North,5,23,2023,Failed,TRES,2,0
+37C,Cemetery,North,5,25,2023,Available ,NONE,0,0
+37C,Cemetery,North,5,27,2023,Complete,TRES,0,0
+37C,Cemetery,North,5,29,2023,Eggs,TRES,2,0
+37C,Cemetery,North,5,31,2023,Failed,TRES,0,0
+37C,Cemetery,North,6,2,2023,Available,NONE,0,0
+37C,Cemetery,North,6,5,2023,Available,NONE,0,0
+37C,Cemetery,North,6,7,2023,Complete,TRES,0,0
+37C,Cemetery,North,6,9,2023,Eggs,TRES,1,0
+37C,Cemetery,North,6,12,2023,Eggs,TRES,1,0
+37C,Cemetery,North,6,14,2023,Eggs,TRES,1,0
+37C,Cemetery,North,6,16,2023,Eggs,TRES,1,0
+37C,Cemetery,North,6,19,2023,Failed,TRES,0,0
+37C,Cemetery,North,6,21,2023,Available,NONE,0,0
+37C,Cemetery,North,6,23,2023,Available,NONE,0,0
+37C,Cemetery,North,6,26,2023,Available,NONE,0,0
+37C,Cemetery,North,6,28,2023,Available,NONE,0,0
+37C,Cemetery,North,6,30,2023,Available,NONE,0,0
+37C,Cemetery,North,7,3,2023,Available,NONE,0,0
+37C,Cemetery,North,7,5,2023,Available,NONE,0,0
+37C,Cemetery,North,7,7,2023,Available,NONE,0,0
+37C,Cemetery,North,7,10,2023,Available,NONE,0,0
+37C,Cemetery,North,7,12,2023,Available,NONE,0,0
+37C,Cemetery,North,7,14,2023,Available,NONE,0,0
+37C,Cemetery,North,7,17,2023,Available,NONE,0,0
+38C,Cemetery,East,2,19,2023,Available ,NONE,0,0
+38C,Cemetery,East,2,26,2023,Available ,NONE,0,0
+38C,Cemetery,East,2,28,2023,Available ,NONE,0,0
+38C,Cemetery,East,3,16,2023,Available ,NONE,0,0
+38C,Cemetery,East,3,19,2023,Available ,NONE,0,0
+38C,Cemetery,East,3,23,2023,Available ,NONE,0,0
+38C,Cemetery,East,3,26,2023,Available ,NONE,0,0
+38C,Cemetery,East,3,30,2023,Available ,NONE,0,0
+38C,Cemetery,East,4,2,2023,Available ,NONE,0,0
+38C,Cemetery,East,4,6,2023,Available ,NONE,0,0
+38C,Cemetery,East,4,9,2023,Available ,NONE,0,0
+38C,Cemetery,East,4,13,2023,Available ,NONE,0,0
+38C,Cemetery,East,4,16,2023,Available ,NONE,0,0
+38C,Cemetery,East,4,20,2023,Available ,NONE,0,0
+38C,Cemetery,East,4,23,2023,Available ,NONE,0,0
+38C,Cemetery,East,4,27,2023,Available ,NONE,0,0
+38C,Cemetery,East,4,29,2023,Available ,NONE,0,0
+38C,Cemetery,East,5,4,2023,Available ,NONE,0,0
+38C,Cemetery,East,5,7,2023,Available ,NONE,0,0
+38C,Cemetery,East,5,11,2023,Available ,NONE,0,0
+38C,Cemetery,East,5,14,2023,Available ,NONE,0,0
+38C,Cemetery,East,5,18,2023,Available ,NONE,0,0
+38C,Cemetery,East,5,21,2023,Available ,NONE,0,0
+38C,Cemetery,East,6,16,2023,Available,NONE,0,0
+38C,Cemetery,East,6,19,2023,Available,NONE,0,0
+38C,Cemetery,East,6,21,2023,Available,NONE,0,0
+38C,Cemetery,East,6,23,2023,Available,NONE,0,0
+38C,Cemetery,East,6,26,2023,Available,NONE,0,0
+38C,Cemetery,East,6,28,2023,Available,NONE,0,0
+38C,Cemetery,East,6,30,2023,Available,NONE,0,0
+38C,Cemetery,East,7,3,2023,Available,NONE,0,0
+38C,Cemetery,East,7,5,2023,Available,NONE,0,0
+38C,Cemetery,East,7,7,2023,Available,NONE,0,0
+38C,Cemetery,East,7,10,2023,Available,NONE,0,0
+38C,Cemetery,East,7,12,2023,Available,NONE,0,0
+38C,Cemetery,East,7,14,2023,Available,NONE,0,0
+38C,Cemetery,East,7,17,2023,Available,NONE,0,0
+39C,Cemetery,South,2,19,2023,Available ,NONE,0,0
+39C,Cemetery,South,2,26,2023,Available ,NONE,0,0
+39C,Cemetery,South,2,28,2023,Available ,NONE,0,0
+39C,Cemetery,South,3,16,2023,Available ,NONE,0,0
+39C,Cemetery,South,3,19,2023,Available ,NONE,0,0
+39C,Cemetery,South,3,23,2023,Available ,NONE,0,0
+39C,Cemetery,South,3,26,2023,Available ,NONE,0,0
+39C,Cemetery,South,3,30,2023,Available ,NONE,0,0
+39C,Cemetery,South,4,2,2023,Available ,NONE,0,0
+39C,Cemetery,South,4,6,2023,Available ,NONE,0,0
+39C,Cemetery,South,4,9,2023,Available ,NONE,0,0
+39C,Cemetery,South,4,13,2023,Available ,NONE,0,0
+39C,Cemetery,South,4,16,2023,Available,NONE,0,0
+39C,Cemetery,South,4,20,2023,Medium,TRES,0,0
+39C,Cemetery,South,4,23,2023,Medium,TRES,0,0
+39C,Cemetery,South,4,27,2023,Complete,TRES,0,0
+39C,Cemetery,South,4,29,2023,Complete,TRES,0,0
+39C,Cemetery,South,5,4,2023,Eggs,TRES,3,0
+39C,Cemetery,South,5,7,2023,Eggs,TRES,6,0
+39C,Cemetery,South,5,11,2023,Eggs,TRES,6,0
+39C,Cemetery,South,5,14,2023,Eggs,TRES,6,0
+39C,Cemetery,South,5,18,2023,Eggs,TRES,6,0
+39C,Cemetery,South,5,21,2023,Eggs,TRES,6,0
+39C,Cemetery,South,5,23,2023,Eggs,TRES,6,0
+39C,Cemetery,South,5,25,2023,Eggs,TRES,6,0
+39C,Cemetery,South,5,27,2023,Eggs,TRES,6,0
+39C,Cemetery,South,5,29,2023,Eggs,TRES,6,0
+39C,Cemetery,South,5,31,2023,Eggs,TRES,6,0
+39C,Cemetery,South,6,2,2023,Eggs,TRES,6,0
+39C,Cemetery,South,6,5,2023,Eggs,TRES,6,0
+39C,Cemetery,South,6,7,2023,Eggs,TRES,6,0
+39C,Cemetery,South,6,9,2023,Eggs,TRES,6,0
+39C,Cemetery,South,6,12,2023,Eggs,TRES,6,0
+39C,Cemetery,South,6,14,2023,Eggs,TRES,6,0
+39C,Cemetery,South,6,16,2023,Eggs,TRES,6,0
+39C,Cemetery,South,6,19,2023,Failed,NONE,0,0
+39C,Cemetery,South,6,21,2023,Available,NONE,0,0
+39C,Cemetery,South,6,23,2023,Available,NONE,0,0
+39C,Cemetery,South,6,26,2023,Available,NONE,0,0
+39C,Cemetery,South,6,28,2023,Available,NONE,0,0
+39C,Cemetery,South,6,30,2023,Available,NONE,0,0
+39C,Cemetery,South,7,3,2023,Available,NONE,0,0
+39C,Cemetery,South,7,5,2023,Available,NONE,0,0
+39C,Cemetery,South,7,7,2023,Available,NONE,0,0
+39C,Cemetery,South,7,10,2023,Available,NONE,0,0
+39C,Cemetery,South,7,12,2023,Available,NONE,0,0
+39C,Cemetery,South,7,14,2023,Available,NONE,0,0
+39C,Cemetery,South,7,17,2023,Available,NONE,0,0
+40C,Cemetery,West,2,19,2023,Available ,NONE,0,0
+40C,Cemetery,West,2,26,2023,Available ,NONE,0,0
+40C,Cemetery,West,2,28,2023,Available ,NONE,0,0
+40C,Cemetery,West,3,16,2023,Available ,NONE,0,0
+40C,Cemetery,West,3,19,2023,Available ,NONE,0,0
+40C,Cemetery,West,3,23,2023,Available ,NONE,0,0
+40C,Cemetery,West,3,26,2023,Available ,NONE,0,0
+40C,Cemetery,West,3,30,2023,Available ,NONE,0,0
+40C,Cemetery,West,4,2,2023,Available ,NONE,0,0
+40C,Cemetery,West,4,6,2023,Available ,NONE,0,0
+40C,Cemetery,West,4,9,2023,Available ,NONE,0,0
+40C,Cemetery,West,4,13,2023,Available ,NONE,0,0
+40C,Cemetery,West,4,16,2023,Available ,NONE,0,0
+40C,Cemetery,West,4,20,2023,Available ,NONE,0,0
+40C,Cemetery,West,4,23,2023,Start,TRES,0,0
+40C,Cemetery,West,4,27,2023,Medium,TRES,0,0
+40C,Cemetery,West,4,29,2023,Complete,TRES,0,0
+40C,Cemetery,West,5,4,2023,Complete,TRES,0,0
+40C,Cemetery,West,5,7,2023,Complete,TRES,0,0
+40C,Cemetery,West,5,11,2023,Complete,TRES,0,0
+40C,Cemetery,West,5,14,2023,Eggs,TRES,5,0
+40C,Cemetery,West,5,18,2023,Eggs,TRES,5,0
+40C,Cemetery,West,5,21,2023,Eggs,TRES,2,0
+40C,Cemetery,West,5,23,2023,Failed,TRES,2,0
+40C,Cemetery,West,5,25,2023,Complete,TRES,0,0
+40C,Cemetery,West,5,27,2023,Complete,TRES,0,0
+40C,Cemetery,West,5,29,2023,Complete,TRES,0,0
+40C,Cemetery,West,5,31,2023,Complete,TRES,0,0
+40C,Cemetery,West,6,2,2023,Complete,TRES,0,0
+40C,Cemetery,West,6,5,2023,Complete,TRES,0,0
+40C,Cemetery,West,6,7,2023,Complete,TRES,0,0
+40C,Cemetery,West,6,9,2023,Complete,TRES,0,0
+40C,Cemetery,West,6,12,2023,Complete,TRES,0,0
+40C,Cemetery,West,6,14,2023,Complete,TRES,0,0
+40C,Cemetery,West,6,16,2023,Available,NONE,0,0
+40C,Cemetery,West,6,19,2023,Available,NONE,0,0
+40C,Cemetery,West,6,21,2023,Available,NONE,0,0
+40C,Cemetery,West,6,23,2023,Available,NONE,0,0
+40C,Cemetery,West,6,26,2023,Available,NONE,0,0
+40C,Cemetery,West,6,28,2023,Available,NONE,0,0
+40C,Cemetery,West,6,30,2023,Available,NONE,0,0
+40C,Cemetery,West,7,3,2023,Available,NONE,0,0
+40C,Cemetery,West,7,5,2023,Available,NONE,0,0
+40C,Cemetery,West,7,7,2023,Available,NONE,0,0
+40C,Cemetery,West,7,10,2023,Available,NONE,0,0
+40C,Cemetery,West,7,12,2023,Available,NONE,0,0
+40C,Cemetery,West,7,14,2023,Available,NONE,0,0
+40C,Cemetery,West,7,17,2023,Available,NONE,0,0
+41C,Cemetery,North,2,19,2023,Available ,NONE,0,0
+41C,Cemetery,North,2,26,2023,Available ,NONE,0,0
+41C,Cemetery,North,2,28,2023,Available ,NONE,0,0
+41C,Cemetery,North,3,16,2023,Available ,NONE,0,0
+41C,Cemetery,North,3,19,2023,Available ,NONE,0,0
+41C,Cemetery,North,3,23,2023,Available ,NONE,0,0
+41C,Cemetery,North,3,26,2023,Available ,NONE,0,0
+41C,Cemetery,North,3,30,2023,Available ,NONE,0,0
+41C,Cemetery,North,4,2,2023,Available ,NONE,0,0
+41C,Cemetery,North,4,6,2023,Available ,NONE,0,0
+41C,Cemetery,North,4,9,2023,Available ,NONE,0,0
+41C,Cemetery,North,4,13,2023,Available ,NONE,0,0
+41C,Cemetery,North,4,16,2023,Available ,NONE,0,0
+41C,Cemetery,North,4,20,2023,Available ,NONE,0,0
+41C,Cemetery,North,4,23,2023,Available,NONE,0,0
+41C,Cemetery,North,4,27,2023,Start,TRES,0,0
+41C,Cemetery,North,4,29,2023,Start,TRES,0,0
+41C,Cemetery,North,5,4,2023,Start,TRES,0,0
+41C,Cemetery,North,5,7,2023,Complete,TRES,0,0
+41C,Cemetery,North,5,11,2023,Complete,TRES,0,0
+41C,Cemetery,North,5,14,2023,Complete,TRES,0,0
+41C,Cemetery,North,5,18,2023,Eggs,TRES,4,0
+41C,Cemetery,North,5,21,2023,Eggs,TRES,5,0
+41C,Cemetery,North,5,23,2023,Failed,TRES,5,0
+41C,Cemetery,North,5,25,2023,Available,NONE,0,0
+41C,Cemetery,North,5,27,2023,Available,NONE,0,0
+41C,Cemetery,North,5,29,2023,Available,NONE,0,0
+41C,Cemetery,North,5,31,2023,Available,NONE,0,0
+41C,Cemetery,North,6,2,2023,Available,NONE,0,0
+41C,Cemetery,North,6,5,2023,Available,NONE,0,0
+41C,Cemetery,North,6,7,2023,Available,NONE,0,0
+41C,Cemetery,North,6,9,2023,Available,NONE,0,0
+41C,Cemetery,North,6,12,2023,Available,NONE,0,0
+41C,Cemetery,North,6,14,2023,Available,NONE,0,0
+41C,Cemetery,North,6,16,2023,Available,NONE,0,0
+41C,Cemetery,North,6,19,2023,Available,NONE,0,0
+41C,Cemetery,North,6,21,2023,Available,NONE,0,0
+41C,Cemetery,North,6,23,2023,Available,NONE,0,0
+41C,Cemetery,North,6,26,2023,Available,NONE,0,0
+41C,Cemetery,North,6,28,2023,Available,NONE,0,0
+41C,Cemetery,North,6,30,2023,Available,NONE,0,0
+41C,Cemetery,North,7,3,2023,Available,NONE,0,0
+41C,Cemetery,North,7,5,2023,Available,NONE,0,0
+41C,Cemetery,North,7,7,2023,Available,NONE,0,0
+41C,Cemetery,North,7,10,2023,Available,NONE,0,0
+41C,Cemetery,North,7,12,2023,Available,NONE,0,0
+41C,Cemetery,North,7,14,2023,Available,NONE,0,0
+41C,Cemetery,North,7,17,2023,Available,NONE,0,0
+42C,Cemetery,East,2,19,2023,Available ,NONE,0,0
+42C,Cemetery,East,2,26,2023,Available ,NONE,0,0
+42C,Cemetery,East,2,28,2023,Available ,NONE,0,0
+42C,Cemetery,East,3,16,2023,Available ,NONE,0,0
+42C,Cemetery,East,3,19,2023,Available ,NONE,0,0
+42C,Cemetery,East,3,23,2023,Available ,NONE,0,0
+42C,Cemetery,East,3,26,2023,Available ,NONE,0,0
+42C,Cemetery,East,3,30,2023,Available ,NONE,0,0
+42C,Cemetery,East,4,2,2023,Available ,NONE,0,0
+42C,Cemetery,East,4,6,2023,Available ,NONE,0,0
+42C,Cemetery,East,4,9,2023,Available ,NONE,0,0
+42C,Cemetery,East,4,13,2023,Available ,NONE,0,0
+42C,Cemetery,East,4,16,2023,Available ,NONE,0,0
+42C,Cemetery,East,4,20,2023,Available ,NONE,0,0
+42C,Cemetery,East,4,23,2023,Available,NONE,0,0
+42C,Cemetery,East,4,27,2023,Start,TRES,0,0
+42C,Cemetery,East,4,29,2023,Medium,TRES,0,0
+42C,Cemetery,East,5,4,2023,Medium,TRES,0,0
+42C,Cemetery,East,5,7,2023,Complete,TRES,0,0
+42C,Cemetery,East,5,11,2023,Eggs,TRES,2,0
+42C,Cemetery,East,5,14,2023,Eggs,TRES,6,0
+42C,Cemetery,East,5,18,2023,Eggs,TRES,6,0
+42C,Cemetery,East,5,21,2023,Eggs,TRES,6,0
+42C,Cemetery,East,5,23,2023,Eggs,TRES,6,0
+42C,Cemetery,East,5,25,2023,Eggs,TRES,6,0
+42C,Cemetery,East,5,27,2023,Eggs,TRES,6,0
+42C,Cemetery,East,5,29,2023,Eggs,TRES,6,0
+42C,Cemetery,East,5,31,2023,Eggs,TRES,6,0
+42C,Cemetery,East,6,2,2023,Eggs,TRES,6,0
+42C,Cemetery,East,6,5,2023,Eggs,TRES,6,0
+42C,Cemetery,East,6,7,2023,Eggs,TRES,6,0
+42C,Cemetery,East,6,9,2023,Failed,TRES,5,0
+42C,Cemetery,East,6,12,2023,Available,TRES,0,0
+42C,Cemetery,East,6,14,2023,Available,NONE,0,0
+42C,Cemetery,East,6,16,2023,Available,NONE,0,0
+42C,Cemetery,East,6,19,2023,Available,NONE,0,0
+42C,Cemetery,East,6,21,2023,Available,NONE,0,0
+42C,Cemetery,East,6,23,2023,Available,NONE,0,0
+42C,Cemetery,East,6,26,2023,Available,NONE,0,0
+42C,Cemetery,East,6,28,2023,Available,NONE,0,0
+42C,Cemetery,East,6,30,2023,Available,NONE,0,0
+42C,Cemetery,East,7,3,2023,Available,NONE,0,0
+42C,Cemetery,East,7,5,2023,Available,NONE,0,0
+42C,Cemetery,East,7,7,2023,Available,NONE,0,0
+42C,Cemetery,East,7,10,2023,Available,NONE,0,0
+42C,Cemetery,East,7,12,2023,Available,NONE,0,0
+42C,Cemetery,East,7,14,2023,Available,NONE,0,0
+42C,Cemetery,East,7,17,2023,Available,NONE,0,0
+1D,Dairy,South,2,19,2023,Available ,NONE,0,0
+1D,Dairy,South,2,26,2023,Available ,NONE,0,0
+1D,Dairy,South,2,28,2023,Available ,NONE,0,0
+1D,Dairy,South,3,16,2023,Available ,NONE,0,0
+1D,Dairy,South,3,19,2023,Available ,NONE,0,0
+1D,Dairy,South,3,23,2023,Available ,NONE,0,0
+1D,Dairy,South,3,26,2023,Available ,NONE,0,0
+1D,Dairy,South,3,30,2023,Available ,NONE,0,0
+1D,Dairy,South,4,2,2023,Available ,NONE,0,0
+1D,Dairy,South,4,6,2023,Available ,NONE,0,0
+1D,Dairy,South,4,9,2023,Start,NONE,0,0
+1D,Dairy,South,4,13,2023,Start,NONE,0,0
+1D,Dairy,South,4,16,2023,Start,NONE,0,0
+1D,Dairy,South,4,20,2023,Start,NONE,0,0
+1D,Dairy,South,4,23,2023,Start,NONE,0,0
+1D,Dairy,South,4,27,2023,Start,NONE,0,0
+1D,Dairy,South,4,29,2023,Start,NONE,0,0
+1D,Dairy,South,5,4,2023,Start,NONE,0,0
+1D,Dairy,South,5,7,2023,Start,NONE,0,0
+1D,Dairy,South,5,11,2023,Medium,NONE,0,0
+1D,Dairy,South,5,14,2023,Complete,NONE,0,0
+1D,Dairy,South,5,18,2023,Complete,NONE,0,0
+1D,Dairy,South,5,21,2023,Complete,NONE,0,0
+1D,Dairy,South,5,23,2023,Complete,NONE,0,0
+1D,Dairy,South,5,25,2023,Complete,NONE,0,0
+1D,Dairy,South,5,27,2023,Complete,NONE,0,0
+1D,Dairy,South,5,29,2023,Complete,NONE,0,0
+1D,Dairy,South,5,31,2023,Complete,NONE,0,0
+1D,Dairy,South,6,2,2023,Complete,TRES,0,0
+1D,Dairy,South,6,5,2023,Complete,TRES,0,0
+1D,Dairy,South,6,7,2023,Eggs,TRES,1,0
+1D,Dairy,South,6,9,2023,Eggs,TRES,1,0
+1D,Dairy,South,6,12,2023,Eggs,TRES,1,0
+1D,Dairy,South,6,14,2023,Eggs,TRES,1,0
+1D,Dairy,South,6,16,2023,Eggs,TRES,1,0
+1D,Dairy,South,6,19,2023,Failed,TRES,1,0
+1D,Dairy,South,6,21,2023,Available,NONE,0,0
+1D,Dairy,South,6,23,2023,Available,NONE,0,0
+1D,Dairy,South,6,26,2023,Available,NONE,0,0
+1D,Dairy,South,6,28,2023,Available,NONE,0,0
+1D,Dairy,South,6,30,2023,Available,NONE,0,0
+1D,Dairy,South,7,3,2023,Available,NONE,0,0
+1D,Dairy,South,7,5,2023,Available,NONE,0,0
+1D,Dairy,South,7,7,2023,Available,NONE,0,0
+1D,Dairy,South,7,10,2023,Available,NONE,0,0
+1D,Dairy,South,7,12,2023,Available,NONE,0,0
+1D,Dairy,South,7,14,2023,Available,NONE,0,0
+1D,Dairy,South,7,17,2023,Available,NONE,0,0
+2D,Dairy,West,2,19,2023,Available ,NONE,0,0
+2D,Dairy,West,2,26,2023,Available ,NONE,0,0
+2D,Dairy,West,2,28,2023,Available ,NONE,0,0
+2D,Dairy,West,3,16,2023,Available ,NONE,0,0
+2D,Dairy,West,3,19,2023,Available ,NONE,0,0
+2D,Dairy,West,3,23,2023,Available ,NONE,0,0
+2D,Dairy,West,3,26,2023,Available ,NONE,0,0
+2D,Dairy,West,3,30,2023,Available ,NONE,0,0
+2D,Dairy,West,4,2,2023,Available ,NONE,0,0
+2D,Dairy,West,4,6,2023,Available ,NONE,0,0
+2D,Dairy,West,4,9,2023,Available ,NONE,0,0
+2D,Dairy,West,4,13,2023,Available ,NONE,0,0
+2D,Dairy,West,4,16,2023,Start,TRES,0,0
+2D,Dairy,West,4,20,2023,Start,TRES,0,0
+2D,Dairy,West,4,23,2023,Medium,TRES,0,0
+2D,Dairy,West,4,27,2023,Complete,TRES,0,0
+2D,Dairy,West,4,29,2023,Eggs,TRES,1,0
+2D,Dairy,West,5,4,2023,Eggs,TRES,3,0
+2D,Dairy,West,5,7,2023,Eggs,TRES,6,0
+2D,Dairy,West,5,11,2023,Eggs,TRES,6,0
+2D,Dairy,West,5,14,2023,Eggs,TRES,6,0
+2D,Dairy,West,5,18,2023,Chicks,TRES,0,5
+2D,Dairy,West,5,21,2023,Chicks,TRES,0,5
+2D,Dairy,West,5,23,2023,Failed,TRES,0,1
+2D,Dairy,West,5,25,2023,Failed,TRES,0,0
+2D,Dairy,West,5,27,2023,Available,NONE,0,0
+2D,Dairy,West,5,29,2023,Available,NONE,0,0
+2D,Dairy,West,5,31,2023,Available,NONE,0,0
+2D,Dairy,West,6,2,2023,Available,NONE,0,0
+2D,Dairy,West,6,5,2023,Available,NONE,0,0
+2D,Dairy,West,6,7,2023,Available,NONE,0,0
+2D,Dairy,West,6,9,2023,Available,NONE,0,0
+2D,Dairy,West,6,12,2023,Available,NONE,0,0
+2D,Dairy,West,6,14,2023,Available,NONE,0,0
+2D,Dairy,West,6,16,2023,Available,NONE,0,0
+2D,Dairy,West,6,19,2023,Available,NONE,0,0
+2D,Dairy,West,6,21,2023,Available,NONE,0,0
+2D,Dairy,West,6,23,2023,Available,NONE,0,0
+2D,Dairy,West,6,26,2023,Available,NONE,0,0
+2D,Dairy,West,6,28,2023,Available,NONE,0,0
+2D,Dairy,West,6,30,2023,Available,NONE,0,0
+2D,Dairy,West,7,3,2023,Available,NONE,0,0
+2D,Dairy,West,7,5,2023,Available,NONE,0,0
+2D,Dairy,West,7,7,2023,Available,NONE,0,0
+2D,Dairy,West,7,10,2023,Available,NONE,0,0
+2D,Dairy,West,7,12,2023,Available,NONE,0,0
+2D,Dairy,West,7,14,2023,Available,NONE,0,0
+2D,Dairy,West,7,17,2023,Available,NONE,0,0
+3D,Dairy,North,2,19,2023,Available ,NONE,0,0
+3D,Dairy,North,2,26,2023,Available ,NONE,0,0
+3D,Dairy,North,2,28,2023,Available ,NONE,0,0
+3D,Dairy,North,3,16,2023,Available ,NONE,0,0
+3D,Dairy,North,3,19,2023,Available ,NONE,0,0
+3D,Dairy,North,3,23,2023,Available ,NONE,0,0
+3D,Dairy,North,3,26,2023,Available ,NONE,0,0
+3D,Dairy,North,3,30,2023,Available ,NONE,0,0
+3D,Dairy,North,4,2,2023,Available ,NONE,0,0
+3D,Dairy,North,4,6,2023,Available ,NONE,0,0
+3D,Dairy,North,4,9,2023,Available ,NONE,0,0
+3D,Dairy,North,4,13,2023,Available ,NONE,0,0
+3D,Dairy,North,4,16,2023,Available ,NONE,0,0
+3D,Dairy,North,4,20,2023,Available ,NONE,0,0
+3D,Dairy,North,4,23,2023,Available ,NONE,0,0
+3D,Dairy,North,4,27,2023,Available ,NONE,0,0
+3D,Dairy,North,4,29,2023,Start,TRES,0,0
+3D,Dairy,North,5,4,2023,Medium,TRES,0,0
+3D,Dairy,North,5,7,2023,Medium,TRES,0,0
+3D,Dairy,North,5,11,2023,Medium,TRES,0,0
+3D,Dairy,North,5,14,2023,Eggs,TRES,2,0
+3D,Dairy,North,5,18,2023,Failed,TRES,5,0
+3D,Dairy,North,5,21,2023,Available ,NONE,0,0
+3D,Dairy,North,5,23,2023,Failed,NONE,0,0
+3D,Dairy,North,6,5,2023,Available,NONE,0,0
+3D,Dairy,North,6,7,2023,Available,NONE,0,0
+3D,Dairy,North,6,9,2023,Available,NONE,0,0
+3D,Dairy,North,6,12,2023,Available,NONE,0,0
+3D,Dairy,North,6,14,2023,Available,NONE,0,0
+3D,Dairy,North,6,16,2023,Available,NONE,0,0
+3D,Dairy,North,6,19,2023,Available,NONE,0,0
+3D,Dairy,North,6,21,2023,Available,NONE,0,0
+3D,Dairy,North,6,23,2023,Available,NONE,0,0
+3D,Dairy,North,6,26,2023,Available,NONE,0,0
+3D,Dairy,North,6,28,2023,Available,NONE,0,0
+3D,Dairy,North,6,30,2023,Available,NONE,0,0
+3D,Dairy,North,7,3,2023,Available,NONE,0,0
+3D,Dairy,North,7,5,2023,Available,NONE,0,0
+3D,Dairy,North,7,7,2023,Available,NONE,0,0
+3D,Dairy,North,7,10,2023,Available,NONE,0,0
+3D,Dairy,North,7,12,2023,Available,NONE,0,0
+3D,Dairy,North,7,14,2023,Available,NONE,0,0
+3D,Dairy,North,7,17,2023,Available,NONE,0,0
+4D,Dairy,East,2,19,2023,Available ,NONE,0,0
+4D,Dairy,East,2,26,2023,Available ,NONE,0,0
+4D,Dairy,East,2,28,2023,Available ,NONE,0,0
+4D,Dairy,East,3,16,2023,Available ,NONE,0,0
+4D,Dairy,East,3,19,2023,Available ,NONE,0,0
+4D,Dairy,East,3,23,2023,Available ,NONE,0,0
+4D,Dairy,East,5,11,2023,Complete,TRES,0,0
+4D,Dairy,East,5,14,2023,Eggs,TRES,2,0
+4D,Dairy,East,5,18,2023,Eggs,TRES,6,0
+4D,Dairy,East,5,21,2023,Eggs,TRES,6,0
+4D,Dairy,East,5,23,2023,Eggs,TRES,6,0
+4D,Dairy,East,5,25,2023,Eggs,TRES,6,0
+4D,Dairy,East,5,27,2023,Eggs,TRES,6,0
+4D,Dairy,East,5,29,2023,Eggs,TRES,6,0
+4D,Dairy,East,5,31,2023,Chicks,TRES,3,3
+4D,Dairy,East,6,2,2023,Failed,TRES,0,0
+4D,Dairy,East,6,5,2023,Available,NONE,0,0
+4D,Dairy,East,6,7,2023,Available,NONE,0,0
+4D,Dairy,East,6,9,2023,Available,NONE,0,0
+4D,Dairy,East,6,12,2023,Available,NONE,0,0
+4D,Dairy,East,6,14,2023,Available,NONE,0,0
+4D,Dairy,East,6,16,2023,Available,NONE,0,0
+4D,Dairy,East,6,19,2023,Available,NONE,0,0
+4D,Dairy,East,6,21,2023,Available,NONE,0,0
+4D,Dairy,East,6,23,2023,Available,NONE,0,0
+4D,Dairy,East,6,26,2023,Available,NONE,0,0
+4D,Dairy,East,6,28,2023,Available,NONE,0,0
+4D,Dairy,East,6,30,2023,Available,NONE,0,0
+4D,Dairy,East,7,3,2023,Available,NONE,0,0
+4D,Dairy,East,7,5,2023,Available,NONE,0,0
+4D,Dairy,East,7,7,2023,Available,NONE,0,0
+5D,Dairy,South,2,19,2023,Available ,NONE,0,0
+5D,Dairy,South,2,26,2023,Available ,NONE,0,0
+5D,Dairy,South,2,28,2023,Available ,NONE,0,0
+5D,Dairy,South,3,16,2023,Available ,NONE,0,0
+5D,Dairy,South,3,19,2023,Available ,NONE,0,0
+5D,Dairy,South,3,23,2023,Available ,NONE,0,0
+5D,Dairy,South,3,26,2023,Available ,NONE,0,0
+5D,Dairy,South,3,30,2023,Available ,NONE,0,0
+5D,Dairy,South,4,2,2023,Available ,NONE,0,0
+5D,Dairy,South,4,6,2023,Start,TRES,0,0
+5D,Dairy,South,4,9,2023,Medium,TRES,0,0
+5D,Dairy,South,4,13,2023,Complete,TRES,0,0
+5D,Dairy,South,4,16,2023,Complete,TRES,0,0
+5D,Dairy,South,4,20,2023,Complete,TRES,0,0
+5D,Dairy,South,4,23,2023,Eggs,TRES,4,0
+5D,Dairy,South,4,27,2023,Eggs,TRES,5,0
+5D,Dairy,South,4,29,2023,Eggs,TRES,6,0
+5D,Dairy,South,5,4,2023,Eggs,TRES,6,0
+5D,Dairy,South,5,7,2023,Eggs,TRES,6,0
+5D,Dairy,South,5,11,2023,Chicks,TRES,2,4
+5D,Dairy,South,5,14,2023,Chicks,TRES,0,6
+5D,Dairy,South,5,18,2023,Chicks,TRES,0,6
+5D,Dairy,South,5,21,2023,Chicks,TRES,0,6
+5D,Dairy,South,5,23,2023,Chicks,TRES,0,6
+5D,Dairy,South,5,25,2023,Chicks,TRES,0,6
+5D,Dairy,South,5,27,2023,Fledged,TRES,0,0
+5D,Dairy,South,5,29,2023,Available,NONE,0,0
+5D,Dairy,South,5,31,2023,Available,NONE,0,0
+5D,Dairy,South,6,2,2023,Medium,TRES,0,0
+5D,Dairy,South,6,5,2023,Eggs,TRES,2,0
+5D,Dairy,South,6,7,2023,Eggs,TRES,4,0
+5D,Dairy,South,6,9,2023,Eggs,TRES,5,0
+5D,Dairy,South,6,12,2023,Eggs,TRES,5,0
+5D,Dairy,South,6,14,2023,Eggs,TRES,5,0
+5D,Dairy,South,6,16,2023,Eggs,TRES,5,0
+5D,Dairy,South,6,19,2023,Eggs,TRES,5,0
+5D,Dairy,South,6,21,2023,Chicks,TRES,4,1
+5D,Dairy,South,6,23,2023,Chicks,TRES,2,3
+5D,Dairy,South,6,26,2023,Chicks,TRES,1,4
+5D,Dairy,South,6,28,2023,Chicks,TRES,1,4
+5D,Dairy,South,6,30,2023,Failed,TRES,0,0
+5D,Dairy,South,7,3,2023,Available,NONE,0,0
+5D,Dairy,South,7,5,2023,Available,NONE,0,0
+5D,Dairy,South,7,7,2023,Available,NONE,0,0
+5D,Dairy,South,7,10,2023,Available,NONE,0,0
+5D,Dairy,South,7,12,2023,Available,NONE,0,0
+5D,Dairy,South,7,14,2023,Available,NONE,0,0
+5D,Dairy,South,7,17,2023,Available,NONE,0,0
+6D,Dairy,West,2,19,2023,Available ,NONE,0,0
+6D,Dairy,West,2,26,2023,Available ,NONE,0,0
+6D,Dairy,West,2,28,2023,Available ,NONE,0,0
+6D,Dairy,West,3,16,2023,Available ,NONE,0,0
+6D,Dairy,West,3,19,2023,Available ,NONE,0,0
+6D,Dairy,West,3,23,2023,Available ,NONE,0,0
+6D,Dairy,West,3,26,2023,Available ,NONE,0,0
+6D,Dairy,West,3,30,2023,Available ,NONE,0,0
+6D,Dairy,West,4,2,2023,Available ,NONE,0,0
+6D,Dairy,West,4,6,2023,Start,TRES,0,0
+6D,Dairy,West,4,9,2023,Start,TRES,0,0
+6D,Dairy,West,4,13,2023,Start,TRES,0,0
+6D,Dairy,West,4,16,2023,Medium,TRES,0,0
+6D,Dairy,West,4,20,2023,Complete,TRES,0,0
+6D,Dairy,West,4,23,2023,Complete,TRES,0,0
+6D,Dairy,West,4,27,2023,Complete,TRES,0,0
+6D,Dairy,West,4,29,2023,Complete,TRES,0,0
+6D,Dairy,West,5,4,2023,Complete,TRES,0,0
+6D,Dairy,West,5,7,2023,Complete,TRES,0,0
+6D,Dairy,West,5,11,2023,Eggs,TRES,3,0
+6D,Dairy,West,5,14,2023,Eggs,TRES,6,0
+6D,Dairy,West,5,18,2023,Eggs,TRES,6,0
+6D,Dairy,West,5,21,2023,Eggs,TRES,6,0
+6D,Dairy,West,5,23,2023,Failed,TRES,6,0
+6D,Dairy,West,5,25,2023,Eggs,TRES,3,0
+6D,Dairy,West,5,27,2023,Eggs,TRES,5,0
+6D,Dairy,West,5,29,2023,Failed,TRES,6,0
+6D,Dairy,West,7,5,2023,Available,NONE,0,0
+6D,Dairy,West,7,7,2023,Available,NONE,0,0
+6D,Dairy,West,7,10,2023,Available,NONE,0,0
+6D,Dairy,West,7,12,2023,Available,NONE,0,0
+6D,Dairy,West,7,14,2023,Available,NONE,0,0
+6D,Dairy,West,7,17,2023,Available,NONE,0,0
+7D,Dairy,North,2,19,2023,Available ,NONE,0,0
+7D,Dairy,North,2,26,2023,Available ,NONE,0,0
+7D,Dairy,North,2,28,2023,Available ,NONE,0,0
+7D,Dairy,North,3,16,2023,Available ,NONE,0,0
+7D,Dairy,North,3,19,2023,Available ,NONE,0,0
+7D,Dairy,North,3,23,2023,Available ,NONE,0,0
+7D,Dairy,North,3,26,2023,Available ,NONE,0,0
+7D,Dairy,North,3,30,2023,Available ,NONE,0,0
+7D,Dairy,North,4,2,2023,Available ,NONE,0,0
+7D,Dairy,North,4,6,2023,Available ,NONE,0,0
+7D,Dairy,North,4,9,2023,Start,TRES,0,0
+7D,Dairy,North,4,13,2023,Medium,TRES,0,0
+7D,Dairy,North,4,16,2023,Medium,TRES,0,0
+7D,Dairy,North,4,20,2023,Medium,TRES,0,0
+7D,Dairy,North,4,23,2023,Medium,TRES,0,0
+7D,Dairy,North,4,27,2023,Medium,TRES,0,0
+7D,Dairy,North,4,29,2023,Medium,TRES,0,0
+7D,Dairy,North,5,4,2023,Complete,TRES,0,0
+7D,Dairy,North,5,7,2023,Eggs,TRES,2,0
+7D,Dairy,North,5,11,2023,Eggs,TRES,6,0
+7D,Dairy,North,5,14,2023,Eggs,TRES,7,0
+7D,Dairy,North,5,18,2023,Eggs,TRES,7,0
+7D,Dairy,North,5,21,2023,Eggs,TRES,7,0
+7D,Dairy,North,5,23,2023,Eggs,TRES,7,0
+7D,Dairy,North,5,25,2023,Chicks,TRES,2,5
+7D,Dairy,North,5,27,2023,Failed,TRES,2,0
+7D,Dairy,North,5,29,2023,Available,NONE,0,0
+7D,Dairy,North,5,31,2023,Available,NONE,0,0
+7D,Dairy,North,6,2,2023,Available,NONE,0,0
+7D,Dairy,North,6,5,2023,Available,NONE,0,0
+7D,Dairy,North,6,7,2023,Available,NONE,0,0
+7D,Dairy,North,6,9,2023,Available,NONE,0,0
+7D,Dairy,North,6,12,2023,Available,NONE,0,0
+7D,Dairy,North,6,14,2023,Available,NONE,0,0
+7D,Dairy,North,6,16,2023,Available,NONE,0,0
+7D,Dairy,North,6,19,2023,Available,NONE,0,0
+7D,Dairy,North,6,21,2023,Available,NONE,0,0
+7D,Dairy,North,6,23,2023,Available,NONE,0,0
+7D,Dairy,North,6,26,2023,Available,NONE,0,0
+7D,Dairy,North,6,28,2023,Available,NONE,0,0
+7D,Dairy,North,6,30,2023,Available,NONE,0,0
+8D,Dairy,East,2,19,2023,Available ,NONE,0,0
+8D,Dairy,East,2,26,2023,Available ,NONE,0,0
+8D,Dairy,East,2,28,2023,Available ,NONE,0,0
+8D,Dairy,East,3,16,2023,Available ,NONE,0,0
+8D,Dairy,East,3,19,2023,Available ,NONE,0,0
+8D,Dairy,East,3,23,2023,Available ,NONE,0,0
+8D,Dairy,East,3,26,2023,Available ,NONE,0,0
+8D,Dairy,East,3,30,2023,Available ,NONE,0,0
+8D,Dairy,East,4,2,2023,Available ,NONE,0,0
+8D,Dairy,East,4,29,2023,Available,NONE,0,0
+8D,Dairy,East,5,4,2023,Complete,TRES,0,0
+8D,Dairy,East,5,7,2023,Complete,TRES,0,0
+8D,Dairy,East,5,11,2023,Complete,TRES,0,0
+8D,Dairy,East,5,14,2023,Eggs,TRES,3,0
+8D,Dairy,East,5,18,2023,Eggs,TRES,5,0
+8D,Dairy,East,5,21,2023,Eggs,TRES,5,0
+8D,Dairy,East,5,23,2023,Eggs,TRES,5,0
+8D,Dairy,East,5,25,2023,Eggs,TRES,5,0
+8D,Dairy,East,5,27,2023,Eggs,TRES,5,0
+8D,Dairy,East,5,29,2023,Chicks,TRES,4,1
+8D,Dairy,East,5,31,2023,Chicks,TRES,1,4
+8D,Dairy,East,6,2,2023,Chicks,TRES,1,4
+8D,Dairy,East,6,5,2023,Chicks,TRES,1,4
+8D,Dairy,East,6,7,2023,Chicks,TRES,1,4
+8D,Dairy,East,6,9,2023,Chicks,TRES,1,3
+8D,Dairy,East,6,12,2023,Fledged,TRES,0,0
+8D,Dairy,East,6,14,2023,Available,NONE,0,0
+8D,Dairy,East,6,16,2023,Available,NONE,0,0
+8D,Dairy,East,6,19,2023,Available,NONE,0,0
+8D,Dairy,East,6,21,2023,Available,NONE,0,0
+8D,Dairy,East,6,23,2023,Available,NONE,0,0
+8D,Dairy,East,6,26,2023,Available,NONE,0,0
+8D,Dairy,East,6,28,2023,Available,NONE,0,0
+8D,Dairy,East,6,30,2023,Available,NONE,0,0
+8D,Dairy,East,7,3,2023,Available,NONE,0,0
+8D,Dairy,East,7,5,2023,Available,NONE,0,0
+8D,Dairy,East,7,7,2023,Available,NONE,0,0
+8D,Dairy,East,7,10,2023,Available,NONE,0,0
+8D,Dairy,East,7,12,2023,Available,NONE,0,0
+8D,Dairy,East,7,14,2023,Available,NONE,0,0
+8D,Dairy,East,7,17,2023,Available,NONE,0,0
+9D,Dairy,South,2,19,2023,Available ,NONE,0,0
+9D,Dairy,South,2,26,2023,Available ,NONE,0,0
+9D,Dairy,South,2,28,2023,Available ,NONE,0,0
+9D,Dairy,South,3,16,2023,Available ,NONE,0,0
+9D,Dairy,South,3,19,2023,Available ,NONE,0,0
+9D,Dairy,South,3,23,2023,Available ,NONE,0,0
+9D,Dairy,South,3,26,2023,Available ,NONE,0,0
+9D,Dairy,South,5,27,2023,Available,NONE,0,0
+9D,Dairy,South,5,29,2023,Available,NONE,0,0
+9D,Dairy,South,5,31,2023,Available,NONE,0,0
+9D,Dairy,South,6,2,2023,Available,NONE,0,0
+9D,Dairy,South,6,5,2023,Available,NONE,0,0
+9D,Dairy,South,6,7,2023,Available,NONE,0,0
+9D,Dairy,South,6,9,2023,Available,NONE,0,0
+9D,Dairy,South,6,12,2023,Available,NONE,0,0
+9D,Dairy,South,6,14,2023,Available,NONE,0,0
+9D,Dairy,South,6,16,2023,Available,NONE,0,0
+9D,Dairy,South,6,19,2023,Available,NONE,0,0
+9D,Dairy,South,6,21,2023,Available,NONE,0,0
+9D,Dairy,South,6,23,2023,Available,NONE,0,0
+9D,Dairy,South,6,26,2023,Available,NONE,0,0
+9D,Dairy,South,6,28,2023,Available,NONE,0,0
+9D,Dairy,South,6,30,2023,Available,NONE,0,0
+9D,Dairy,South,7,3,2023,Available,NONE,0,0
+9D,Dairy,South,7,5,2023,Available,NONE,0,0
+9D,Dairy,South,7,7,2023,Available,NONE,0,0
+9D,Dairy,South,7,10,2023,Available,NONE,0,0
+9D,Dairy,South,7,12,2023,Available,NONE,0,0
+9D,Dairy,South,7,14,2023,Available,NONE,0,0
+9D,Dairy,South,7,17,2023,Available,NONE,0,0
+10D,Dairy,West,2,19,2023,Available ,NONE,0,0
+10D,Dairy,West,2,26,2023,Available ,NONE,0,0
+10D,Dairy,West,2,28,2023,Available ,NONE,0,0
+10D,Dairy,West,3,16,2023,Available ,NONE,0,0
+10D,Dairy,West,3,19,2023,Available ,NONE,0,0
+10D,Dairy,West,3,23,2023,Available ,NONE,0,0
+10D,Dairy,West,3,26,2023,Available ,NONE,0,0
+10D,Dairy,West,3,30,2023,Available ,NONE,0,0
+10D,Dairy,West,4,2,2023,Available ,NONE,0,0
+10D,Dairy,West,4,6,2023,Available ,NONE,0,0
+10D,Dairy,West,4,9,2023,Available ,NONE,0,0
+10D,Dairy,West,4,13,2023,Available ,NONE,0,0
+10D,Dairy,West,4,16,2023,Start,TRES,0,0
+10D,Dairy,West,4,20,2023,Start,TRES,0,0
+10D,Dairy,West,4,23,2023,Medium,TRES,0,0
+10D,Dairy,West,4,27,2023,Medium,TRES,0,0
+10D,Dairy,West,4,29,2023,Medium,TRES,0,0
+10D,Dairy,West,5,4,2023,Eggs,TRES,1,0
+10D,Dairy,West,5,7,2023,Eggs,TRES,6,0
+10D,Dairy,West,5,11,2023,Eggs,TRES,6,0
+10D,Dairy,West,5,14,2023,Eggs,TRES,6,0
+10D,Dairy,West,5,18,2023,Eggs,TRES,6,0
+10D,Dairy,West,5,21,2023,Eggs,TRES,6,0
+10D,Dairy,West,5,23,2023,Failed,TRES,6,0
+10D,Dairy,West,5,25,2023,Available,NONE,0,0
+10D,Dairy,West,5,27,2023,Available,NONE,0,0
+10D,Dairy,West,5,29,2023,Available,NONE,0,0
+10D,Dairy,West,5,31,2023,Available,NONE,0,0
+10D,Dairy,West,6,2,2023,Available,NONE,0,0
+10D,Dairy,West,6,5,2023,Available,NONE,0,0
+10D,Dairy,West,6,7,2023,Available,NONE,0,0
+10D,Dairy,West,6,9,2023,Available,NONE,0,0
+10D,Dairy,West,6,12,2023,Available,NONE,0,0
+10D,Dairy,West,6,14,2023,Available,NONE,0,0
+10D,Dairy,West,6,16,2023,Available,NONE,0,0
+10D,Dairy,West,6,19,2023,Available,NONE,0,0
+10D,Dairy,West,6,21,2023,Available,NONE,0,0
+10D,Dairy,West,6,23,2023,Available,NONE,0,0
+10D,Dairy,West,6,26,2023,Available,NONE,0,0
+10D,Dairy,West,6,28,2023,Available,NONE,0,0
+10D,Dairy,West,6,30,2023,Available,NONE,0,0
+10D,Dairy,West,7,3,2023,Available,NONE,0,0
+10D,Dairy,West,7,5,2023,Available,NONE,0,0
+10D,Dairy,West,7,7,2023,Available,NONE,0,0
+10D,Dairy,West,7,10,2023,Available,NONE,0,0
+10D,Dairy,West,7,12,2023,Available,NONE,0,0
+10D,Dairy,West,7,14,2023,Available,NONE,0,0
+10D,Dairy,West,7,17,2023,Available,NONE,0,0
+11D,Dairy,North,2,19,2023,Available ,NONE,0,0
+11D,Dairy,North,2,26,2023,Available ,NONE,0,0
+11D,Dairy,North,2,28,2023,Available ,NONE,0,0
+11D,Dairy,North,3,16,2023,Available ,NONE,0,0
+11D,Dairy,North,3,19,2023,Available ,NONE,0,0
+11D,Dairy,North,3,23,2023,Available ,NONE,0,0
+11D,Dairy,North,3,26,2023,Available ,NONE,0,0
+11D,Dairy,North,3,30,2023,Available ,NONE,0,0
+11D,Dairy,North,4,2,2023,Available ,NONE,0,0
+11D,Dairy,North,4,6,2023,Available ,NONE,0,0
+11D,Dairy,North,4,9,2023,Available ,NONE,0,0
+11D,Dairy,North,4,13,2023,Start,TRES,0,0
+11D,Dairy,North,4,16,2023,Start,TRES,0,0
+11D,Dairy,North,4,20,2023,Start,TRES,0,0
+11D,Dairy,North,4,23,2023,Medium,TRES,0,0
+11D,Dairy,North,4,27,2023,Medium,TRES,0,0
+11D,Dairy,North,4,29,2023,Eggs,TRES,1,0
+11D,Dairy,North,5,4,2023,Eggs,TRES,6,0
+11D,Dairy,North,5,7,2023,Eggs,TRES,6,0
+11D,Dairy,North,5,11,2023,Eggs,TRES,6,0
+11D,Dairy,North,5,14,2023,Eggs,TRES,6,0
+11D,Dairy,North,5,18,2023,Chicks,TRES,4,2
+11D,Dairy,North,5,21,2023,Chicks,TRES,2,4
+11D,Dairy,North,5,23,2023,Failed,TRES,1,0
+11D,Dairy,North,5,25,2023,Available,NONE,0,0
+11D,Dairy,North,6,30,2023,Available,NONE,0,0
+11D,Dairy,North,7,3,2023,Available,NONE,0,0
+11D,Dairy,North,7,5,2023,Available,NONE,0,0
+11D,Dairy,North,7,7,2023,Available,NONE,0,0
+11D,Dairy,North,7,10,2023,Available,NONE,0,0
+11D,Dairy,North,7,12,2023,Available,NONE,0,0
+11D,Dairy,North,7,14,2023,Available,NONE,0,0
+11D,Dairy,North,7,17,2023,Available,NONE,0,0
+12D,Dairy,East,2,19,2023,Available ,NONE,0,0
+12D,Dairy,East,2,26,2023,Available ,NONE,0,0
+12D,Dairy,East,2,28,2023,Available ,NONE,0,0
+12D,Dairy,East,3,16,2023,Available ,NONE,0,0
+12D,Dairy,East,3,19,2023,Available ,NONE,0,0
+12D,Dairy,East,3,23,2023,Available ,NONE,0,0
+12D,Dairy,East,3,26,2023,Available ,NONE,0,0
+12D,Dairy,East,3,30,2023,Available ,NONE,0,0
+12D,Dairy,East,4,2,2023,Available ,NONE,0,0
+12D,Dairy,East,4,6,2023,Available ,NONE,0,0
+12D,Dairy,East,4,9,2023,Available ,NONE,0,0
+12D,Dairy,East,4,13,2023,Available ,NONE,0,0
+12D,Dairy,East,4,16,2023,Available ,NONE,0,0
+12D,Dairy,East,4,20,2023,Available ,NONE,0,0
+12D,Dairy,East,4,23,2023,Available ,NONE,0,0
+12D,Dairy,East,4,27,2023,Available ,NONE,0,0
+12D,Dairy,East,4,29,2023,Available ,NONE,0,0
+12D,Dairy,East,5,4,2023,Medium,TRES,0,0
+12D,Dairy,East,5,7,2023,Complete,TRES,0,0
+12D,Dairy,East,5,11,2023,Eggs,TRES,3,0
+12D,Dairy,East,5,14,2023,Eggs,TRES,3,0
+12D,Dairy,East,5,18,2023,Failed,TRES,6,0
+12D,Dairy,East,5,21,2023,Available ,NONE,0,0
+12D,Dairy,East,6,14,2023,Available,NONE,0,0
+12D,Dairy,East,6,16,2023,Available,NONE,0,0
+12D,Dairy,East,6,19,2023,Available,NONE,0,0
+12D,Dairy,East,6,21,2023,Available,NONE,0,0
+12D,Dairy,East,6,23,2023,Available,NONE,0,0
+12D,Dairy,East,6,26,2023,Available,NONE,0,0
+12D,Dairy,East,6,28,2023,Available,NONE,0,0
+12D,Dairy,East,6,30,2023,Available,NONE,0,0
+12D,Dairy,East,7,3,2023,Available,NONE,0,0
+12D,Dairy,East,7,5,2023,Available,NONE,0,0
+12D,Dairy,East,7,7,2023,Available,NONE,0,0
+12D,Dairy,East,7,10,2023,Available,NONE,0,0
+12D,Dairy,East,7,12,2023,Available,NONE,0,0
+12D,Dairy,East,7,14,2023,Available,NONE,0,0
+12D,Dairy,East,7,17,2023,Available,NONE,0,0
+13D,Dairy,South,2,19,2023,Available ,NONE,0,0
+13D,Dairy,South,2,26,2023,Available ,NONE,0,0
+13D,Dairy,South,2,28,2023,Available ,NONE,0,0
+13D,Dairy,South,3,16,2023,Available ,NONE,0,0
+13D,Dairy,South,3,19,2023,Available ,NONE,0,0
+13D,Dairy,South,3,23,2023,Available ,NONE,0,0
+13D,Dairy,South,3,26,2023,Available ,NONE,0,0
+13D,Dairy,South,5,21,2023,Available ,NONE,0,0
+13D,Dairy,South,5,23,2023,Available ,NONE,0,0
+13D,Dairy,South,5,25,2023,Available ,NONE,0,0
+13D,Dairy,South,5,27,2023,Available ,NONE,0,0
+13D,Dairy,South,5,29,2023,Available ,NONE,0,0
+13D,Dairy,South,5,31,2023,Available ,NONE,0,0
+13D,Dairy,South,6,2,2023,Available ,NONE,0,0
+13D,Dairy,South,6,5,2023,Available ,NONE,0,0
+13D,Dairy,South,6,7,2023,Available ,NONE,0,0
+13D,Dairy,South,6,9,2023,Available ,NONE,0,0
+13D,Dairy,South,6,12,2023,Available ,NONE,0,0
+13D,Dairy,South,6,14,2023,Available ,NONE,0,0
+13D,Dairy,South,6,16,2023,Available ,NONE,0,0
+13D,Dairy,South,6,19,2023,Available ,NONE,0,0
+13D,Dairy,South,6,21,2023,Available ,NONE,0,0
+13D,Dairy,South,6,23,2023,Available ,NONE,0,0
+13D,Dairy,South,6,26,2023,Available ,NONE,0,0
+13D,Dairy,South,6,28,2023,Available ,NONE,0,0
+13D,Dairy,South,6,30,2023,Available ,NONE,0,0
+13D,Dairy,South,7,3,2023,Available ,NONE,0,0
+13D,Dairy,South,7,5,2023,Available ,NONE,0,0
+13D,Dairy,South,7,7,2023,Available ,NONE,0,0
+13D,Dairy,South,7,10,2023,Available ,NONE,0,0
+13D,Dairy,South,7,12,2023,Available ,NONE,0,0
+13D,Dairy,South,7,14,2023,Available ,NONE,0,0
+13D,Dairy,South,7,17,2023,Available ,NONE,0,0
+14D,Dairy,West,2,19,2023,Available ,NONE,0,0
+14D,Dairy,West,2,26,2023,Available ,NONE,0,0
+14D,Dairy,West,2,28,2023,Available ,NONE,0,0
+14D,Dairy,West,3,16,2023,Available ,NONE,0,0
+14D,Dairy,West,3,19,2023,Available ,NONE,0,0
+14D,Dairy,West,3,23,2023,Available ,NONE,0,0
+14D,Dairy,West,3,26,2023,Available ,NONE,0,0
+14D,Dairy,West,3,30,2023,Available ,NONE,0,0
+14D,Dairy,West,4,2,2023,Available ,NONE,0,0
+14D,Dairy,West,4,6,2023,Available ,NONE,0,0
+14D,Dairy,West,4,9,2023,Available ,NONE,0,0
+14D,Dairy,West,4,13,2023,Available ,NONE,0,0
+14D,Dairy,West,4,16,2023,Start,TRES,0,0
+14D,Dairy,West,4,20,2023,Start,TRES,0,0
+14D,Dairy,West,4,23,2023,Complete,TRES,0,0
+14D,Dairy,West,4,27,2023,Complete,TRES,0,0
+14D,Dairy,West,4,29,2023,Complete,TRES,0,0
+14D,Dairy,West,5,4,2023,Complete,TRES,0,0
+14D,Dairy,West,5,7,2023,Eggs,TRES,4,0
+14D,Dairy,West,5,11,2023,Eggs,TRES,4,0
+14D,Dairy,West,5,14,2023,Eggs,TRES,6,0
+14D,Dairy,West,5,18,2023,Eggs,TRES,6,0
+14D,Dairy,West,5,21,2023,Eggs,TRES,6,0
+14D,Dairy,West,5,23,2023,Chicks,TRES,1,5
+14D,Dairy,West,5,25,2023,Chicks,TRES,0,6
+14D,Dairy,West,5,27,2023,Chicks,TRES,0,6
+14D,Dairy,West,5,29,2023,Failed,TRES,0,0
+14D,Dairy,West,5,31,2023,Available,NONE,0,0
+14D,Dairy,West,6,2,2023,Available,NONE,0,0
+14D,Dairy,West,6,5,2023,Available,NONE,0,0
+14D,Dairy,West,6,7,2023,Available,NONE,0,0
+14D,Dairy,West,6,9,2023,Available,NONE,0,0
+14D,Dairy,West,6,12,2023,Available,NONE,0,0
+14D,Dairy,West,6,14,2023,Available,NONE,0,0
+14D,Dairy,West,6,16,2023,Available,NONE,0,0
+14D,Dairy,West,6,19,2023,Available,NONE,0,0
+14D,Dairy,West,6,21,2023,Available,NONE,0,0
+14D,Dairy,West,6,23,2023,Available,NONE,0,0
+14D,Dairy,West,6,26,2023,Available,NONE,0,0
+14D,Dairy,West,6,28,2023,Available,NONE,0,0
+14D,Dairy,West,6,30,2023,Available,NONE,0,0
+14D,Dairy,West,7,3,2023,Available,NONE,0,0
+14D,Dairy,West,7,5,2023,Available,NONE,0,0
+14D,Dairy,West,7,7,2023,Available,NONE,0,0
+14D,Dairy,West,7,10,2023,Available,NONE,0,0
+14D,Dairy,West,7,12,2023,Available,NONE,0,0
+14D,Dairy,West,7,14,2023,Available,NONE,0,0
+14D,Dairy,West,7,17,2023,Available,NONE,0,0
+15D,Dairy,North,2,19,2023,Available ,NONE,0,0
+15D,Dairy,North,2,26,2023,Available ,NONE,0,0
+15D,Dairy,North,2,28,2023,Available ,NONE,0,0
+15D,Dairy,North,3,16,2023,Available ,NONE,0,0
+15D,Dairy,North,3,19,2023,Available ,NONE,0,0
+15D,Dairy,North,3,23,2023,Available ,NONE,0,0
+15D,Dairy,North,3,26,2023,Start,TRES,0,0
+15D,Dairy,North,3,30,2023,Start,TRES,0,0
+15D,Dairy,North,4,2,2023,Start,TRES,0,0
+15D,Dairy,North,4,6,2023,Start,TRES,0,0
+15D,Dairy,North,4,9,2023,Medium,TRES,0,0
+15D,Dairy,North,4,13,2023,Medium,TRES,0,0
+15D,Dairy,North,4,16,2023,Medium,TRES,0,0
+15D,Dairy,North,4,20,2023,Medium,TRES,0,0
+15D,Dairy,North,4,23,2023,Medium,TRES,0,0
+15D,Dairy,North,4,27,2023,Medium,TRES,0,0
+15D,Dairy,North,4,29,2023,Medium,TRES,0,0
+15D,Dairy,North,5,4,2023,Medium,TRES,0,0
+15D,Dairy,North,5,7,2023,Complete,TRES,0,0
+15D,Dairy,North,5,11,2023,Eggs,TRES,4,0
+15D,Dairy,North,5,14,2023,Eggs,TRES,6,0
+15D,Dairy,North,5,18,2023,Eggs,TRES,6,0
+15D,Dairy,North,5,21,2023,Eggs,TRES,2,0
+15D,Dairy,North,5,23,2023,Eggs,TRES,2,0
+15D,Dairy,North,5,25,2023,Eggs,TRES,2,0
+15D,Dairy,North,5,27,2023,Chicks,TRES,0,2
+15D,Dairy,North,5,29,2023,Chicks,TRES,0,2
+15D,Dairy,North,5,31,2023,Chicks,TRES,0,2
+15D,Dairy,North,6,2,2023,Chicks,TRES,0,2
+15D,Dairy,North,6,5,2023,Chicks,TRES,0,2
+15D,Dairy,North,6,7,2023,Failed,TRES,0,0
+15D,Dairy,North,6,9,2023,Available,NONE,0,0
+15D,Dairy,North,6,12,2023,Available,NONE,0,0
+15D,Dairy,North,6,14,2023,Available,NONE,0,0
+15D,Dairy,North,6,16,2023,Available,NONE,0,0
+15D,Dairy,North,6,19,2023,Available,NONE,0,0
+15D,Dairy,North,6,21,2023,Available,NONE,0,0
+15D,Dairy,North,6,23,2023,Available,NONE,0,0
+15D,Dairy,North,6,26,2023,Available,NONE,0,0
+15D,Dairy,North,6,28,2023,Available,NONE,0,0
+15D,Dairy,North,6,30,2023,Available,NONE,0,0
+15D,Dairy,North,7,3,2023,Available,NONE,0,0
+15D,Dairy,North,7,5,2023,Available,NONE,0,0
+15D,Dairy,North,7,7,2023,Available,NONE,0,0
+15D,Dairy,North,7,10,2023,Available,NONE,0,0
+15D,Dairy,North,7,12,2023,Available,NONE,0,0
+15D,Dairy,North,7,14,2023,Available,NONE,0,0
+15D,Dairy,North,7,17,2023,Available,NONE,0,0
+16D,Dairy,East,2,19,2023,Available ,NONE,0,0
+16D,Dairy,East,2,26,2023,Available ,NONE,0,0
+16D,Dairy,East,2,28,2023,Available ,NONE,0,0
+16D,Dairy,East,3,16,2023,Available ,NONE,0,0
+16D,Dairy,East,3,19,2023,Available ,NONE,0,0
+16D,Dairy,East,3,23,2023,Available ,NONE,0,0
+16D,Dairy,East,3,26,2023,Available ,NONE,0,0
+16D,Dairy,East,3,30,2023,Available ,NONE,0,0
+16D,Dairy,East,4,2,2023,Available ,NONE,0,0
+16D,Dairy,East,4,6,2023,Available ,NONE,0,0
+16D,Dairy,East,4,9,2023,Available ,NONE,0,0
+16D,Dairy,East,4,13,2023,Available ,NONE,0,0
+16D,Dairy,East,4,16,2023,Start,TRES,0,0
+16D,Dairy,East,4,20,2023,Start,TRES,0,0
+16D,Dairy,East,4,23,2023,Complete,TRES,0,0
+16D,Dairy,East,4,27,2023,Complete,TRES,0,0
+16D,Dairy,East,4,29,2023,Complete,TRES,0,0
+16D,Dairy,East,5,4,2023,Eggs,TRES,3,0
+16D,Dairy,East,5,7,2023,Eggs,TRES,6,0
+16D,Dairy,East,5,11,2023,Eggs,TRES,6,0
+16D,Dairy,East,5,14,2023,Eggs,TRES,6,0
+16D,Dairy,East,5,18,2023,Failed,TRES,6,0
+16D,Dairy,East,5,21,2023,Available,NONE,0,0
+16D,Dairy,East,5,23,2023,Available,NONE,0,0
+16D,Dairy,East,5,25,2023,Available,TRES,0,0
+16D,Dairy,East,5,27,2023,Available,NONE,0,0
+16D,Dairy,East,5,29,2023,Available,NONE,0,0
+16D,Dairy,East,5,31,2023,Available,NONE,0,0
+16D,Dairy,East,6,2,2023,Available,NONE,0,0
+16D,Dairy,East,6,5,2023,Available,NONE,0,0
+16D,Dairy,East,6,7,2023,Medium,TRES,0,0
+16D,Dairy,East,6,9,2023,Medium,TRES,0,0
+16D,Dairy,East,6,12,2023,Eggs,TRES,3,0
+16D,Dairy,East,6,14,2023,Eggs,TRES,5,0
+16D,Dairy,East,6,16,2023,Eggs,TRES,5,0
+16D,Dairy,East,6,19,2023,Eggs,TRES,6,0
+16D,Dairy,East,6,21,2023,Failed,TRES,6,0
+16D,Dairy,East,6,23,2023,Available,NONE,0,0
+16D,Dairy,East,6,26,2023,Available,NONE,0,0
+16D,Dairy,East,6,28,2023,Available,NONE,0,0
+16D,Dairy,East,6,30,2023,Available,NONE,0,0
+16D,Dairy,East,7,3,2023,Available,NONE,0,0
+16D,Dairy,East,7,5,2023,Available,NONE,0,0
+16D,Dairy,East,7,7,2023,Available,NONE,0,0
+16D,Dairy,East,7,10,2023,Available,NONE,0,0
+16D,Dairy,East,7,12,2023,Available,NONE,0,0
+16D,Dairy,East,7,14,2023,Available,NONE,0,0
+16D,Dairy,East,7,17,2023,Available,NONE,0,0
+17D,Dairy,South,2,19,2023,Available ,NONE,0,0
+17D,Dairy,South,2,26,2023,Available ,NONE,0,0
+17D,Dairy,South,2,28,2023,Available ,NONE,0,0
+17D,Dairy,South,6,16,2023,Available,NONE,0,0
+17D,Dairy,South,6,19,2023,Available,NONE,0,0
+17D,Dairy,South,6,21,2023,Available,NONE,0,0
+17D,Dairy,South,6,23,2023,Available,NONE,0,0
+17D,Dairy,South,6,26,2023,Available,NONE,0,0
+17D,Dairy,South,6,28,2023,Available,NONE,0,0
+17D,Dairy,South,6,30,2023,Available,NONE,0,0
+17D,Dairy,South,7,3,2023,Available,NONE,0,0
+17D,Dairy,South,7,5,2023,Available,NONE,0,0
+17D,Dairy,South,7,7,2023,Available,NONE,0,0
+17D,Dairy,South,7,10,2023,Available,NONE,0,0
+17D,Dairy,South,7,12,2023,Available,NONE,0,0
+17D,Dairy,South,7,14,2023,Available,NONE,0,0
+17D,Dairy,South,7,17,2023,Available,NONE,0,0
+18D,Dairy,West,2,19,2023,Available ,NONE,0,0
+18D,Dairy,West,2,26,2023,Available ,NONE,0,0
+18D,Dairy,West,2,28,2023,Available ,NONE,0,0
+18D,Dairy,West,3,16,2023,Available ,NONE,0,0
+18D,Dairy,West,3,19,2023,Available ,NONE,0,0
+18D,Dairy,West,3,23,2023,Available ,NONE,0,0
+18D,Dairy,West,3,26,2023,Available ,NONE,0,0
+18D,Dairy,West,3,30,2023,Available ,NONE,0,0
+18D,Dairy,West,4,2,2023,Available ,NONE,0,0
+18D,Dairy,West,4,6,2023,Available ,NONE,0,0
+18D,Dairy,West,4,9,2023,Available,NONE,0,0
+18D,Dairy,West,4,13,2023,Start,TRES,0,0
+18D,Dairy,West,4,16,2023,Start,TRES,0,0
+18D,Dairy,West,4,20,2023,Medium,TRES,0,0
+18D,Dairy,West,4,23,2023,Medium,TRES,0,0
+18D,Dairy,West,4,27,2023,Medium,TRES,0,0
+18D,Dairy,West,4,29,2023,Medium,TRES,0,0
+18D,Dairy,West,5,4,2023,Medium,TRES,0,0
+18D,Dairy,West,5,7,2023,Eggs,TRES,1,0
+18D,Dairy,West,5,11,2023,Eggs,TRES,1,0
+18D,Dairy,West,5,14,2023,Eggs,TRES,1,0
+18D,Dairy,West,5,18,2023,Eggs,TRES,2,0
+18D,Dairy,West,5,19,2023,Eggs,TRES,2,0
+18D,Dairy,West,5,21,2023,Eggs,TRES,2,0
+18D,Dairy,West,5,23,2023,Failed,TRES,2,0
+18D,Dairy,West,5,25,2023,Available,NONE,0,0
+18D,Dairy,West,5,27,2023,Available,NONE,0,0
+18D,Dairy,West,5,29,2023,Available,NONE,0,0
+18D,Dairy,West,5,31,2023,Eggs,TRES,4,0
+18D,Dairy,West,6,2,2023,Eggs,TRES,4,0
+18D,Dairy,West,6,5,2023,Eggs,TRES,5,0
+18D,Dairy,West,6,7,2023,Eggs,TRES,5,0
+18D,Dairy,West,6,9,2023,Eggs,TRES,5,0
+18D,Dairy,West,6,12,2023,Eggs,TRES,3,0
+18D,Dairy,West,6,14,2023,Failed,TRES,2,0
+18D,Dairy,West,6,16,2023,Available,NONE,0,0
+18D,Dairy,West,6,19,2023,Available,NONE,0,0
+18D,Dairy,West,6,21,2023,Available,NONE,0,0
+18D,Dairy,West,6,23,2023,Available,NONE,0,0
+18D,Dairy,West,6,26,2023,Available,NONE,0,0
+18D,Dairy,West,6,28,2023,Available,NONE,0,0
+18D,Dairy,West,6,30,2023,Available,NONE,0,0
+18D,Dairy,West,7,3,2023,Available,NONE,0,0
+18D,Dairy,West,7,5,2023,Available,NONE,0,0
+18D,Dairy,West,7,7,2023,Available,NONE,0,0
+18D,Dairy,West,7,10,2023,Available,NONE,0,0
+18D,Dairy,West,7,12,2023,Available,NONE,0,0
+18D,Dairy,West,7,14,2023,Available,NONE,0,0
+18D,Dairy,West,7,17,2023,Available,NONE,0,0
+19D,Dairy,North,2,19,2023,Available ,NONE,0,0
+19D,Dairy,North,2,26,2023,Available ,NONE,0,0
+19D,Dairy,North,2,28,2023,Available ,NONE,0,0
+19D,Dairy,North,3,16,2023,Available ,NONE,0,0
+19D,Dairy,North,3,19,2023,Available ,NONE,0,0
+19D,Dairy,North,3,23,2023,Available ,NONE,0,0
+19D,Dairy,North,3,26,2023,Available ,NONE,0,0
+19D,Dairy,North,3,30,2023,Available ,NONE,0,0
+19D,Dairy,North,4,2,2023,Available ,NONE,0,0
+19D,Dairy,North,4,6,2023,Available ,NONE,0,0
+19D,Dairy,North,4,9,2023,Available ,NONE,0,0
+19D,Dairy,North,4,13,2023,Available ,NONE,0,0
+19D,Dairy,North,4,16,2023,Start,TRES,0,0
+19D,Dairy,North,4,20,2023,Medium,TRES,0,0
+19D,Dairy,North,4,23,2023,Medium,TRES,0,0
+19D,Dairy,North,4,27,2023,Complete,TRES,0,0
+19D,Dairy,North,4,29,2023,Complete,TRES,0,0
+19D,Dairy,North,5,4,2023,Eggs,TRES,1,0
+19D,Dairy,North,5,7,2023,Eggs,TRES,4,0
+19D,Dairy,North,5,11,2023,Eggs,TRES,6,0
+19D,Dairy,North,5,14,2023,Eggs,TRES,6,0
+19D,Dairy,North,5,18,2023,Eggs,TRES,6,0
+19D,Dairy,North,5,21,2023,Eggs,TRES,6,0
+19D,Dairy,North,5,23,2023,Failed,TRES,6,0
+19D,Dairy,North,5,25,2023,Available,NONE,5,0
+19D,Dairy,North,5,27,2023,Available,NONE,5,0
+19D,Dairy,North,5,29,2023,Available,NONE,5,0
+19D,Dairy,North,5,31,2023,Available,NONE,5,0
+19D,Dairy,North,6,2,2023,Available,NONE,5,0
+19D,Dairy,North,6,5,2023,Available,NONE,5,0
+19D,Dairy,North,6,7,2023,Available,NONE,5,0
+19D,Dairy,North,6,9,2023,Available,NONE,5,0
+19D,Dairy,North,6,12,2023,Available,NONE,5,0
+19D,Dairy,North,6,14,2023,Available,NONE,4,0
+19D,Dairy,North,6,16,2023,Available,NONE,4,0
+19D,Dairy,North,6,19,2023,Medium,TRES,4,0
+19D,Dairy,North,6,21,2023,Complete,TRES,0,0
+19D,Dairy,North,6,23,2023,Complete,TRES,0,0
+19D,Dairy,North,6,26,2023,Complete,TRES,0,0
+19D,Dairy,North,6,28,2023,Complete,TRES,0,0
+19D,Dairy,North,6,30,2023,Failed,TRES,0,0
+19D,Dairy,North,7,3,2023,Available,NONE,0,0
+19D,Dairy,North,7,5,2023,Available,NONE,0,0
+19D,Dairy,North,7,7,2023,Available,NONE,0,0
+19D,Dairy,North,7,10,2023,Available,NONE,0,0
+19D,Dairy,North,7,12,2023,Available,NONE,0,0
+19D,Dairy,North,7,14,2023,Available,NONE,0,0
+19D,Dairy,North,7,17,2023,Available,NONE,0,0
+20D,Dairy,East,2,19,2023,Available ,NONE,0,0
+20D,Dairy,East,2,26,2023,Available ,NONE,0,0
+20D,Dairy,East,2,28,2023,Available ,NONE,0,0
+20D,Dairy,East,3,16,2023,Available ,NONE,0,0
+20D,Dairy,East,3,19,2023,Available ,NONE,0,0
+20D,Dairy,East,3,23,2023,Available ,NONE,0,0
+20D,Dairy,East,3,26,2023,Available ,NONE,0,0
+20D,Dairy,East,3,30,2023,Available ,NONE,0,0
+20D,Dairy,East,4,2,2023,Available ,NONE,0,0
+20D,Dairy,East,4,6,2023,Available ,NONE,0,0
+20D,Dairy,East,4,9,2023,Start,TRES,0,0
+20D,Dairy,East,4,13,2023,Start,TRES,0,0
+20D,Dairy,East,4,16,2023,Start,TRES,0,0
+20D,Dairy,East,4,20,2023,Medium,TRES,0,0
+20D,Dairy,East,4,23,2023,Medium,TRES,0,0
+20D,Dairy,East,4,27,2023,Medium,TRES,0,0
+20D,Dairy,East,4,29,2023,Medium,TRES,0,0
+20D,Dairy,East,5,4,2023,Complete,TRES,0,0
+20D,Dairy,East,5,7,2023,Complete,TRES,0,0
+20D,Dairy,East,5,11,2023,Complete,TRES,0,0
+20D,Dairy,East,5,14,2023,Eggs,TRES,4,0
+20D,Dairy,East,5,18,2023,Eggs,TRES,5,0
+20D,Dairy,East,5,21,2023,Eggs,TRES,5,0
+20D,Dairy,East,5,23,2023,Eggs,TRES,5,0
+20D,Dairy,East,5,25,2023,Eggs,TRES,5,0
+20D,Dairy,East,5,27,2023,Eggs,TRES,5,0
+20D,Dairy,East,5,29,2023,Chicks,TRES,2,3
+20D,Dairy,East,5,31,2023,Chicks,TRES,1,4
+20D,Dairy,East,6,2,2023,Chicks,TRES,1,4
+20D,Dairy,East,6,5,2023,Chicks,TRES,1,4
+20D,Dairy,East,6,7,2023,Chicks,TRES,1,4
+20D,Dairy,East,6,9,2023,Fledged,TRES,0,0
+20D,Dairy,East,6,12,2023,Available,NONE,0,0
+20D,Dairy,East,6,14,2023,Available,NONE,0,0
+20D,Dairy,East,6,16,2023,Available,NONE,0,0
+20D,Dairy,East,6,19,2023,Available,NONE,0,0
+20D,Dairy,East,6,21,2023,Available,NONE,0,0
+20D,Dairy,East,6,23,2023,Available,NONE,0,0
+20D,Dairy,East,6,26,2023,Available,NONE,0,0
+20D,Dairy,East,6,28,2023,Available,NONE,0,0
+20D,Dairy,East,6,30,2023,Available,NONE,0,0
+20D,Dairy,East,7,3,2023,Available,NONE,0,0
+20D,Dairy,East,7,5,2023,Available,NONE,0,0
+20D,Dairy,East,7,7,2023,Available,NONE,0,0
+20D,Dairy,East,7,10,2023,Available,NONE,0,0
+20D,Dairy,East,7,12,2023,Available,NONE,0,0
+20D,Dairy,East,7,14,2023,Available,NONE,0,0
+20D,Dairy,East,7,17,2023,Available,NONE,0,0
+21D,Dairy,South,2,19,2023,Available ,NONE,0,0
+21D,Dairy,South,2,26,2023,Available ,NONE,0,0
+21D,Dairy,South,2,28,2023,Available ,NONE,0,0
+21D,Dairy,South,3,16,2023,Available ,NONE,0,0
+21D,Dairy,South,3,19,2023,Available ,NONE,0,0
+21D,Dairy,South,3,23,2023,Available ,NONE,0,0
+21D,Dairy,South,3,26,2023,Available ,NONE,0,0
+21D,Dairy,South,3,30,2023,Available ,NONE,0,0
+21D,Dairy,South,4,2,2023,Available ,NONE,0,0
+21D,Dairy,South,4,6,2023,Available ,NONE,0,0
+21D,Dairy,South,4,9,2023,Available ,NONE,0,0
+21D,Dairy,South,4,13,2023,Available ,NONE,0,0
+21D,Dairy,South,4,16,2023,Available ,NONE,0,0
+21D,Dairy,South,4,20,2023,Available ,NONE,0,0
+21D,Dairy,South,4,23,2023,Start,TRES,0,0
+21D,Dairy,South,4,27,2023,Medium,TRES,0,0
+21D,Dairy,South,4,29,2023,Medium,TRES,0,0
+21D,Dairy,South,5,4,2023,Medium,TRES,0,0
+21D,Dairy,South,5,7,2023,Complete,TRES,0,0
+21D,Dairy,South,5,11,2023,Eggs,TRES,1,0
+21D,Dairy,South,5,14,2023,Eggs,TRES,4,0
+21D,Dairy,South,5,18,2023,Eggs,TRES,5,0
+21D,Dairy,South,5,21,2023,Eggs,TRES,5,0
+21D,Dairy,South,5,23,2023,Failed,TRES,5,0
+21D,Dairy,South,5,25,2023,Available,NONE,0,0
+21D,Dairy,South,5,27,2023,Available,NONE,0,0
+21D,Dairy,South,5,29,2023,Available,NONE,0,0
+21D,Dairy,South,5,31,2023,Available,NONE,0,0
+21D,Dairy,South,6,2,2023,Available,NONE,0,0
+21D,Dairy,South,6,5,2023,Available,NONE,0,0
+21D,Dairy,South,6,7,2023,Available,NONE,0,0
+21D,Dairy,South,6,9,2023,Available,NONE,0,0
+21D,Dairy,South,6,12,2023,Available,NONE,0,0
+21D,Dairy,South,6,14,2023,Available,NONE,0,0
+21D,Dairy,South,6,16,2023,Available,NONE,0,0
+21D,Dairy,South,6,19,2023,Available,NONE,0,0
+21D,Dairy,South,6,21,2023,Available,NONE,0,0
+21D,Dairy,South,6,23,2023,Available,NONE,0,0
+21D,Dairy,South,6,26,2023,Available,NONE,0,0
+21D,Dairy,South,6,28,2023,Available,NONE,0,0
+21D,Dairy,South,6,30,2023,Available,NONE,0,0
+21D,Dairy,South,7,3,2023,Available,NONE,0,0
+21D,Dairy,South,7,5,2023,Available,NONE,0,0
+21D,Dairy,South,7,7,2023,Available,NONE,0,0
+22D,Dairy,West,2,19,2023,Available ,NONE,0,0
+22D,Dairy,West,2,26,2023,Available ,NONE,0,0
+22D,Dairy,West,2,28,2023,Available ,NONE,0,0
+22D,Dairy,West,3,16,2023,Available ,NONE,0,0
+22D,Dairy,West,3,19,2023,Available ,NONE,0,0
+22D,Dairy,West,3,23,2023,Available ,NONE,0,0
+22D,Dairy,West,3,26,2023,Available ,NONE,0,0
+22D,Dairy,West,3,30,2023,Available ,NONE,0,0
+22D,Dairy,West,4,2,2023,Available ,NONE,0,0
+22D,Dairy,West,5,23,2023,Available ,NONE,0,0
+22D,Dairy,West,5,25,2023,Available ,NONE,0,0
+22D,Dairy,West,5,27,2023,Available ,NONE,0,0
+22D,Dairy,West,5,29,2023,Medium,TRES,0,0
+22D,Dairy,West,5,31,2023,Eggs,TRES,1,0
+22D,Dairy,West,6,2,2023,Eggs,TRES,3,0
+22D,Dairy,West,6,5,2023,Eggs,TRES,5,0
+22D,Dairy,West,6,7,2023,Eggs,TRES,5,0
+22D,Dairy,West,6,9,2023,Eggs,TRES,5,0
+22D,Dairy,West,6,12,2023,Eggs,TRES,5,0
+22D,Dairy,West,6,14,2023,Failed,TRES,5,0
+22D,Dairy,West,6,16,2023,Available,NONE,0,0
+22D,Dairy,West,6,19,2023,Available,NONE,0,0
+22D,Dairy,West,6,21,2023,Available,NONE,0,0
+22D,Dairy,West,6,23,2023,Available,NONE,0,0
+22D,Dairy,West,6,26,2023,Available,NONE,0,0
+22D,Dairy,West,6,28,2023,Available,NONE,0,0
+22D,Dairy,West,6,30,2023,Available,NONE,0,0
+22D,Dairy,West,7,3,2023,Available,NONE,0,0
+22D,Dairy,West,7,5,2023,Available,NONE,0,0
+22D,Dairy,West,7,7,2023,Available,NONE,0,0
+22D,Dairy,West,7,10,2023,Available,NONE,0,0
+22D,Dairy,West,7,12,2023,Available,NONE,0,0
+22D,Dairy,West,7,14,2023,Available,NONE,0,0
+22D,Dairy,West,7,17,2023,Available,NONE,0,0
+23D,Dairy,North,2,19,2023,Available ,NONE,0,0
+23D,Dairy,North,2,26,2023,Available ,NONE,0,0
+23D,Dairy,North,2,28,2023,Available ,NONE,0,0
+23D,Dairy,North,3,16,2023,Available ,NONE,0,0
+23D,Dairy,North,3,19,2023,Available ,NONE,0,0
+23D,Dairy,North,3,23,2023,Available ,NONE,0,0
+23D,Dairy,North,3,26,2023,Available ,NONE,0,0
+23D,Dairy,North,3,30,2023,Available ,NONE,0,0
+23D,Dairy,North,4,2,2023,Available ,NONE,0,0
+23D,Dairy,North,4,6,2023,Start,TRES,0,0
+23D,Dairy,North,4,9,2023,Start,TRES,0,0
+23D,Dairy,North,4,13,2023,Start,TRES,0,0
+23D,Dairy,North,4,16,2023,Medium,TRES,0,0
+23D,Dairy,North,4,20,2023,Complete,TRES,0,0
+23D,Dairy,North,4,23,2023,Complete,TRES,0,0
+23D,Dairy,North,4,27,2023,Complete,TRES,0,0
+23D,Dairy,North,4,29,2023,Complete,TRES,0,0
+23D,Dairy,North,5,4,2023,Complete,TRES,0,0
+23D,Dairy,North,5,7,2023,Complete,TRES,0,0
+23D,Dairy,North,5,11,2023,Eggs,TRES,2,0
+23D,Dairy,North,5,14,2023,Eggs,TRES,5,0
+23D,Dairy,North,5,18,2023,Eggs,TRES,5,0
+23D,Dairy,North,5,21,2023,Failed,TRES,7,0
+23D,Dairy,North,5,23,2023,Failed,TRES,2,0
+23D,Dairy,North,5,25,2023,Available,NONE,0,0
+23D,Dairy,North,5,27,2023,Available,NONE,0,0
+23D,Dairy,North,5,29,2023,Available,NONE,0,0
+23D,Dairy,North,6,16,2023,Available,NONE,0,0
+23D,Dairy,North,7,3,2023,Available,NONE,0,0
+23D,Dairy,North,7,5,2023,Available,NONE,0,0
+23D,Dairy,North,7,7,2023,Available,NONE,0,0
+23D,Dairy,North,7,10,2023,Available,NONE,0,0
+23D,Dairy,North,7,12,2023,Available,NONE,0,0
+23D,Dairy,North,7,14,2023,Available,NONE,0,0
+23D,Dairy,North,7,17,2023,Available,NONE,0,0
+24D,Dairy,East,2,19,2023,Available ,NONE,0,0
+24D,Dairy,East,2,26,2023,Available ,NONE,0,0
+24D,Dairy,East,2,28,2023,Available ,NONE,0,0
+24D,Dairy,East,3,16,2023,Available ,NONE,0,0
+24D,Dairy,East,3,19,2023,Available ,NONE,0,0
+24D,Dairy,East,3,23,2023,Available ,NONE,0,0
+24D,Dairy,East,3,26,2023,Available ,NONE,0,0
+24D,Dairy,East,3,30,2023,Available ,NONE,0,0
+24D,Dairy,East,4,2,2023,Available ,NONE,0,0
+24D,Dairy,East,4,6,2023,Available ,NONE,0,0
+24D,Dairy,East,4,9,2023,Available ,NONE,0,0
+24D,Dairy,East,4,13,2023,Available ,NONE,0,0
+24D,Dairy,East,6,2,2023,Available,NONE,0,0
+24D,Dairy,East,6,5,2023,Available,NONE,0,0
+24D,Dairy,East,6,7,2023,Available,NONE,0,0
+24D,Dairy,East,6,9,2023,Available,NONE,0,0
+25D,Dairy,South,2,19,2023,Available ,NONE,0,0
+25D,Dairy,South,2,26,2023,Available ,NONE,0,0
+25D,Dairy,South,2,28,2023,Available ,NONE,0,0
+25D,Dairy,South,3,16,2023,Available ,NONE,0,0
+25D,Dairy,South,3,19,2023,Available ,NONE,0,0
+25D,Dairy,South,3,23,2023,Available ,NONE,0,0
+25D,Dairy,South,3,26,2023,Available ,NONE,0,0
+25D,Dairy,South,3,30,2023,Available ,NONE,0,0
+25D,Dairy,South,4,2,2023,Available ,NONE,0,0
+25D,Dairy,South,4,6,2023,Available ,NONE,0,0
+25D,Dairy,South,4,9,2023,Available ,NONE,0,0
+25D,Dairy,South,4,13,2023,Available ,NONE,0,0
+25D,Dairy,South,4,16,2023,Start,TRES,0,0
+25D,Dairy,South,4,20,2023,Start,TRES,0,0
+25D,Dairy,South,4,23,2023,Medium,TRES,0,0
+25D,Dairy,South,4,27,2023,Medium,TRES,0,0
+25D,Dairy,South,4,29,2023,Medium,TRES,0,0
+25D,Dairy,South,5,4,2023,Complete,TRES,0,0
+25D,Dairy,South,5,7,2023,Eggs,TRES,1,0
+25D,Dairy,South,5,11,2023,Eggs,TRES,1,0
+25D,Dairy,South,5,14,2023,Eggs,TRES,1,0
+25D,Dairy,South,5,18,2023,Failed,TRES,1,0
+25D,Dairy,South,5,21,2023,Eggs,TRES,2,0
+25D,Dairy,South,5,23,2023,Eggs,TRES,2,0
+25D,Dairy,South,5,25,2023,Eggs,TRES,2,0
+25D,Dairy,South,5,27,2023,Eggs,TRES,2,0
+25D,Dairy,South,5,29,2023,Eggs,TRES,2,0
+25D,Dairy,South,5,31,2023,Eggs,TRES,2,0
+25D,Dairy,South,6,2,2023,Eggs,TRES,2,0
+25D,Dairy,South,6,5,2023,Eggs,TRES,2,0
+25D,Dairy,South,6,7,2023,Chicks,TRES,1,1
+25D,Dairy,South,6,9,2023,Chicks,TRES,1,1
+25D,Dairy,South,6,12,2023,Chicks,TRES,1,1
+25D,Dairy,South,6,14,2023,Failed,TRES,0,0
+25D,Dairy,South,6,16,2023,Available,TRES,0,0
+25D,Dairy,South,6,19,2023,Available,NONE,0,0
+25D,Dairy,South,6,21,2023,Available,NONE,0,0
+25D,Dairy,South,6,23,2023,Available,NONE,0,0
+25D,Dairy,South,6,26,2023,Available,NONE,0,0
+25D,Dairy,South,6,28,2023,Available,NONE,0,0
+25D,Dairy,South,6,30,2023,Available,NONE,0,0
+25D,Dairy,South,7,3,2023,Available,NONE,0,0
+25D,Dairy,South,7,5,2023,Available,NONE,0,0
+25D,Dairy,South,7,7,2023,Available,NONE,0,0
+25D,Dairy,South,7,10,2023,Available,NONE,0,0
+25D,Dairy,South,7,12,2023,Available,NONE,0,0
+25D,Dairy,South,7,14,2023,Available,NONE,0,0
+25D,Dairy,South,7,17,2023,Available,NONE,0,0
+26D,Dairy,West,2,19,2023,Available ,NONE,0,0
+26D,Dairy,West,2,26,2023,Available ,NONE,0,0
+26D,Dairy,West,2,28,2023,Available ,NONE,0,0
+26D,Dairy,West,3,16,2023,Available ,NONE,0,0
+26D,Dairy,West,3,19,2023,Available ,NONE,0,0
+26D,Dairy,West,3,23,2023,Available ,NONE,0,0
+26D,Dairy,West,3,26,2023,Available ,NONE,0,0
+26D,Dairy,West,3,30,2023,Available ,NONE,0,0
+26D,Dairy,West,4,2,2023,Available ,NONE,0,0
+26D,Dairy,West,4,6,2023,Available ,NONE,0,0
+26D,Dairy,West,4,9,2023,Available ,NONE,0,0
+26D,Dairy,West,4,13,2023,Available ,NONE,0,0
+26D,Dairy,West,4,16,2023,Available ,NONE,0,0
+26D,Dairy,West,4,20,2023,Available ,NONE,0,0
+26D,Dairy,West,4,23,2023,Available ,NONE,0,0
+26D,Dairy,West,4,27,2023,Available ,NONE,0,0
+26D,Dairy,West,4,29,2023,Available ,NONE,0,0
+26D,Dairy,West,5,4,2023,Available ,NONE,0,0
+26D,Dairy,West,5,7,2023,Available ,NONE,0,0
+26D,Dairy,West,5,11,2023,Complete,TRES,0,0
+26D,Dairy,West,5,14,2023,Complete,TRES,0,0
+26D,Dairy,West,5,18,2023,Eggs,TRES,2,0
+26D,Dairy,West,5,21,2023,Eggs,TRES,2,0
+26D,Dairy,West,5,23,2023,Eggs,TRES,2,0
+26D,Dairy,West,5,25,2023,Failed,TRES,3,0
+26D,Dairy,West,5,27,2023,Complete,TRES,0,0
+26D,Dairy,West,5,29,2023,Complete,TRES,0,0
+26D,Dairy,West,5,31,2023,Complete,TRES,0,0
+26D,Dairy,West,6,2,2023,Eggs,TRES,1,0
+26D,Dairy,West,6,5,2023,Eggs,TRES,4,0
+26D,Dairy,West,6,7,2023,Eggs,TRES,4,0
+26D,Dairy,West,6,9,2023,Eggs,TRES,4,0
+26D,Dairy,West,6,12,2023,Eggs,TRES,4,0
+26D,Dairy,West,6,14,2023,Eggs,TRES,4,0
+26D,Dairy,West,6,16,2023,Eggs,TRES,4,0
+26D,Dairy,West,6,19,2023,Eggs,TRES,4,0
+26D,Dairy,West,6,21,2023,Chicks,TRES,1,3
+26D,Dairy,West,6,23,2023,Chicks,TRES,1,3
+26D,Dairy,West,6,26,2023,Chicks,TRES,1,3
+26D,Dairy,West,6,28,2023,Chicks,TRES,1,3
+26D,Dairy,West,6,30,2023,Fledged,TRES,1,2
+26D,Dairy,West,7,3,2023,Chicks,TRES,1,2
+26D,Dairy,West,7,5,2023,Fledged,TRES,0,0
+26D,Dairy,West,7,7,2023,Available,NONE,0,0
+26D,Dairy,West,7,10,2023,Available,NONE,0,0
+26D,Dairy,West,7,12,2023,Available,NONE,0,0
+26D,Dairy,West,7,14,2023,Available,NONE,0,0
+26D,Dairy,West,7,17,2023,Available,NONE,0,0
+27D,Dairy,North,2,19,2023,Available ,NONE,0,0
+27D,Dairy,North,2,26,2023,Available ,NONE,0,0
+27D,Dairy,North,2,28,2023,Available ,NONE,0,0
+27D,Dairy,North,3,16,2023,Available ,NONE,0,0
+27D,Dairy,North,3,19,2023,Available ,NONE,0,0
+27D,Dairy,North,3,23,2023,Available ,NONE,0,0
+27D,Dairy,North,3,26,2023,Available ,NONE,0,0
+27D,Dairy,North,3,30,2023,Available ,NONE,0,0
+27D,Dairy,North,4,2,2023,Available ,NONE,0,0
+27D,Dairy,North,4,6,2023,Available ,NONE,0,0
+27D,Dairy,North,4,9,2023,Available ,NONE,0,0
+27D,Dairy,North,4,13,2023,Available ,NONE,0,0
+27D,Dairy,North,4,16,2023,Available ,NONE,0,0
+27D,Dairy,North,4,20,2023,Available ,NONE,0,0
+27D,Dairy,North,4,23,2023,Available ,NONE,0,0
+27D,Dairy,North,4,27,2023,Available ,NONE,0,0
+27D,Dairy,North,4,29,2023,Available ,NONE,0,0
+27D,Dairy,North,5,4,2023,Available ,NONE,0,0
+27D,Dairy,North,5,7,2023,Available ,NONE,0,0
+27D,Dairy,North,5,11,2023,Start,TRES,0,0
+27D,Dairy,North,5,14,2023,Medium,TRES,0,0
+27D,Dairy,North,5,18,2023,Complete,TRES,0,0
+27D,Dairy,North,5,21,2023,Eggs,TRES,2,0
+27D,Dairy,North,5,23,2023,Eggs,TRES,4,0
+27D,Dairy,North,5,25,2023,Eggs,TRES,4,0
+27D,Dairy,North,5,27,2023,Eggs,TRES,4,0
+27D,Dairy,North,5,29,2023,Eggs,TRES,4,0
+27D,Dairy,North,5,31,2023,Eggs,TRES,4,0
+27D,Dairy,North,6,2,2023,Eggs,TRES,4,0
+27D,Dairy,North,6,5,2023,Eggs,TRES,4,0
+27D,Dairy,North,6,7,2023,Chicks,TRES,0,4
+27D,Dairy,North,6,9,2023,Chicks,TRES,0,4
+27D,Dairy,North,6,12,2023,Chicks,TRES,0,1
+27D,Dairy,North,6,14,2023,Failed,TRES,0,0
+27D,Dairy,North,6,16,2023,Available,TRES,0,0
+27D,Dairy,North,6,19,2023,Available,NONE,0,0
+27D,Dairy,North,6,21,2023,Available,NONE,0,0
+28D,Dairy,East,2,19,2023,Available ,NONE,0,0
+28D,Dairy,East,2,26,2023,Available ,NONE,0,0
+28D,Dairy,East,2,28,2023,Available ,NONE,0,0
+28D,Dairy,East,3,16,2023,Start,TRES,0,0
+28D,Dairy,East,3,19,2023,Start,TRES,0,0
+28D,Dairy,East,3,23,2023,Start,TRES,0,0
+28D,Dairy,East,3,26,2023,Medium,TRES,0,0
+28D,Dairy,East,3,30,2023,Medium,TRES,0,0
+28D,Dairy,East,4,2,2023,Medium,TRES,0,0
+28D,Dairy,East,4,6,2023,Medium,TRES,0,0
+28D,Dairy,East,4,9,2023,Medium,TRES,0,0
+28D,Dairy,East,4,13,2023,Medium,TRES,0,0
+28D,Dairy,East,4,16,2023,Medium,TRES,0,0
+28D,Dairy,East,4,20,2023,Complete,TRES,0,0
+28D,Dairy,East,4,23,2023,Eggs,TRES,2,0
+28D,Dairy,East,4,27,2023,Eggs,TRES,5,0
+28D,Dairy,East,4,29,2023,Eggs,TRES,5,0
+28D,Dairy,East,5,4,2023,Eggs,TRES,5,0
+28D,Dairy,East,5,7,2023,Eggs,TRES,5,0
+28D,Dairy,East,5,11,2023,Eggs,TRES,5,0
+28D,Dairy,East,5,14,2023,Eggs,TRES,5,0
+28D,Dairy,East,5,18,2023,Chicks,TRES,4,1
+28D,Dairy,East,5,21,2023,Fledged,TRES,0,0
+28D,Dairy,East,5,23,2023,Available ,NONE,0,0
+28D,Dairy,East,5,25,2023,Available ,NONE,0,0
+28D,Dairy,East,5,27,2023,Available ,NONE,0,0
+28D,Dairy,East,5,29,2023,Available ,NONE,0,0
+28D,Dairy,East,5,31,2023,Available ,NONE,0,0
+28D,Dairy,East,6,2,2023,Available ,NONE,0,0
+28D,Dairy,East,6,5,2023,Available ,NONE,0,0
+28D,Dairy,East,6,7,2023,Available ,NONE,0,0
+28D,Dairy,East,6,9,2023,Available ,NONE,0,0
+28D,Dairy,East,6,12,2023,Available ,NONE,0,0
+28D,Dairy,East,6,14,2023,Available ,NONE,0,0
+28D,Dairy,East,6,16,2023,Available ,NONE,0,0
+28D,Dairy,East,6,19,2023,Available ,NONE,0,0
+28D,Dairy,East,6,21,2023,Available ,NONE,0,0
+28D,Dairy,East,6,23,2023,Available ,NONE,0,0
+28D,Dairy,East,6,26,2023,Available ,NONE,0,0
+28D,Dairy,East,6,28,2023,Available ,NONE,0,0
+28D,Dairy,East,6,30,2023,Available ,NONE,0,0
+28D,Dairy,East,7,3,2023,Available ,NONE,0,0
+28D,Dairy,East,7,5,2023,Available ,NONE,0,0
+28D,Dairy,East,7,7,2023,Available ,NONE,0,0
+28D,Dairy,East,7,10,2023,Available ,NONE,0,0
+28D,Dairy,East,7,12,2023,Available ,NONE,0,0
+28D,Dairy,East,7,14,2023,Available ,NONE,0,0
+28D,Dairy,East,7,17,2023,Available ,NONE,0,0
+29D,Dairy,South,2,19,2023,Available ,NONE,0,0
+29D,Dairy,South,2,26,2023,Available ,NONE,0,0
+29D,Dairy,South,2,28,2023,Available ,NONE,0,0
+29D,Dairy,South,3,16,2023,Available ,NONE,0,0
+29D,Dairy,South,3,19,2023,Available ,NONE,0,0
+29D,Dairy,South,3,23,2023,Available ,NONE,0,0
+29D,Dairy,South,3,26,2023,Available ,NONE,0,0
+29D,Dairy,South,3,30,2023,Available ,NONE,0,0
+29D,Dairy,South,4,2,2023,Available ,NONE,0,0
+29D,Dairy,South,4,6,2023,Available ,NONE,0,0
+29D,Dairy,South,4,9,2023,Available ,NONE,0,0
+29D,Dairy,South,4,13,2023,Available ,NONE,0,0
+29D,Dairy,South,4,16,2023,Start,TRES,0,0
+29D,Dairy,South,4,20,2023,Medium,TRES,0,0
+29D,Dairy,South,4,23,2023,Medium,TRES,0,0
+29D,Dairy,South,4,27,2023,Complete,TRES,0,0
+29D,Dairy,South,4,29,2023,Eggs,TRES,1,0
+29D,Dairy,South,5,4,2023,Eggs,TRES,5,0
+29D,Dairy,South,5,7,2023,Failed,TRES,5,0
+29D,Dairy,South,5,11,2023,Complete,TRES,0,0
+29D,Dairy,South,5,14,2023,Eggs,TRES,1,0
+29D,Dairy,South,5,18,2023,Eggs,TRES,5,0
+29D,Dairy,South,5,21,2023,Eggs,TRES,5,0
+29D,Dairy,South,5,23,2023,Eggs,TRES,5,0
+29D,Dairy,South,5,25,2023,Eggs,TRES,5,0
+29D,Dairy,South,5,27,2023,Failed,TRES,5,0
+29D,Dairy,South,6,21,2023,Available,NONE,0,0
+29D,Dairy,South,6,23,2023,Available,NONE,0,0
+29D,Dairy,South,6,26,2023,Available,NONE,0,0
+29D,Dairy,South,6,28,2023,Available,NONE,0,0
+29D,Dairy,South,6,30,2023,Available,NONE,0,0
+29D,Dairy,South,7,3,2023,Available,NONE,0,0
+29D,Dairy,South,7,5,2023,Available,NONE,0,0
+29D,Dairy,South,7,7,2023,Available,NONE,0,0
+29D,Dairy,South,7,10,2023,Available,NONE,0,0
+29D,Dairy,South,7,12,2023,Available,NONE,0,0
+29D,Dairy,South,7,14,2023,Available,NONE,0,0
+29D,Dairy,South,7,17,2023,Available,NONE,0,0
