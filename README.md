@@ -1,25 +1,25 @@
-Geography and Nest Entrance Orientation Preference in Tree Swallows (Tachycineta bicolor) and Other Cavity-Nesting Birds
+# Geography and Nest Entrance Orientation Preference in Tree Swallows (*Tachycineta bicolor*) and Other Cavity-Nesting Birds
 
-Overview
+## Overview
 
 This repository contains the data and R code scripts necessary to analyze and respond to the first question of the project. This is, whether nest-box entrnace orientaion influences next-box occupancy, clutch size, and hatching success in Tree Swallows (Tachycineta bicolor).
 
 All statistical analyses are conducted in R and documented in an R Markdown workflow that generates a reproducible HTML report. Figures are generated in R and are subsequently refined in Microsoft PowerPoint for minor cosmetic adjustments.
 
-Study goals
+## Study goals
 
 - Evalute whether next-box occupancy vary among four entrance orientations (North, East, South, West)
 - Test whether clutch size is influenced by entrance orientation
 - Investigate whether hatching success is associated with nest-box entrance orientation
 
-Repository structure
+## Repository structure
 
 Data: Raw and processed dataset in .csv format
 Scripts: R scripts and R markdown documents
 Figures: Figures generated from the analysis
 Output Rendered HTML report
 
-Software
+## Software
 
 Analyses are performed in R using packages including:
 
@@ -31,14 +31,14 @@ Analyses are performed in R using packages including:
 - emmeans
 - DHARMa
 
-Reproducing the analyses
+## how to eun this analysis
 
 1. Clone this repository.
 2. Open NestBoxOrientationTRES.Rproj in RStudio.
 3. Install any required R packages.
 4. Knit Scripts/NestboxOrientationTRES.Rmd or run build_report.R to generate the HTML report.
 
-Authors
+## Authors
 
 Jared Gladbach
 Kamau Braxton-Hall
