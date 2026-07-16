@@ -6,6 +6,8 @@ This repository contains the data and R code scripts necessary to analyze and re
 
 All statistical analyses are conducted in R and documented in an R Markdown workflow that generates a reproducible HTML report. Figures are generated in R and are subsequently refined in Microsoft PowerPoint for minor cosmetic adjustments.
 
+Visit report url: https://camialfonsoaves.github.io/Tree-Swallows-Nest-box-Orientation/ 
+
 ## Study goals
 
 - Evalute whether next-box occupancy vary among four entrance orientations (North, East, South, West)
@@ -14,10 +16,10 @@ All statistical analyses are conducted in R and documented in an R Markdown work
 
 ## Repository structure
 
-Data: Raw and processed dataset in .csv format
-Scripts: R scripts and R markdown documents
-Figures: Figures generated from the analysis
-Output Rendered HTML report
+1. Data: Raw and processed dataset in .csv format
+2. Scripts: R scripts and R markdown documents
+3. Figures: Figures generated from the analysis
+4. docs: Rendered HTML report
 
 ## Software
 
@@ -40,9 +42,9 @@ Analyses are performed in R using packages including:
 
 ## Authors
 
-Jared Gladbach
-Kamau Braxton-Hall
-Mackenzie Alderson
-Camilo Alfonso
-Miguel Cesar Moreno-Palacios
-Ignacio T. Moore
+- Jared Gladbach
+- Kamau Braxton-Hall
+- Mackenzie Alderson
+- Camilo Alfonso
+- Miguel Cesar Moreno-Palacios
+- Ignacio T. Moore
