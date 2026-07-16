@@ -31,7 +31,7 @@ Analyses are performed in R using packages including:
 - emmeans
 - DHARMa
 
-## how to eun this analysis
+## How to run this analysis
 
 1. Clone this repository.
 2. Open NestBoxOrientationTRES.Rproj in RStudio.
