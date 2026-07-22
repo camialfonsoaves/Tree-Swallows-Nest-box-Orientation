@@ -93,6 +93,7 @@ tres2$status2 <- replace(tres2$status2,is.na(tres2$status2),0)
 A simple GAM describing seasonal occupancy was compared with a more complex model including nest orientation, locality, and random effects for nest box.
 
 ```{r, fit-gams}
+tres2$orientation <- relevel(tres2$orientation, ref = "North")
 GAM_TRES <- gam(status2 ~ s(doy, k=-1),
                 family = "binomial", 
                 data=tres2, 
